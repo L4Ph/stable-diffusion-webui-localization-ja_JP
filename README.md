@@ -1,18 +1,18 @@
 # stable-diffusionwebui-localization-ja_JP
 
 # これはなに
-日本語翻訳用の言語ファイル [AUTOMATIC111版Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
+日本語翻訳用の言語ファイルです。 [AUTOMATIC111版Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
 
 ## 日本語(Japanese)
 
 ## インストール方法
-### 1. 拡張機能のリポジトリのURLからインストール
+### 1. 拡張機能のリポジトリのURLからインストール(推奨)
 1. ` Extensions`タブをクリックし、`URL for extension's git repository`のテキストボックスに以下のURLをペーストします。
 ```
 https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ```
 2. `Install`をクリックします。
-3. `Installed into...`と表示されたら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/blob/main/README.md#利用方法)へ移動してください。
+3. `Installed into...`と表示されたら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/README.md#利用方法)へ移動してください。
 ![](./images/install-from-url.png)
 
 
@@ -21,7 +21,7 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 2. ダウンロードしたzipを`stable-diffusion-webui`以下の`extensions`に移動させます。
 ![](./images/local-install-dir.png)
 3. zipファイルを右クリックして、**すべて展開**します。
-4. 展開されたことが確認できたら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/blob/main/README.md#利用方法)へ移動してください。
+4. 展開されたことが確認できたら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/README.md#利用方法)へ移動してください。
 
 ### 3. ローカルでインストール(非推奨)
 **この手順はWeb UIからのアップデートができません。**  
@@ -31,7 +31,7 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ![](./images/save-json.png)
 3. 保存先は`stable-diffusion-webui`以下の`localizations`です。
 ![](./images/local-json-dir.png)
-4. 保存されたことを確認したら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/blob/main/README.md#利用方法)へ移動してください。
+4. 保存されたことを確認したら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/README.md#利用方法)へ移動してください。
 
 
 ## 利用方法
