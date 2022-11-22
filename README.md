@@ -12,7 +12,7 @@
 https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ```
 2. `Install`をクリックします。
-3. `Installed into...`と表示されたら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/README.md#利用方法)へ移動してください。
+3. `Installed into...`と表示されたら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP#利用方法)へ移動してください。
 ![](./images/install-from-url.png)
 
 
@@ -21,7 +21,7 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 2. ダウンロードしたzipを`stable-diffusion-webui`以下の`extensions`に移動させます。
 ![](./images/local-install-dir.png)
 3. zipファイルを右クリックして、**すべて展開**します。
-4. 展開されたことが確認できたら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/README.md#利用方法)へ移動してください。
+4. 展開されたことが確認できたら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP#利用方法)へ移動してください。
 
 ### 3. ローカルでインストール(非推奨)
 **この手順はWeb UIからのアップデートができません。**  
@@ -31,7 +31,7 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ![](./images/save-json.png)
 3. 保存先は`stable-diffusion-webui`以下の`localizations`です。
 ![](./images/local-json-dir.png)
-4. 保存されたことを確認したら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/README.md#利用方法)へ移動してください。
+4. 保存されたことを確認したら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP#利用方法)へ移動してください。
 
 
 ## 利用方法
@@ -46,3 +46,6 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ![](https://user-images.githubusercontent.com/60730393/202901412-26765c04-e69c-4beb-a56b-9e310ed273ca.png)
 2. ページ下部のオレンジ色のボタン(*Restart Gradio and Refresh components*)をクリックして、WebUIを再起動します。
 ![](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
+
+# 翻訳がおかしい
+気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues/new)やPull Recestを投げましょう
