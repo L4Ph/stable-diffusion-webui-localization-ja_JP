@@ -1,6 +1,6 @@
 # stable-diffusion-webui-日本語化
 # これはなに
-日本語訳用の言語ファイルです。 [AUTOMATIC111版Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
+日本語訳用の言語ファイルです。 [AUTOMATIC1111版Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
 
 ## 日本語(Japanese)
 
