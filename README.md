@@ -1,12 +1,27 @@
-# stable-diffusionwebui-localization-ja_JP
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
 
+# stable-diffusion-webui-日本語化
 # これはなに
-日本語翻訳用の言語ファイルです。 [AUTOMATIC111版Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
+日本語訳用の言語ファイルです。 [AUTOMATIC111版Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
 
 ## 日本語(Japanese)
 
 ## インストール方法
-### 1. 拡張機能のリポジトリのURLからインストール(推奨)
+
+### 1. 公式の拡張機能リストからインストール(最も推奨)
+1. `Extensions`タブをクリックし、`Available`をクリックします。
+2. `Extension index URL`が以下のURLであることを確認したら`Load From:`をクリックします。
+![](./images/official-extensions-list1.png)
+```
+https://raw.githubusercontent.com/wiki/AUTOMATIC1111/stable-diffusion-webui/Extensions-index.md
+```
+3. 読込まれたことが確認できたら、`Hide extensions with tags`を`localization`**以外**にチェックマークを付けます。(`localization`にはつけません)
+4. 各言語が出てきますので、`ja_JP Localization`の項目の`Install`をクリックします。
+![](./images/official-extensions-list2.png)
+5. `Installed into...`と表示されたら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP#利用方法)へ移動してください。
+
+
+### 2. 拡張機能のリポジトリのURLからインストール(推奨)
 1. ` Extensions`タブをクリックし、`URL for extension's git repository`のテキストボックスに以下のURLをペーストします。
 ```
 https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
@@ -16,14 +31,14 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ![](./images/install-from-url.png)
 
 
-### 2. ローカルでインストール(推奨)
+### 3. ローカルでインストール(推奨)
 1. [zipファイル](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/archive/refs/heads/main.zip)をダウンロードします。
 2. ダウンロードしたzipを`stable-diffusion-webui`以下の`extensions`に移動させます。
 ![](./images/local-install-dir.png)
 3. zipファイルを右クリックして、**すべて展開**します。
 4. 展開されたことが確認できたら、[利用方法](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP#利用方法)へ移動してください。
 
-### 3. ローカルでインストール(非推奨)
+### 4. ローカルでインストール(非推奨)
 **この手順はWeb UIからのアップデートができません。**  
 **また、この手順はアップデートにて廃止される可能性があるためご注意ください。**
 1. [jsonファイル](https://raw.githubusercontent.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/main/localizations/ja_JP.json)にアクセスする。
@@ -47,6 +62,7 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 2. ページ下部のオレンジ色のボタン(*Restart Gradio and Refresh components*)をクリックして、WebUIを再起動します。
 ![](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
 
-# 翻訳がおかしい
-気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues/new)やPull Requestを投げましょう
-
+## 翻訳がおかしい/翻訳を手伝う
+### ありがとうございます!
+気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues/new)やPull Requestを投げましょう!  
+分からないことがあれば気軽[にDisscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)でメンションをしてください。
