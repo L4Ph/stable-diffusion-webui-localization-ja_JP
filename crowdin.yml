@@ -1,0 +1,3 @@
+files:
+  - source: /template/template.json
+    translation: /localizations/%language%.json
