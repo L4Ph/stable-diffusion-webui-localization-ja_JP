@@ -852,7 +852,6 @@
     "Show generation progress in window title.": "ウィンドウのタイトルで生成の進捗を表示",
     "Quicksettings list": "クイック設定",
     "Localization (requires restart)": "言語 (プログラムの再起動が必要)",
-    "jatest": "jatest",
     "ja_JP": "ja_JP",
     "Sampler parameters": "サンプラーのパラメータ",
     "Hide samplers in user interface (requires restart)": "使わないサンプリングアルゴリズムを隠す (再起動が必要)",

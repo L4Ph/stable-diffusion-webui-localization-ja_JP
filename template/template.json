@@ -852,7 +852,6 @@
     "Show generation progress in window title.": "Show generation progress in window title.",
     "Quicksettings list": "Quicksettings list",
     "Localization (requires restart)": "Localization (requires restart)",
-    "jatest": "jatest",
     "Sampler parameters": "Sampler parameters",
     "Hide samplers in user interface (requires restart)": "Hide samplers in user interface (requires restart)",
     "eta (noise multiplier) for DDIM": "eta (noise multiplier) for DDIM",
