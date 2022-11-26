@@ -490,5 +490,5 @@
     "List of setting names, separated by commas, for settings that should go to the quick access bar at the top, rather than the usual setting tab. See modules/shared.py for setting names. Requires restarting to apply.": "List of setting names, separated by commas, for settings that should go to the quick access bar at the top, rather than the usual setting tab. See modules/shared.py for setting names. Requires restarting to apply.",
     "If this values is non-zero, it will be added to seed and used to initialize RNG for noises when using samplers with Eta. You can use this to produce even more variation of images, or you can use this to match images of other software if you know what you are doing.": "If this values is non-zero, it will be added to seed and used to initialize RNG for noises when using samplers with Eta. You can use this to produce even more variation of images, or you can use this to match images of other software if you know what you are doing.",
     "Leave empty for auto": "Leave empty for auto",
-    "__weui-commit": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/64c7b7975cedeb2aaa1a9c8eb4a479fc575843f8"
+    "__webui-commit": "https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/64c7b7975cedeb2aaa1a9c8eb4a479fc575843f8"
 }
