@@ -1,8 +1,5 @@
-# stable-diffusion-webui-日本語化
 # これはなに
 日本語訳用の言語ファイルです。 [AUTOMATIC1111版Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
-
-## 日本語(Japanese)
 
 ## インストール方法
 
@@ -61,6 +58,6 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ![](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
 
 ## 翻訳がおかしい/翻訳を手伝う
-### [Crowdin](https://crwd.in/stable-diffusion-webui-localization-ja_JP)から翻訳ができます!
+### [Crowdin](https://crwd.in/stable-diffusion-webui-localization-ja_JP)から翻訳ができます! [![Crowdin](https://badges.crowdin.net/stable-diffusion-webui-localization-ja_JP/localized.svg)](https://crowdin.com/project/stable-diffusion-webui-localization-ja_JP)
 気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues/new)を投げましょう!  
 分からないことがあれば[Disscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)へどうぞ!
