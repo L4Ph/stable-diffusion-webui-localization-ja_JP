@@ -478,7 +478,7 @@
     "User guide for v0.5 docs.google.com/document/d/1pEobUknMFMkn8F5TMsv8qRzamXX_75BShMMXV8IFslI/edit": "User guide for v0.5 docs.google.com/document/d/1pEobUknMFMkn8F5TMsv8qRzamXX_75BShMMXV8IFslI/edit",
     "Math keyframing explanation docs.google.com/document/d/1pfW1PwbDIuW0cv-dnuyYj1UzPqe23BlSLTJsqazffXM/edit?usp=sharing": "Math keyframing explanation docs.google.com/document/d/1pfW1PwbDIuW0cv-dnuyYj1UzPqe23BlSLTJsqazffXM/edit?usp=sharing",
     "Keyframes": "Keyframes",
-    "Prompts": "Prompts",
+    "Prompts": "プロンプト",
     "Init": "Init",
     "Video output": "Video output",
     "Run settings": "Run settings",
@@ -1010,5 +1010,5 @@
     "If this values is non-zero, it will be added to seed and used to initialize RNG for noises when using samplers with Eta. You can use this to produce even more variation of images, or you can use this to match images of other software if you know what you are doing.": "この値が0以外の場合、シードに追加され、Etaでサンプラーを使用する際のノイズ用の乱数生成器を初期化するのに使用されます。これを利用して、さらにバリエーション豊かな画像を作成したり、他のソフトの画像に合わせたりすることができます。",
     "Leave empty for auto": "空欄で自動",
     "NAIConvert": "NAIConvert",
-    "History": "History"
+    "History": "履歴"
 }
