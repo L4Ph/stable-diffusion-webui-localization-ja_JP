@@ -185,7 +185,7 @@
     "Interrogate\nCLIP": "Interrogate\nCLIP",
     "Interrogate\nDeepBooru": "Interrogate\nDeepBooru",
     "Inpaint": "レタッチ(Inpaint)",
-    "Batch img2img": "Batch img2img",
+    "Batch img2img": "バッチ処理(img2img)",
     "Image for img2img": "Image for img2img",
     "ここに画像をドロップ": "ここに画像をドロップ",
     "Image for inpainting with mask": "Image for inpainting with mask",
