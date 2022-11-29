@@ -875,7 +875,7 @@
     "Add a second progress bar to the console that shows progress for an entire job.": "ジョブ全体の進捗をコンソールに表示する2つ目のプログレスバーを追加する",
     "Training": "学習",
     "Move VAE and CLIP to RAM when training if possible. Saves VRAM.": "hypernetworkの学習をする際、VAEとCLIPをRAMへ退避。VRAMが節約できます。",
-    "Turn on pin_memory for DataLoader. Makes training slightly faster but can increase memory usage.": "Turn on pin_memory for DataLoader. Makes training slightly faster but can increase memory usage.",
+    "Shuffleing tags by ',' when create texts.": "テキスト生成時にタグを','でシャッフルする。",
     "Saves Optimizer state as separate *.optim file. Training can be resumed with HN itself and matching optim file.": "Saves Optimizer state as separate *.optim file. Training can be resumed with HN itself and matching optim file.",
     "Filename word regex": "ファイル名の正規表現(学習用)",
     "Filename join string": "ファイル名の結合子",
