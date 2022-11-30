@@ -89,7 +89,7 @@
     "Aesthetic steps": "Aesthetic ステップ数",
     "Aesthetic learning rate": "Aesthetic 学習率",
     "Slerp interpolation": "スループ補間",
-    "Aesthetic imgs embedding": "使用するAesthetic Embedding",
+    "Aesthetic imgs embedding": "Aesthetic Embeddingを使用する",
     "Aesthetic text for imgs": "Aesthetic text for imgs",
     "Slerp angle": "スラープ角度",
     "Is negative text": "ネガティブテキスト",
