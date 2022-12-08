@@ -968,7 +968,7 @@
     "hash": "hash",
     "Save tags (Windows only)": "タグに保存(Windowsのみ)",
     "Save category (Windows only)": "Save category (Windows only)",
-    "Save generation params text": "生成パラメータのテキストに保存",
+    "Save generation params text": "生成パラメータをテキストに保存",
     "Force CPU (Requires Custom Script Reload)": "CPUの使用を強制する (カスタムスクリプトの再読み込みが必要)",
     "Maximum number of samples, used to determine which folders to skip when continue running the create script": "Maximum number of samples, used to determine which folders to skip when continue running the create script",
     "Wildcards": "Wildcards",
