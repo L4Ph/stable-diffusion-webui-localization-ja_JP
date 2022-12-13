@@ -1,5 +1,6 @@
-# これはなに
-日本語訳用の言語ファイルです。 [AUTOMATIC1111版Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
+# Stable Diffusion Web
+日本語訳用の言語ファイルです。 [AUTOMATIC1111版Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
+
 
 ## インストール方法
 
