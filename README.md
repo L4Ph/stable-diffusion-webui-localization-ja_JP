@@ -1,4 +1,6 @@
 # SD web UI 日本語化プロジェクト
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FKatsuyuki-Karasawa%2Fstable-diffusion-webui-localization-ja_JP%2Fmain%2Fshields_endpoint.json)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/085427de0efc9e9e7a6e9a5aebc6b5a69f0365e7)
+[![Crowdin](https://badges.crowdin.net/stable-diffusion-webui-localization-ja_JP/localized.svg)](https://crowdin.com/project/stable-diffusion-webui-localization-ja_JP)
 
 ## これはなに
 日本語訳用の言語ファイルです。 [AUTOMATIC1111版Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
@@ -60,7 +62,6 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ![](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
 
 ## 翻訳がおかしい/翻訳を手伝う
-### [Crowdin](https://crwd.in/stable-diffusion-webui-localization-ja_JP)から翻訳ができます! [![Crowdin](https://badges.crowdin.net/stable-diffusion-webui-localization-ja_JP/localized.svg)](https://crowdin.com/project/stable-diffusion-webui-localization-ja_JP)
+### [Crowdin](https://crwd.in/stable-diffusion-webui-localization-ja_JP)から翻訳ができます!
 気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues)を投げましょう!  
 分からないことがあれば[Disscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)へどうぞ!  
-![https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/685f9631b56ff8bd43bce24ff5ce0f9a0e9af490](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FKatsuyuki-Karasawa%2Fstable-diffusion-webui-localization-ja_JP%2Fmain%2Fshields_endpoint.json)
