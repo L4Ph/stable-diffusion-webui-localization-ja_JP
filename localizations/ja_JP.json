@@ -1415,7 +1415,7 @@
     "When using [filewords], this is the subject to use when building prompts.": "識別子(sks、xyz) [filewords]を使用の場合は主題を生成するときのプロンプトになります",
     "When using [filewords], this is the class to use when building prompts.": "識別子sksが示す主題が人の場合 human/man/woman [filewords]を使用する場合はそのクラスを生成するときのプロンプトになります",
     "Optionally use [filewords] to read image captions from files.": "[filewords]を使用して既存のタグとトークンを挿入または結合します。",
-    "Leave blank to use instance prompt. Optionally use [filewords] to base sample captions on instance images.": "インスタンス プロンプトを使用するには、空白のままにします。必要に応じて [filewords] を使用して、インスタンス イメージに基づくサンプル キャプションを作成します。",
+    "Leave blank to use instance prompt. Optionally use [filewords] to base sample captions on instance images.": "サンプル生成用プロンプト。インスタンス､クラストークンが先頭に結合されて生成される｡[filewords]を入力するばあいその先頭にインスタン､クラストークンが結合される",
     "Enter the path to a txt file containing sample prompts.": "サンプル プロンプトを含む txt ファイルへのパスを入力.",
     "Enter a model name for saving checkpoints and lora models.": "保存するckpt､loraモデルの名前を入力",
     "Subject class to crop (leave blank to auto-detect)": "クロップするサブジェクトクラス (空欄で自動処理)",
