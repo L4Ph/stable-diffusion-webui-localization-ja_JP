@@ -1,3 +1,3 @@
 files:
-  - source: /template/zh-CN.json
+  - source: /template/zh_CN.json
     translation: /localizations/%language%.json
