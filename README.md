@@ -65,3 +65,8 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ### [Crowdin](https://crwd.in/stable-diffusion-webui-localization-ja_JP)から翻訳ができます!
 気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues)を投げましょう!  
 分からないことがあれば[Disscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)へどうぞ!  
+
+
+# Special Thanks
+## Thanks dtlnor & zh-CN Translation Contributers  
+[![](https://github.com/dtlnor.png)](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN)
