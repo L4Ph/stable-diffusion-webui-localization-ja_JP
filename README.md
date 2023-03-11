@@ -5,6 +5,9 @@
 ## これはなに
 日本語訳用の言語ファイルです。 [AUTOMATIC1111版Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
 
+また、2カ国語の同時表示を可能にする[Bilingual Localization](https://github.com/Katsuyuki-Karasawa/sd-webui-bilingual-localization/blob/main/README_JA.md)拡張機能との併用を推奨します。  
+この拡張機能を使えば、日本語環境での利用だけでなく、英語での情報収集も容易になります。
+
 ## インストール方法
 
 ### 1. 公式の拡張機能リストからインストール(最も推奨)
