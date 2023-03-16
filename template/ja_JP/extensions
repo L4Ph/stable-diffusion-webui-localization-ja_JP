@@ -1,15 +1,6 @@
 {
-  "OpenPose Editor": "OpenPose Editor",
-  "width": "width",
-  "height": "height",
-  "Add": "Add",
-  "Reset": "Reset",
-  "Load from JSON": "Load from JSON",
-  "Detect from image": "Detect from image",
-  "Add Background image": "Add Background image",
-  "json": "json",
-  "Save JSON": "Save JSON",
-  "Save PNG": "Save PNG",
-  "Send to": "Send to",
-  "openpose-editor": "openpose-editor"
+    "Enable pixelization": "Enable pixelization",
+    "Keep resolution": "Keep resolution",
+    "Pixel size": "Pixel size",
+    "stable-diffusion-webui-pixelization": "stable-diffusion-webui-pixelization"
 }
