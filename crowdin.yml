@@ -1,6 +1,4 @@
 files:
-  - source: /template/template.json
-    translation: /localizations/%language%.json
   - source: /template/*.json
     translation: /template/%language%/*.json
   - source: /template/extensions/*.json
