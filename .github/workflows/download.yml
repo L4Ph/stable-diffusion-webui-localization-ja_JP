@@ -1,9 +1,7 @@
-name: Download and push localization files
+name: Download and push sd-webui-bilingual-localization
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 15 * *"
 
 jobs:
   download_and_push:
@@ -29,8 +27,8 @@ jobs:
 
     - name: Configure git
       run: |
-        git config --global user.name "Your Name"
-        git config --global user.email "your-email@example.com"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
 
     - name: Commit changes
       run: |

@@ -1,5 +1,4 @@
 # SD web UI 日本語化プロジェクト
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FKatsuyuki-Karasawa%2Fstable-diffusion-webui-localization-ja_JP%2Fmain%2Fshields_endpoint.json)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/085427de0efc9e9e7a6e9a5aebc6b5a69f0365e7)
 [![Crowdin](https://badges.crowdin.net/stable-diffusion-webui-localization-ja_JP/localized.svg)](https://crowdin.com/project/stable-diffusion-webui-localization-ja_JP)
 
 ## これはなに
@@ -68,3 +67,6 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ### [Crowdin](https://crwd.in/stable-diffusion-webui-localization-ja_JP)から翻訳ができます!
 気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues)を投げましょう!  
 分からないことがあれば[Disscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)へどうぞ!  
+
+# Thanks
+[stable-diffusion-webui-localization-zh_TW](https://github.com/benlisquare/stable-diffusion-webui-localization-zh_TW)

@@ -1,7 +1,7 @@
 name: Download and push folder to repository
 on:
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '0 0 * * *'
     
 jobs:
   download_and_push:
@@ -13,12 +13,16 @@ jobs:
     - name: Download folder from external repository
       run: |
         mkdir -p temp/source
-        curl -sSL https://github.com/benlisquare/stable-diffusion-webui-localization-zh_TW/archive/refs/heads/main.tar.gz | tar -xz --strip-components=3 -C temp/source stable-diffusion-webui-localization-zh_TW-main/json/source
-    
+        curl -sSL https://github.com/benlisquare/stable-diffusion-webui-localization-zh_TW/archive/refs/heads/main.tar.gz | tar -xz --strip-components=3 -C temp/source stable-diffusion-webui-localization-zh_TW-main/json/source --exclude='./tooltips'
+        
     - name: Copy and overwrite files
       run: |
         mkdir -p template
         cp -rf temp/source/* template
+
+    - name: Download Merger.py
+      run: |
+        curl https://raw.githubusercontent.com/benlisquare/stable-diffusion-webui-localization-zh_TW/main/json/Merger.py -o ./tools/Merger.py
 
     - name: Configure git
       run: |
