@@ -1,7 +1,3 @@
 files:
-  - source: /template/*.json
-    translation: /template/%language%/%original_file_name%
-  - source: /template/extensions/*.json
-    translation: /template/%language%/extensions/%original_file_name%
-  - source: /template/extensions/tooltips/*.json
-    translation: /template/%language%/extensions/tooltips/%original_file_name%
+  - source: /template/**/**
+    translation: /template/%language%/**/%original_file_name%
