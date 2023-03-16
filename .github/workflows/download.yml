@@ -1,0 +1,44 @@
+name: Download and push localization files
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 15 * *"
+
+jobs:
+  download_and_push:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout source repository
+      uses: actions/checkout@v2
+      with:
+        repository: journey-ad/sd-webui-bilingual-localization
+        ref: main
+        path: source
+
+    - name: Download JavaScript and Scripts folders
+      run: |
+        mkdir -p temp
+        cp -R source/javascript temp/
+        cp -R source/scripts temp/
+
+    - name: Copy and overwrite files to target repository
+      run: |
+        mkdir -p Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
+        cp -R temp/* Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/
+
+    - name: Configure git
+      run: |
+        git config --global user.name "Your Name"
+        git config --global user.email "your-email@example.com"
+
+    - name: Commit changes
+      run: |
+        git add Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
+        git commit -m "Update localization files"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
