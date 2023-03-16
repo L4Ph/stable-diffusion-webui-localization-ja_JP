@@ -1,5 +1,6 @@
 {
-    "novelai-2-local-prompt": "novelai-2-local-prompt",
-    "NAIConvert": "NAIConvert",
-    "History": "History"
+  "openOutpaint": "openOutpaint",
+  "Send to openOutpaint": "Send to openOutpaint",
+  "openOutpaint-webUI-extension": "openOutpaint-webUI-extension",
+  "Refresh openOutpaint": "Refresh openOutpaint"
 }
