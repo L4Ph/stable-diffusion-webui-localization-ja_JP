@@ -1,4 +1,5 @@
 {
-    "stable-diffusion-webui-wd14-tagger": "stable-diffusion-webui-wd14-tagger",
-    "url": "https://github.com/toriato/stable-diffusion-webui-wd14-tagger.git"
+    "Wildcards": "Wildcards",
+    "Use same seed for all images": "Use same seed for all images",
+    "stable-diffusion-webui-wildcards": "stable-diffusion-webui-wildcards"
 }
