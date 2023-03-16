@@ -1,7 +1,8 @@
 name: Download and push folder to repository
 on:
+  workflow_dispatch:
   push:
-    branches: [change-source]
+    branches: [main]
 jobs:
   download_and_push:
     runs-on: ubuntu-latest
@@ -37,4 +38,4 @@ jobs:
       uses: ad-m/github-push-action@v0.6.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: change-source
+        branch: main
