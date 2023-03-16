@@ -16,7 +16,7 @@ jobs:
           python-version: "3.10.6"
 
       - name: execute Merger.py
-        run: python 'json/Merger.py'
+        run: python './tools/Merger.py'
 
       - name: commit files
         run: |

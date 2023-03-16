@@ -4,8 +4,10 @@
 ## これはなに
 日本語訳用の言語ファイルです。 [AUTOMATIC1111版Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
 
-また、2カ国語の同時表示を可能にする[Bilingual Localization](https://github.com/Katsuyuki-Karasawa/sd-webui-bilingual-localization/blob/main/README_JA.md)拡張機能との併用を推奨します。  
-この拡張機能を使えば、日本語環境での利用だけでなく、英語での情報収集も容易になります。
+~~また、2カ国語の同時表示を可能にする[Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)拡張機能との併用を推奨します。  
+この拡張機能を使えば、日本語環境での利用だけでなく、英語での情報収集も容易になります。~~  
+**現在はこの拡張機能を標準で組み込んでいます**
+[使い方はコチラ](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)
 
 ## インストール方法
 
@@ -69,4 +71,8 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 分からないことがあれば[Disscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)へどうぞ!  
 
 # Thanks
-[stable-diffusion-webui-localization-zh_TW](https://github.com/benlisquare/stable-diffusion-webui-localization-zh_TW)
+- [stable-diffusion-webui-localization-zh_TW](https://github.com/benlisquare/stable-diffusion-webui-localization-zh_TW)
+    - 翻訳のソース(Translate Sources)
+
+- [sd-webui-bilingual-localization](https://github.com/journey-ad/sd-webui-bilingual-localization)
+    - バイリンガル対応拡張機能(bilingual localization extensions)
