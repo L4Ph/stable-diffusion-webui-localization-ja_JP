@@ -1,10 +1,4 @@
 {
-  "VRAM Estimator": "VRAM Estimator",
-  "Plot": "Plot",
-  "Max Image Size": "Max Image Size",
-  "Max Batch Count": "Max Batch Count",
-  "Run benchmark": "Run benchmark",
-  "Load results": "Load results",
-  "a1111-stable-diffusion-webui-vram-estimator": "a1111-stable-diffusion-webui-vram-estimator",
-  "https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator.git": "https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator.git"
+    "stable-diffusion-webui-wd14-tagger": "stable-diffusion-webui-wd14-tagger",
+    "url": "https://github.com/toriato/stable-diffusion-webui-wd14-tagger.git"
 }
