@@ -2,8 +2,7 @@ name: Download and push folder to repository
 on:
   schedule:
     - cron: '0 0,12 * * *'
-  push:
-    branches: [main]
+    
 jobs:
   download_and_push:
     runs-on: ubuntu-latest
