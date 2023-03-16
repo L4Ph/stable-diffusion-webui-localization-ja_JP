@@ -1,0 +1,41 @@
+name: Download and push folder to repository
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  download_and_push:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Install aria2c
+      run: sudo apt-get install -y aria2
+      
+    - name: Download folder from external repository
+      run: |
+        mkdir -p temp/source
+        aria2c -q -s 16 -x 16 -d temp/source https://github.com/benlisquare/stable-diffusion-webui-localization-zh_TW/archive/refs/heads/main.tar.gz
+        tar -xz --strip-components=3 -C temp/source -f temp/source/main.tar.gz stable-diffusion-webui-localization-zh_TW-main/json/source
+
+    - name: Copy and overwrite files
+      run: |
+        mkdir -p template
+        cp -rf temp/source/* template
+
+    - name: Configure git
+      run: |
+        git config --global user.name "github-actions[bot]@users.noreply.github.com"
+        git config --global user.email "github-actions[bot]"
+
+    - name: Commit changes
+      run: |
+        git add template
+        git commit -m "Update localization files"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
