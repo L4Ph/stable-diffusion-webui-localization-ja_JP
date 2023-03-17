@@ -1,0 +1,197 @@
+重複したkeyがあります: 
+
+"Dreambooth"
+"./template/ja_JP/extensions/Dreambooth.json" - "Dreambooth".
+
+"OpenPose Editor"
+"./template/ja_JP/extensions/OpenPose Editor.json" - "OpenPose Editor".
+
+"Aesthetic Image Scorer"
+"./template/ja_JP/extensions/Aesthetic Image Scorer.json" - "Aesthetic Image Scorer".
+
+"auto-sd-paint-ext"
+"./template/ja_JP/extensions/auto-sd-paint-ext.json" - "auto-sd-paint-ext".
+
+"DreamArtist"
+"./template/ja_JP/extensions/DreamArtist.json" - "DreamArtist".
+
+"Image"
+"./template/ja_JP/extensions/DreamArtist.json" - "Image".
+"./template/ja_JP/extensions/training-picker.json" - "Image".
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "Image".
+"./template/ja_JP/extensions/haku-img.json" - "Image".
+"./template/ja_JP/extensions/Image Browser.json" - "Image".
+
+"Process"
+"./template/ja_JP/extensions/training-picker.json" - "Process".
+
+"training-picker"
+"./template/ja_JP/extensions/training-picker.json" - "training-picker".
+
+"url"
+"./template/ja_JP/extensions/training-picker.json" - "https://github.com/Maurdekye/training-picker.git".
+"./template/ja_JP/extensions/Smart Process.json" - "https://github.com/d8ahazard/sd_smartprocess.git".
+
+"Linear"
+"./template/ja_JP/extensions/seed travel.json" - "Linear".
+
+"LLuL"
+"./template/ja_JP/extensions/LLUL.json" - "LLuL".
+
+"Unprompted"
+"./template/ja_JP/extensions/Unprompted.json" - "Unprompted".
+
+"Enabled"
+"./template/ja_JP/extensions/Unprompted.json" - "Enabled".
+"./template/ja_JP/extensions/Latent Couple.json" - "Enabled".
+
+"posex"
+"./template/ja_JP/extensions/posex.json" - "posex".
+
+"novelai-2-local-prompt"
+"./template/ja_JP/extensions/novelai-2-local-prompt.json" - "novelai-2-local-prompt".
+
+"Randomize"
+"./template/ja_JP/extensions/Randomize.json" - "Randomize".
+
+"Inspiration"
+"./template/ja_JP/extensions/Inspiration.json" - "Inspiration".
+
+"Wildcards"
+"./template/ja_JP/extensions/Wildcards.json" - "ワイルドカード".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "Wildcards".
+
+"Booru tag autocompletion"
+"./template/ja_JP/extensions/Booru tag autocompletion.json" - "Booru tag autocompletion".
+
+"Prompt template file"
+"./template/ja_JP/extensions/Hypernetwork-Monkeypatch-Extension.json" - "Prompt template file".
+
+"Deforum"
+"./template/ja_JP/extensions/Deforum.json" - "Deforum".
+
+"!"
+"./template/ja_JP/extensions/Deforum.json" - "!".
+
+"Prompts"
+"./template/ja_JP/extensions/Deforum.json" - "Prompts".
+
+"Output"
+"./template/ja_JP/extensions/Deforum.json" - "Output".
+"./template/ja_JP/extensions/Text2Prompt.json" - "Output".
+
+"The"
+"./template/ja_JP/extensions/Deforum.json" - "The".
+
+"/"
+"./template/ja_JP/extensions/Deforum.json" - "/".
+
+"Image path"
+"./template/ja_JP/extensions/Deforum.json" - "Image path".
+
+"Save Settings"
+"./template/ja_JP/extensions/Deforum.json" - "Save Settings".
+
+"Load Settings"
+"./template/ja_JP/extensions/Deforum.json" - "Load Settings".
+
+"Latent Mirroring"
+"./template/ja_JP/extensions/Latent Mirroring.json" - "Latent Mirroring".
+
+"Dynamic Prompts"
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "Dynamic Prompts".
+
+"Checkpoints"
+"./template/ja_JP/extensions/Model Previews.json" - "Checkpoints".
+
+"Model"
+"./template/ja_JP/extensions/Model Previews.json" - "Model".
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "Model".
+
+"Show generated images in ui"
+"./template/ja_JP/extensions/shift-attention.json" - "Show generated images in ui".
+
+"Save results as video"
+"./template/ja_JP/extensions/shift-attention.json" - "Save results as video".
+
+"Frames per second"
+"./template/ja_JP/extensions/shift-attention.json" - "Frames per second".
+
+"Number of frames for lead in/out"
+"./template/ja_JP/extensions/shift-attention.json" - "Number of frames for lead in/out".
+
+"Upscale ratio"
+"./template/ja_JP/extensions/shift-attention.json" - "Upscale ratio".
+
+"shift-attention"
+"./template/ja_JP/extensions/shift-attention.json" - "shift-attention".
+
+"Latent Couple"
+"./template/ja_JP/extensions/Latent Couple.json" - "Latent Couple".
+
+"Bilingual Localization"
+"./template/ja_JP/extensions/Bilingual Localization.json" - "Bilingual Localization".
+
+"Directories"
+"./template/ja_JP/extensions/Smart Process.json" - "Directories".
+
+"Cancel"
+"./template/ja_JP/extensions/Smart Process.json" - "Cancel".
+
+"Dataset Tag Editor"
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Dataset Tag Editor".
+
+"NONE"
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "NONE".
+
+"Number"
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Number".
+"./template/ja_JP/extensions/Image Browser.json" - "Number".
+
+"ControlNet"
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "ControlNet".
+
+"Enable"
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "Enable".
+
+"Weight"
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "Weight".
+
+"sd-webui-controlnet"
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "sd-webui-controlnet".
+
+"Video"
+"./template/ja_JP/extensions/Depth Maps.json" - "Video".
+
+"Blend"
+"./template/ja_JP/extensions/haku-img.json" - "Blend".
+
+"VRAM Estimator"
+"./template/ja_JP/extensions/VRAM Estimator.json" - "VRAM Estimator".
+
+"Sort by"
+"./template/ja_JP/extensions/Image Browser.json" - "Sort by".
+
+"aesthetic_score"
+"./template/ja_JP/extensions/Image Browser.json" - "aesthetic_score".
+
+"seed"
+"./template/ja_JP/extensions/Image Browser.json" - "seed".
+
+"sampler"
+"./template/ja_JP/extensions/Image Browser.json" - "sampler".
+
+"No"
+"./template/ja_JP/extensions/Image Browser.json" - "No".
+
+"All"
+"./template/ja_JP/extensions/Image Browser.json" - "All".
+
+"Checkbox"
+"./template/ja_JP/extensions/Image Browser.json" - "Checkbox".
+
+"Number of rows on the page"
+"./template/ja_JP/extensions/Image Browser.json" - "Number of rows on the page".
+
+"Minimum number of pages per load"
+"./template/ja_JP/extensions/Image Browser.json" - "Minimum number of pages per load".
