@@ -18,8 +18,8 @@
 "Image"
 "./template/ja_JP/extensions/DreamArtist.json" - "Image".
 "./template/ja_JP/extensions/training-picker.json" - "Image".
-"./template/ja_JP/extensions/sd-webui-controlnet.json" - "Image".
-"./template/ja_JP/extensions/haku-img.json" - "Image".
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "画像".
+"./template/ja_JP/extensions/haku-img.json" - "画像".
 "./template/ja_JP/extensions/Image Browser.json" - "Image".
 
 "Process"
@@ -164,7 +164,7 @@
 "./template/ja_JP/extensions/Depth Maps.json" - "Video".
 
 "Blend"
-"./template/ja_JP/extensions/haku-img.json" - "Blend".
+"./template/ja_JP/extensions/haku-img.json" - "合成".
 
 "VRAM Estimator"
 "./template/ja_JP/extensions/VRAM Estimator.json" - "VRAM Estimator".
