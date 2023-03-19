@@ -6,8 +6,8 @@ from crowdin_api import CrowdinClient
 # setup variables
 project_token = os.environ['crowdin_api_token']
 project_id = 552413
-stablediffusion_dir_id = 61
-extension_dir_id = 65
+stablediffusion_dir_id = 345
+extension_dir_id = 347
 
 # fetch all crowdin source files
 client = CrowdinClient(token=project_token)
