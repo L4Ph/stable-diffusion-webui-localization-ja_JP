@@ -4352,64 +4352,64 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Tokenizer.json" - "Ids for tokenization (example: 9061, 631, 736)".
 
 "Tag Autocomplete"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Tag Autocomplete".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "自動タグ補完".
 
 "Tag filename"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Tag filename".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "タグのファイル名".
 
 "Enable Tag Autocompletion"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Enable Tag Autocompletion".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "自動タグ補完を有効化".
 
 "Active in txt2img (Requires restart)"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Active in txt2img (Requires restart)".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "txt2imgで有効 (再起動が必要)".
 
 "Active in img2img (Requires restart)"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Active in img2img (Requires restart)".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "img2imgで有効 (再起動が必要)".
 
 "Active in negative prompts (Requires restart)"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Active in negative prompts (Requires restart)".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "ネガティブプロンプトで有効 (再起動が必要)".
 
 "Active in third party textboxes [Dataset Tag Editor] (Requires restart)"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Active in third party textboxes [Dataset Tag Editor] (Requires restart)".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "サードパーティー製のテキストボックスで有効 (再起動が必要)".
 
 "List of model names (with file extension) or their hashes to use as black/whitelist, separated by commas."
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "List of model names (with file extension) or their hashes to use as black/whitelist, separated by commas.".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "ブラックリストもしくはホワイトリストとして使用するモデル名(拡張子付き)もしくはハッシュ値のリスト(カンマ区切り)".
 
 "Mode to use for model list"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Mode to use for model list".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "モデルリストに使用するモード".
 
 "Blacklist"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Blacklist".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "ブラックリスト".
 
 "Whitelist"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Whitelist".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "ホワイトリスト".
 
 "Move completion popup together with text cursor"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Move completion popup together with text cursor".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "補完ポップアップをテキストカーソルと一緒に移動".
 
 "Maximum results"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Maximum results".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "表示されるタグの数".
 
 "Show all results"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Show all results".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "全てのタグを表示".
 
 "How many results to load at once"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "How many results to load at once".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "一度に読み込むタグの数".
 
 "Time in ms to wait before triggering completion again (Requires restart)"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Time in ms to wait before triggering completion again (Requires restart)".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "再び補完を作動させるまでの待機時間 (ミリ秒、再起動が必要)".
 
 "Search for wildcards"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Search for wildcards".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "ワイルドカードを検索".
 
 "Search for embeddings"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Search for embeddings".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Embeddings を検索".
 
 "Search for hypernetworks"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Search for hypernetworks".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "ハイパーネットワークを検索".
 
 "Search for Loras"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Search for Loras".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "LoRAを検索".
 
 "Show '?' next to tags, linking to its Danbooru or e621 wiki page (Warning: This is an external site and very likely contains NSFW examples!)"
 "./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Show '?' next to tags, linking to its Danbooru or e621 wiki page (Warning: This is an external site and very likely contains NSFW examples!)".
