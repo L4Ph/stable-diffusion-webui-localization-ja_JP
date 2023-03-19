@@ -9,9 +9,10 @@
 **現在はこの拡張機能を標準で組み込んでいます**
 [使い方はコチラ](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)
 
+## ローカライズの進捗
+
 
 # Getting Started
-
 ### 1. 公式の拡張機能リストからインストール(最も推奨)
 1. `Extensions`タブをクリックし、`Available`をクリックします。
 2. `Extension index URL`が以下のURLであることを確認したら`Load From:`をクリックします。
