@@ -68,16 +68,16 @@ with open('./README.md', 'r', encoding='utf-8') as file:
     readme_content = file.read()
 
 # extract contents without progress section
-start_index = readme_content.find('# i18n/l10nの進捗')
+start_index = readme_content.find('## ローカライズの進捗')
 end_index = readme_content.find('# Getting Started')
 top_content = readme_content[0:start_index]
 bottom_content = readme_content[end_index:len(readme_content)]
 
 # generating new progress content
-middle_content = '# i18n/l10n Progress\n\n<details>\n<summary>i18n/l10nの進捗(WebUI)</summary>\n\n'
+middle_content = '## ローカライズの進捗\n\n<details>\n<summary>WebUI</summary>\n\n'
 for string in crowndin(stablediffusion_files):
     middle_content += f"{string}\n"
-middle_content += '</details>\n\n<details>\n<summary>i18n/l10nの進捗(Extensions)</summary>\n\n'
+middle_content += '</details>\n\n<details>\n<summary>拡張機能</summary>\n\n'
 for string in crowndin(extension_files):
     middle_content += f"{string}\n"
 middle_content += '</details>\n\n'
