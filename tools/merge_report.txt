@@ -80,7 +80,7 @@
 
 "OpenPose Editor"
 "./template/ja_JP/extensions/OpenPose Editor.json" - "OpenPose Editor".
-"./template/ja_JP/extensions/openpose-editor.json" - "OpenPose Editor".
+"./template/ja_JP/extensions/openpose-editor.json" - "OpenPoseエディタ".
 
 "Aesthetic Image Scorer"
 "./template/ja_JP/extensions/Aesthetic Image Scorer.json" - "Aesthetic Image Scorer".
@@ -222,10 +222,12 @@
 "./template/ja_JP/extensions/LLUL.json" - "有効".
 "./template/ja_JP/extensions/Unprompted.json" - "Enabled".
 "./template/ja_JP/extensions/sd-webui-llul.json" - "Enabled".
+"./template/ja_JP/extensions/unprompted.json" - "Enabled".
 "./template/ja_JP/extensions/Latent Couple.json" - "Enabled".
 
 "Unprompted"
 "./template/ja_JP/extensions/Unprompted.json" - "Unprompted".
+"./template/ja_JP/extensions/unprompted.json" - "Unprompted".
 
 "posex"
 "./template/ja_JP/extensions/posex.json" - "posex".
@@ -365,7 +367,7 @@
 
 "Booru tag autocompletion"
 "./template/ja_JP/extensions/Booru tag autocompletion.json" - "Booru tag autocompletion".
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Booru tag autocompletion".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Booruタグの自動補完".
 
 "Enable pixelization"
 "./template/ja_JP/extensions/Pixelization.json" - "Enable pixelization".
@@ -657,7 +659,7 @@
 
 "Weight"
 "./template/ja_JP/extensions/sd-webui-llul.json" - "Weight".
-"./template/ja_JP/extensions/sd-webui-controlnet.json" - "Weight".
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "重み".
 
 "Force convert half to float on interpolation (for some platforms)"
 "./template/ja_JP/extensions/sd-webui-llul.json" - "Force convert half to float on interpolation (for some platforms)".
@@ -807,6 +809,623 @@
 "stable-diffusion-webui-conditioning-highres-fix"
 "./template/ja_JP/extensions/conditioning-highres-fix.json" - "stable-diffusion-webui-conditioning-highres-fix".
 
+"Unprompted Seed"
+"./template/ja_JP/extensions/unprompted.json" - "Unprompted Seed".
+
+"Functions"
+"./template/ja_JP/extensions/unprompted.json" - "Functions".
+
+"Select function:"
+"./template/ja_JP/extensions/unprompted.json" - "Select function:".
+
+"Options"
+"./template/ja_JP/extensions/unprompted.json" - "Options".
+
+"Example Function"
+"./template/ja_JP/extensions/unprompted.json" - "Example Function".
+
+"Enter a subject 🡢 subject"
+"./template/ja_JP/extensions/unprompted.json" - "Enter a subject 🡢 subject".
+
+"Add fluff terms? 🡢 use_fluff"
+"./template/ja_JP/extensions/unprompted.json" - "Add fluff terms? 🡢 use_fluff".
+
+"Auto-include this in prompt"
+"./template/ja_JP/extensions/unprompted.json" - "Auto-include this in prompt".
+
+"Generate Shortcode"
+"./template/ja_JP/extensions/unprompted.json" - "Generate Shortcode".
+
+"txt2img2img"
+"./template/ja_JP/extensions/unprompted.json" - "txt2img2img".
+
+"Subject A 🡢 subject_a"
+"./template/ja_JP/extensions/unprompted.json" - "Subject A 🡢 subject_a".
+
+"Subject B 🡢 subject_b"
+"./template/ja_JP/extensions/unprompted.json" - "Subject B 🡢 subject_b".
+
+"Shortcodes"
+"./template/ja_JP/extensions/unprompted.json" - "Shortcodes".
+
+"Select shortcode:"
+"./template/ja_JP/extensions/unprompted.json" - "Select shortcode:".
+
+"Content"
+"./template/ja_JP/extensions/unprompted.json" - "Content".
+
+"##: Houses a multiline comment that will not affect the final output."
+"./template/ja_JP/extensions/unprompted.json" - "##: Houses a multiline comment that will not affect the final output.".
+
+"#: Houses a comment that does not affect your final prompt."
+"./template/ja_JP/extensions/unprompted.json" - "#: Houses a comment that does not affect your final prompt.".
+
+"Comment 🡢 str"
+"./template/ja_JP/extensions/unprompted.json" - "Comment 🡢 str".
+
+"after: Processes arbitrary text following the main output."
+"./template/ja_JP/extensions/unprompted.json" - "after: Processes arbitrary text following the main output.".
+
+"Order compared to other [after] blocks 🡢 int"
+"./template/ja_JP/extensions/unprompted.json" - "Order compared to other [after] blocks 🡢 int".
+
+"antonyms: Replaces the content with one or more antonyms."
+"./template/ja_JP/extensions/unprompted.json" - "antonyms: Replaces the content with one or more antonyms.".
+
+"array: Manages a group or list of values."
+"./template/ja_JP/extensions/unprompted.json" - "array: Manages a group or list of values.".
+
+"Name of array variable 🡢 str"
+"./template/ja_JP/extensions/unprompted.json" - "Name of array variable 🡢 str".
+
+"Get or set index statements 🡢 verbatim"
+"./template/ja_JP/extensions/unprompted.json" - "Get or set index statements 🡢 verbatim".
+
+"Custom delimiter string 🡢 _delimiter"
+"./template/ja_JP/extensions/unprompted.json" - "Custom delimiter string 🡢 _delimiter".
+
+"Shuffle the array 🡢 _shuffle"
+"./template/ja_JP/extensions/unprompted.json" - "Shuffle the array 🡢 _shuffle".
+
+"Prepend value(s) to the array 🡢 _prepend"
+"./template/ja_JP/extensions/unprompted.json" - "Prepend value(s) to the array 🡢 _prepend".
+
+"Append value(s) to the array 🡢 _append"
+"./template/ja_JP/extensions/unprompted.json" - "Append value(s) to the array 🡢 _append".
+
+"Delete value(s) from the array by index 🡢 _del"
+"./template/ja_JP/extensions/unprompted.json" - "Delete value(s) from the array by index 🡢 _del".
+
+"Removed specified value(s) from the array 🡢 _remove"
+"./template/ja_JP/extensions/unprompted.json" - "Removed specified value(s) from the array 🡢 _remove".
+
+"Find the first index of the following value(s) 🡢 _find"
+"./template/ja_JP/extensions/unprompted.json" - "Find the first index of the following value(s) 🡢 _find".
+
+"article: Returns the content with prefixed with a definite or indefinite article."
+"./template/ja_JP/extensions/unprompted.json" - "article: Returns the content with prefixed with a definite or indefinite article.".
+
+"autocorrect: Attempts to correct the spelling of content."
+"./template/ja_JP/extensions/unprompted.json" - "autocorrect: Attempts to correct the spelling of content.".
+
+"case: Use within [switch] to run different logic blocks depending on the value of a var."
+"./template/ja_JP/extensions/unprompted.json" - "case: Use within [switch] to run different logic blocks depending on the value of a var.".
+
+"Matching value 🡢 str"
+"./template/ja_JP/extensions/unprompted.json" - "Matching value 🡢 str".
+
+"casing: Converts the casing of content."
+"./template/ja_JP/extensions/unprompted.json" - "casing: Converts the casing of content.".
+
+"Casing method 🡢 str"
+"./template/ja_JP/extensions/unprompted.json" - "Casing method 🡢 str".
+
+"camelcase"
+"./template/ja_JP/extensions/unprompted.json" - "camelcase".
+
+"uppercase"
+"./template/ja_JP/extensions/unprompted.json" - "uppercase".
+
+"lowercase"
+"./template/ja_JP/extensions/unprompted.json" - "lowercase".
+
+"pascalcase"
+"./template/ja_JP/extensions/unprompted.json" - "pascalcase".
+
+"snakecase"
+"./template/ja_JP/extensions/unprompted.json" - "snakecase".
+
+"constcase"
+"./template/ja_JP/extensions/unprompted.json" - "constcase".
+
+"kebabcase"
+"./template/ja_JP/extensions/unprompted.json" - "kebabcase".
+
+"upperkebabcase"
+"./template/ja_JP/extensions/unprompted.json" - "upperkebabcase".
+
+"separatorcase"
+"./template/ja_JP/extensions/unprompted.json" - "separatorcase".
+
+"sentencecase"
+"./template/ja_JP/extensions/unprompted.json" - "sentencecase".
+
+"titlecase"
+"./template/ja_JP/extensions/unprompted.json" - "titlecase".
+
+"alphanumcase"
+"./template/ja_JP/extensions/unprompted.json" - "alphanumcase".
+
+"chance: Returns the content if the number you passed is greater than or equal to a random number between 1 and 100."
+"./template/ja_JP/extensions/unprompted.json" - "chance: Returns the content if the number you passed is greater than or equal to a random number between 1 and 100.".
+
+"Highest possible roll 🡢 _sides"
+"./template/ja_JP/extensions/unprompted.json" - "Highest possible roll 🡢 _sides".
+
+"choose: Returns one of multiple options, delimited by newline or vertical pipe"
+"./template/ja_JP/extensions/unprompted.json" - "choose: Returns one of multiple options, delimited by newline or vertical pipe".
+
+"Number of times to choose 🡢 int"
+"./template/ja_JP/extensions/unprompted.json" - "Number of times to choose 🡢 int".
+
+"String delimiter when returning more than one choice 🡢 _sep"
+"./template/ja_JP/extensions/unprompted.json" - "String delimiter when returning more than one choice 🡢 _sep".
+
+"Custom weight per option 🡢 _weighted"
+"./template/ja_JP/extensions/unprompted.json" - "Custom weight per option 🡢 _weighted".
+
+"Override random nature of shortcode with predetermined outcome 🡢 _case"
+"./template/ja_JP/extensions/unprompted.json" - "Override random nature of shortcode with predetermined outcome 🡢 _case".
+
+"config: Updates your settings with the content for the duration of a run."
+"./template/ja_JP/extensions/unprompted.json" - "config: Updates your settings with the content for the duration of a run.".
+
+"conjugate: Converts the content verb into another conjugated form."
+"./template/ja_JP/extensions/unprompted.json" - "conjugate: Converts the content verb into another conjugated form.".
+
+"do: It's a do-until loop."
+"./template/ja_JP/extensions/unprompted.json" - "do: It's a do-until loop.".
+
+"Until condition 🡢 until"
+"./template/ja_JP/extensions/unprompted.json" - "Until condition 🡢 until".
+
+"elif: Shorthand 'else-if.'"
+"./template/ja_JP/extensions/unprompted.json" - "elif: Shorthand 'else-if.'".
+
+"else: Returns content if a previous conditional shortcode failed its check, otherwise discards content."
+"./template/ja_JP/extensions/unprompted.json" - "else: Returns content if a previous conditional shortcode failed its check, otherwise discards content.".
+
+"eval: Parses the content using the simpleeval library, returning the result. Particularly useful for arithmetic."
+"./template/ja_JP/extensions/unprompted.json" - "eval: Parses the content using the simpleeval library, returning the result. Particularly useful for arithmetic.".
+
+"file: Processes the file content of 'path.'"
+"./template/ja_JP/extensions/unprompted.json" - "file: Processes the file content of 'path.'".
+
+"Filepath 🡢 str"
+"./template/ja_JP/extensions/unprompted.json" - "Filepath 🡢 str".
+
+"Expected encoding 🡢 _encoding"
+"./template/ja_JP/extensions/unprompted.json" - "Expected encoding 🡢 _encoding".
+
+"filelist: Returns a list of files at a given location using glob."
+"./template/ja_JP/extensions/unprompted.json" - "filelist: Returns a list of files at a given location using glob.".
+
+"Result delimiter 🡢 _delimiter"
+"./template/ja_JP/extensions/unprompted.json" - "Result delimiter 🡢 _delimiter".
+
+"for"
+"./template/ja_JP/extensions/unprompted.json" - "for".
+
+"for: It's a for loop."
+"./template/ja_JP/extensions/unprompted.json" - "for: It's a for loop.".
+
+"Set a variable 🡢 my_var"
+"./template/ja_JP/extensions/unprompted.json" - "Set a variable 🡢 my_var".
+
+"Conditional check 🡢 str"
+"./template/ja_JP/extensions/unprompted.json" - "Conditional check 🡢 str".
+
+"Operation to perform at the end step 🡢 str"
+"./template/ja_JP/extensions/unprompted.json" - "Operation to perform at the end step 🡢 str".
+
+"get: Returns the value of a variable."
+"./template/ja_JP/extensions/unprompted.json" - "get: Returns the value of a variable.".
+
+"Variable to get 🡢 str"
+"./template/ja_JP/extensions/unprompted.json" - "Variable to get 🡢 str".
+
+"Default value if the variable doesn't exist 🡢 _default"
+"./template/ja_JP/extensions/unprompted.json" - "Default value if the variable doesn't exist 🡢 _default".
+
+"Separator string when returning multiple variables 🡢 _sep"
+"./template/ja_JP/extensions/unprompted.json" - "Separator string when returning multiple variables 🡢 _sep".
+
+"String to prepend to the variable 🡢 _before"
+"./template/ja_JP/extensions/unprompted.json" - "String to prepend to the variable 🡢 _before".
+
+"String to append to the variable 🡢 _after"
+"./template/ja_JP/extensions/unprompted.json" - "String to append to the variable 🡢 _after".
+
+"hypernyms: Replaces the content with one or more hypernyms."
+"./template/ja_JP/extensions/unprompted.json" - "hypernyms: Replaces the content with one or more hypernyms.".
+
+"hyponyms: Replaces the content with one or more synonyms."
+"./template/ja_JP/extensions/unprompted.json" - "hyponyms: Replaces the content with one or more synonyms.".
+
+"if: Checks whether a variable is equal to a given value."
+"./template/ja_JP/extensions/unprompted.json" - "if: Checks whether a variable is equal to a given value.".
+
+"Conditional statement 🡢 my_var"
+"./template/ja_JP/extensions/unprompted.json" - "Conditional statement 🡢 my_var".
+
+"Evaluation method 🡢 _is"
+"./template/ja_JP/extensions/unprompted.json" - "Evaluation method 🡢 _is".
+
+"Invert evaluation such that a true statement will return false 🡢 _not"
+"./template/ja_JP/extensions/unprompted.json" - "Invert evaluation such that a true statement will return false 🡢 _not".
+
+"Return true if any one of multiple conditions are true 🡢 _any"
+"./template/ja_JP/extensions/unprompted.json" - "Return true if any one of multiple conditions are true 🡢 _any".
+
+"info: Returns various types of metadata about the content."
+"./template/ja_JP/extensions/unprompted.json" - "info: Returns various types of metadata about the content.".
+
+"Return the character count 🡢 character_count"
+"./template/ja_JP/extensions/unprompted.json" - "Return the character count 🡢 character_count".
+
+"Return the word count 🡢 word_count"
+"./template/ja_JP/extensions/unprompted.json" - "Return the word count 🡢 word_count".
+
+"Return the CLIP token count (prompt complexity) 🡢 clip_count"
+"./template/ja_JP/extensions/unprompted.json" - "Return the CLIP token count (prompt complexity) 🡢 clip_count".
+
+"Return the count of a custom substring 🡢 string_count"
+"./template/ja_JP/extensions/unprompted.json" - "Return the count of a custom substring 🡢 string_count".
+
+"length: Returns the number of items in a delimited string."
+"./template/ja_JP/extensions/unprompted.json" - "length: Returns the number of items in a delimited string.".
+
+"The string to evaluate 🡢 str"
+"./template/ja_JP/extensions/unprompted.json" - "The string to evaluate 🡢 str".
+
+"Delimiter to check for 🡢 _delimiter"
+"./template/ja_JP/extensions/unprompted.json" - "Delimiter to check for 🡢 _delimiter".
+
+"Maximum number to be returned 🡢 _max"
+"./template/ja_JP/extensions/unprompted.json" - "Maximum number to be returned 🡢 _max".
+
+"max: Returns the maximum value among the given arguments."
+"./template/ja_JP/extensions/unprompted.json" - "max: Returns the maximum value among the given arguments.".
+
+"min: Returns the minimum value among the given arguments."
+"./template/ja_JP/extensions/unprompted.json" - "min: Returns the minimum value among the given arguments.".
+
+"override: Force variable(s) to hold a pre-determined value the rest of the run."
+"./template/ja_JP/extensions/unprompted.json" - "override: Force variable(s) to hold a pre-determined value the rest of the run.".
+
+"Arguments in variable=value format 🡢 verbatim"
+"./template/ja_JP/extensions/unprompted.json" - "Arguments in variable=value format 🡢 verbatim".
+
+"pluralize: Converts the content into plural form."
+"./template/ja_JP/extensions/unprompted.json" - "pluralize: Converts the content into plural form.".
+
+"random: Returns a random number between 0 and a given max value (inclusive)"
+"./template/ja_JP/extensions/unprompted.json" - "random: Returns a random number between 0 and a given max value (inclusive)".
+
+"Minimum number 🡢 _min"
+"./template/ja_JP/extensions/unprompted.json" - "Minimum number 🡢 _min".
+
+"Maximum number 🡢 _max"
+"./template/ja_JP/extensions/unprompted.json" - "Maximum number 🡢 _max".
+
+"Evaluate as floats instead of integers 🡢 _float"
+"./template/ja_JP/extensions/unprompted.json" - "Evaluate as floats instead of integers 🡢 _float".
+
+"repeat: Returns the content an arbitrary number of times."
+"./template/ja_JP/extensions/unprompted.json" - "repeat: Returns the content an arbitrary number of times.".
+
+"Number of times to repeat the content 🡢 int"
+"./template/ja_JP/extensions/unprompted.json" - "Number of times to repeat the content 🡢 int".
+
+"Delimiter string between outputs 🡢 _sep"
+"./template/ja_JP/extensions/unprompted.json" - "Delimiter string between outputs 🡢 _sep".
+
+"replace: Updates a string using the arguments for replacement logic."
+"./template/ja_JP/extensions/unprompted.json" - "replace: Updates a string using the arguments for replacement logic.".
+
+"Arbitrary replacement arguments in old=new format 🡢 verbatim"
+"./template/ja_JP/extensions/unprompted.json" - "Arbitrary replacement arguments in old=new format 🡢 verbatim".
+
+"Original value, with advanced expression support 🡢 _from"
+"./template/ja_JP/extensions/unprompted.json" - "Original value, with advanced expression support 🡢 _from".
+
+"New value, with advanced expression support 🡢 _to"
+"./template/ja_JP/extensions/unprompted.json" - "New value, with advanced expression support 🡢 _to".
+
+"Maximum number of times the replacement may occur 🡢 _count"
+"./template/ja_JP/extensions/unprompted.json" - "Maximum number of times the replacement may occur 🡢 _count".
+
+"set: Stores a value into a given variable."
+"./template/ja_JP/extensions/unprompted.json" - "set: Stores a value into a given variable.".
+
+"Variable name 🡢 verbatim"
+"./template/ja_JP/extensions/unprompted.json" - "Variable name 🡢 verbatim".
+
+"Only set this variable if it doesn't already exist 🡢 _new"
+"./template/ja_JP/extensions/unprompted.json" - "Only set this variable if it doesn't already exist 🡢 _new".
+
+"Array of valid values (used in conjunction with _new) 🡢 _choices"
+"./template/ja_JP/extensions/unprompted.json" - "Array of valid values (used in conjunction with _new) 🡢 _choices".
+
+"Append the content to the variable's current value 🡢 _append"
+"./template/ja_JP/extensions/unprompted.json" - "Append the content to the variable's current value 🡢 _append".
+
+"Prepend the content to the variable's current value 🡢 _prepend"
+"./template/ja_JP/extensions/unprompted.json" - "Prepend the content to the variable's current value 🡢 _prepend".
+
+"Print the variable's value 🡢 _out"
+"./template/ja_JP/extensions/unprompted.json" - "Print the variable's value 🡢 _out".
+
+"sets: The atomic version of [set] that lets you set multiple variables at once."
+"./template/ja_JP/extensions/unprompted.json" - "sets: The atomic version of [set] that lets you set multiple variables at once.".
+
+"Arbitrary arguments in variable=value format 🡢 verbatim"
+"./template/ja_JP/extensions/unprompted.json" - "Arbitrary arguments in variable=value format 🡢 verbatim".
+
+"singularize: Converts the content into singular form."
+"./template/ja_JP/extensions/unprompted.json" - "singularize: Converts the content into singular form.".
+
+"substring: Slices up the content."
+"./template/ja_JP/extensions/unprompted.json" - "substring: Slices up the content.".
+
+"Beginning index of the substring 🡢 start"
+"./template/ja_JP/extensions/unprompted.json" - "Beginning index of the substring 🡢 start".
+
+"Ending index of the substring 🡢 end"
+"./template/ja_JP/extensions/unprompted.json" - "Ending index of the substring 🡢 end".
+
+"Step size 🡢 step"
+"./template/ja_JP/extensions/unprompted.json" - "Step size 🡢 step".
+
+"Unit type 🡢 unit"
+"./template/ja_JP/extensions/unprompted.json" - "Unit type 🡢 unit".
+
+"characters"
+"./template/ja_JP/extensions/unprompted.json" - "characters".
+
+"words"
+"./template/ja_JP/extensions/unprompted.json" - "words".
+
+"switch: Use in conjunction with [case] to run different logic blocks depending on the value of a var."
+"./template/ja_JP/extensions/unprompted.json" - "switch: Use in conjunction with [case] to run different logic blocks depending on the value of a var.".
+
+"Variable to test against 🡢 verbatim"
+"./template/ja_JP/extensions/unprompted.json" - "Variable to test against 🡢 verbatim".
+
+"synonyms: Replaces the content with one or more synonyms."
+"./template/ja_JP/extensions/unprompted.json" - "synonyms: Replaces the content with one or more synonyms.".
+
+"template: This is used by the Wizard to instantiate a custom template UI. It is bypassed by the normal shortcode parser."
+"./template/ja_JP/extensions/unprompted.json" - "template: This is used by the Wizard to instantiate a custom template UI. It is bypassed by the normal shortcode parser.".
+
+"unset: Removes one or more variables from memory. Generally not needed."
+"./template/ja_JP/extensions/unprompted.json" - "unset: Removes one or more variables from memory. Generally not needed.".
+
+"Arbitrary variable names to free from memory 🡢 verbatim"
+"./template/ja_JP/extensions/unprompted.json" - "Arbitrary variable names to free from memory 🡢 verbatim".
+
+"while: Loops content until the condition returns false."
+"./template/ja_JP/extensions/unprompted.json" - "while: Loops content until the condition returns false.".
+
+"Arbitrary conditional statement(s) to test against 🡢 verbatim"
+"./template/ja_JP/extensions/unprompted.json" - "Arbitrary conditional statement(s) to test against 🡢 verbatim".
+
+"Invert evaluation such that a false condition will end the loop 🡢 _not"
+"./template/ja_JP/extensions/unprompted.json" - "Invert evaluation such that a false condition will end the loop 🡢 _not".
+
+"controlnet: A neural network structure to control diffusion models by adding extra conditions. Check manual for setup info."
+"./template/ja_JP/extensions/unprompted.json" - "controlnet: A neural network structure to control diffusion models by adding extra conditions. Check manual for setup info.".
+
+"Model name (do not include extension) 🡢 model"
+"./template/ja_JP/extensions/unprompted.json" - "Model name (do not include extension) 🡢 model".
+
+"Resolution of the detection map 🡢 detect_resolution"
+"./template/ja_JP/extensions/unprompted.json" - "Resolution of the detection map 🡢 detect_resolution".
+
+"Use low VRAM mode? 🡢 save_memory"
+"./template/ja_JP/extensions/unprompted.json" - "Use low VRAM mode? 🡢 save_memory".
+
+"DDIM ETA 🡢 eta"
+"./template/ja_JP/extensions/unprompted.json" - "DDIM ETA 🡢 eta".
+
+"Value Threshold 🡢 value_threhsold"
+"./template/ja_JP/extensions/unprompted.json" - "Value Threshold 🡢 value_threhsold".
+
+"Distance Threshold 🡢 distance_threhsold"
+"./template/ja_JP/extensions/unprompted.json" - "Distance Threshold 🡢 distance_threhsold".
+
+"Background Threshold 🡢 bg_threhsold"
+"./template/ja_JP/extensions/unprompted.json" - "Background Threshold 🡢 bg_threhsold".
+
+"Canny low threshold 🡢 low_threshold"
+"./template/ja_JP/extensions/unprompted.json" - "Canny low threshold 🡢 low_threshold".
+
+"Canny high threshold 🡢 high_threshold"
+"./template/ja_JP/extensions/unprompted.json" - "Canny high threshold 🡢 high_threshold".
+
+"Render hands with Openpose? 🡢 openpose_hands"
+"./template/ja_JP/extensions/unprompted.json" - "Render hands with Openpose? 🡢 openpose_hands".
+
+"enable_multi_images: Allows to use multiple init_images or multiple masks"
+"./template/ja_JP/extensions/unprompted.json" - "enable_multi_images: Allows to use multiple init_images or multiple masks".
+
+"file2mask: Modify or replace your img2img mask with arbitrary files."
+"./template/ja_JP/extensions/unprompted.json" - "file2mask: Modify or replace your img2img mask with arbitrary files.".
+
+"Path to image file 🡢 str"
+"./template/ja_JP/extensions/unprompted.json" - "Path to image file 🡢 str".
+
+"Mask blend mode 🡢 mode"
+"./template/ja_JP/extensions/unprompted.json" - "Mask blend mode 🡢 mode".
+
+"add"
+"./template/ja_JP/extensions/unprompted.json" - "add".
+
+"subtract"
+"./template/ja_JP/extensions/unprompted.json" - "subtract".
+
+"discard"
+"./template/ja_JP/extensions/unprompted.json" - "discard".
+
+"Show mask in output 🡢 show"
+"./template/ja_JP/extensions/unprompted.json" - "Show mask in output 🡢 show".
+
+"img2img"
+"./template/ja_JP/extensions/unprompted.json" - "img2img".
+
+"img2img: Runs an img2img task inside of an [after] block."
+"./template/ja_JP/extensions/unprompted.json" - "img2img: Runs an img2img task inside of an [after] block.".
+
+"img2img_autosize: Automatically adjusts the width and height parameters in img2img mode based on the proportions of the input image."
+"./template/ja_JP/extensions/unprompted.json" - "img2img_autosize: Automatically adjusts the width and height parameters in img2img mode based on the proportions of the input image.".
+
+"Minimum pixels of at least one dimension 🡢 target"
+"./template/ja_JP/extensions/unprompted.json" - "Minimum pixels of at least one dimension 🡢 target".
+
+"Only run this shortcode if using full resolution inpainting mode 🡢 only_full_res"
+"./template/ja_JP/extensions/unprompted.json" - "Only run this shortcode if using full resolution inpainting mode 🡢 only_full_res".
+
+"img2pez: Optimize a hard prompt using the PEZ algorithm and CLIP encoders, AKA Hard Prompts Made Easy."
+"./template/ja_JP/extensions/unprompted.json" - "img2pez: Optimize a hard prompt using the PEZ algorithm and CLIP encoders, AKA Hard Prompts Made Easy.".
+
+"Image path 🡢 image_path"
+"./template/ja_JP/extensions/unprompted.json" - "Image path 🡢 image_path".
+
+"Prompt length 🡢 prompt_length"
+"./template/ja_JP/extensions/unprompted.json" - "Prompt length 🡢 prompt_length".
+
+"Iterations 🡢 iterations"
+"./template/ja_JP/extensions/unprompted.json" - "Iterations 🡢 iterations".
+
+"Learning rate 🡢 learning_rate"
+"./template/ja_JP/extensions/unprompted.json" - "Learning rate 🡢 learning_rate".
+
+"Weight decay 🡢 weight_decay"
+"./template/ja_JP/extensions/unprompted.json" - "Weight decay 🡢 weight_decay".
+
+"Prompt bs (well, that's what they call it) 🡢 prompt_bs"
+"./template/ja_JP/extensions/unprompted.json" - "Prompt bs (well, that's what they call it) 🡢 prompt_bs".
+
+"CLIP model 🡢 clip_model"
+"./template/ja_JP/extensions/unprompted.json" - "CLIP model 🡢 clip_model".
+
+"ViT-L-14"
+"./template/ja_JP/extensions/unprompted.json" - "ViT-L-14".
+
+"ViT-H-14"
+"./template/ja_JP/extensions/unprompted.json" - "ViT-H-14".
+
+"CLIP pretrain 🡢 clip_pretrain"
+"./template/ja_JP/extensions/unprompted.json" - "CLIP pretrain 🡢 clip_pretrain".
+
+"openai"
+"./template/ja_JP/extensions/unprompted.json" - "openai".
+
+"laion2b_s32b_b79k"
+"./template/ja_JP/extensions/unprompted.json" - "laion2b_s32b_b79k".
+
+"Try freeing CLIP model from memory? 🡢 free_memory"
+"./template/ja_JP/extensions/unprompted.json" - "Try freeing CLIP model from memory? 🡢 free_memory".
+
+"init_image: Loads an image from the given path and sets it as the initial image for use with img2img."
+"./template/ja_JP/extensions/unprompted.json" - "init_image: Loads an image from the given path and sets it as the initial image for use with img2img.".
+
+"Image path"
+"./template/ja_JP/extensions/unprompted.json" - "Image path".
+"./template/ja_JP/extensions/Deforum.json" - "Image path".
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Image path".
+
+"instance2mask: Creates an image mask from instances of types specified by the content for use with inpainting."
+"./template/ja_JP/extensions/unprompted.json" - "instance2mask: Creates an image mask from instances of types specified by the content for use with inpainting.".
+
+"refine"
+"./template/ja_JP/extensions/unprompted.json" - "refine".
+
+"Run inpaint per instance found 🡢 per_instance"
+"./template/ja_JP/extensions/unprompted.json" - "Run inpaint per instance found 🡢 per_instance".
+
+"Precision of selected area 🡢 mask_precision"
+"./template/ja_JP/extensions/unprompted.json" - "Precision of selected area 🡢 mask_precision".
+
+"Padding radius in pixels 🡢 padding"
+"./template/ja_JP/extensions/unprompted.json" - "Padding radius in pixels 🡢 padding".
+
+"Smoothing radius in pixels 🡢 smoothing"
+"./template/ja_JP/extensions/unprompted.json" - "Smoothing radius in pixels 🡢 smoothing".
+
+"Precision of instance selection 🡢 instance_precision"
+"./template/ja_JP/extensions/unprompted.json" - "Precision of instance selection 🡢 instance_precision".
+
+"Number of instance to select 🡢 select"
+"./template/ja_JP/extensions/unprompted.json" - "Number of instance to select 🡢 select".
+
+"Instance selection mode 🡢 select_mode"
+"./template/ja_JP/extensions/unprompted.json" - "Instance selection mode 🡢 select_mode".
+
+"overlap"
+"./template/ja_JP/extensions/unprompted.json" - "overlap".
+
+"relative overlap"
+"./template/ja_JP/extensions/unprompted.json" - "relative overlap".
+
+"greatest area"
+"./template/ja_JP/extensions/unprompted.json" - "greatest area".
+
+"invert_mask: Inverts the mask (great in combination with multiple txt2masks)"
+"./template/ja_JP/extensions/unprompted.json" - "invert_mask: Inverts the mask (great in combination with multiple txt2masks)".
+
+"pix2pix_zero: A diffusion-based image-to-image approach that allows users to specify the edit direction on-the-fly."
+"./template/ja_JP/extensions/unprompted.json" - "pix2pix_zero: A diffusion-based image-to-image approach that allows users to specify the edit direction on-the-fly.".
+
+"Use legacy weights 🡢 legacy_weights"
+"./template/ja_JP/extensions/unprompted.json" - "Use legacy weights 🡢 legacy_weights".
+
+"Precision of selected area 🡢 precision"
+"./template/ja_JP/extensions/unprompted.json" - "Precision of selected area 🡢 precision".
+
+"Negative mask prompt 🡢 negative_mask"
+"./template/ja_JP/extensions/unprompted.json" - "Negative mask prompt 🡢 negative_mask".
+
+"Negative mask precision of selected area 🡢 neg_precision"
+"./template/ja_JP/extensions/unprompted.json" - "Negative mask precision of selected area 🡢 neg_precision".
+
+"Negative mask padding radius in pixels 🡢 neg_padding"
+"./template/ja_JP/extensions/unprompted.json" - "Negative mask padding radius in pixels 🡢 neg_padding".
+
+"Negative mask smoothing radius in pixels 🡢 neg_smoothing"
+"./template/ja_JP/extensions/unprompted.json" - "Negative mask smoothing radius in pixels 🡢 neg_smoothing".
+
+"Mask color, enables Inpaint Sketch mode 🡢 sketch_color"
+"./template/ja_JP/extensions/unprompted.json" - "Mask color, enables Inpaint Sketch mode 🡢 sketch_color".
+
+"Mask alpha, must be used in conjunction with mask color 🡢 sketch_alpha"
+"./template/ja_JP/extensions/unprompted.json" - "Mask alpha, must be used in conjunction with mask color 🡢 sketch_alpha".
+
+"Save the mask size to the following variable 🡢 size_var"
+"./template/ja_JP/extensions/unprompted.json" - "Save the mask size to the following variable 🡢 size_var".
+
+"Test prompt"
+"./template/ja_JP/extensions/unprompted.json" - "Test prompt".
+
+"Process Text"
+"./template/ja_JP/extensions/unprompted.json" - "Process Text".
+
+"Re-process extra networks after Unprompted is finished (WIP - this is not yet functional!)"
+"./template/ja_JP/extensions/unprompted.json" - "Re-process extra networks after Unprompted is finished (WIP - this is not yet functional!)".
+
+"unprompted"
+"./template/ja_JP/extensions/unprompted.json" - "unprompted".
+
 "Save score as EXIF or PNG Info Chunk"
 "./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "Save score as EXIF or PNG Info Chunk".
 
@@ -858,10 +1477,6 @@
 "/"
 "./template/ja_JP/extensions/Deforum.json" - "/".
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "/".
-
-"Image path"
-"./template/ja_JP/extensions/Deforum.json" - "Image path".
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Image path".
 
 "Save Settings"
 "./template/ja_JP/extensions/Deforum.json" - "Save Settings".
@@ -948,38 +1563,38 @@
 "./template/ja_JP/extensions/Text2Prompt.json" - "stable-diffusion-webui-text2prompt".
 
 "width"
-"./template/ja_JP/extensions/openpose-editor.json" - "width".
+"./template/ja_JP/extensions/openpose-editor.json" - "幅".
 
 "height"
-"./template/ja_JP/extensions/openpose-editor.json" - "height".
+"./template/ja_JP/extensions/openpose-editor.json" - "高さ".
 
 "Add"
-"./template/ja_JP/extensions/openpose-editor.json" - "Add".
+"./template/ja_JP/extensions/openpose-editor.json" - "追加".
 
 "Reset"
-"./template/ja_JP/extensions/openpose-editor.json" - "Reset".
+"./template/ja_JP/extensions/openpose-editor.json" - "リセット".
 "./template/ja_JP/extensions/sd-3dmodel-loader.json" - "Reset".
 
 "Load from JSON"
-"./template/ja_JP/extensions/openpose-editor.json" - "Load from JSON".
+"./template/ja_JP/extensions/openpose-editor.json" - "JSONから読み込む".
 
 "Detect from image"
-"./template/ja_JP/extensions/openpose-editor.json" - "Detect from image".
+"./template/ja_JP/extensions/openpose-editor.json" - "画像から検出する".
 
 "Add Background image"
-"./template/ja_JP/extensions/openpose-editor.json" - "Add Background image".
+"./template/ja_JP/extensions/openpose-editor.json" - "背景画像を追加する".
 
 "json"
 "./template/ja_JP/extensions/openpose-editor.json" - "json".
 
 "Save JSON"
-"./template/ja_JP/extensions/openpose-editor.json" - "Save JSON".
+"./template/ja_JP/extensions/openpose-editor.json" - "JSONを保存".
 
 "Save PNG"
-"./template/ja_JP/extensions/openpose-editor.json" - "Save PNG".
+"./template/ja_JP/extensions/openpose-editor.json" - "PNGを保存".
 
 "Send to"
-"./template/ja_JP/extensions/openpose-editor.json" - "Send to".
+"./template/ja_JP/extensions/openpose-editor.json" - "転送".
 "./template/ja_JP/extensions/sd-3dmodel-loader.json" - "Send to".
 
 "openpose-editor"
@@ -990,27 +1605,27 @@
 "./template/ja_JP/extensions/SD-latent-mirroring.json" - "Latent Mirroring".
 
 "Enable"
-"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "Enable".
-"./template/ja_JP/extensions/sd-webui-controlnet.json" - "Enable".
+"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "有効化".
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "有効化".
 "./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "Enable".
 
 "Model"
-"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "Model".
+"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "モデル".
 "./template/ja_JP/extensions/Model Previews.json" - "Model".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Model".
 "./template/ja_JP/extensions/sd-3dmodel-loader.json" - "Model".
-"./template/ja_JP/extensions/sd-webui-controlnet.json" - "Model".
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "モデル".
 "./template/ja_JP/extensions/sd-model-preview-xd.json" - "Model".
 
 "Description"
-"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "Description".
+"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "説明".
 
 "Generate Info"
 "./template/ja_JP/extensions/sd-webui-additional-networks.json" - "Generate Info".
 "./template/ja_JP/extensions/Image Browser.json" - "Generate Info".
 
 "date"
-"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "date".
+"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "日付".
 "./template/ja_JP/extensions/Image Browser.json" - "date".
 
 "path name"
@@ -4415,7 +5030,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Show '?' next to tags, linking to its Danbooru or e621 wiki page (Warning: This is an external site and very likely contains NSFW examples!)".
 
 "Replace underscores with spaces on insertion"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Replace underscores with spaces on insertion".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "タグ挿入時にアンダースコアをスペースに置き換える".
 
 "Escape parentheses on insertion"
 "./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Escape parentheses on insertion".
