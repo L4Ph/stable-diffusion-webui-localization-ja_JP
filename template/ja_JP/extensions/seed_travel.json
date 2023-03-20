@@ -6,7 +6,7 @@
   "Compare paths (Separate travels from 1st seed to each destination)": "Compare paths (Separate travels from 1st seed to each destination)",
   "Steps (Number of images between each seed)": "Steps (Number of images between each seed)",
   "Loop back to initial seed": "Loop back to initial seed",
-  "Save results as video": "Save results as video",
+  "Save results as video": "結果を動画として保存",
   "Frames per second": "Frames per second",
   "Number of frames for lead in/out": "Number of frames for lead in/out",
   "Upscale ratio": "Upscale ratio",
