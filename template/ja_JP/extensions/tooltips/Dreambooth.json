@@ -153,7 +153,7 @@
   },
   "Generate lora weights Generate lora weights for additional networks.": {
     "key": "Generate lora weights Generate lora weights for additional networks.",
-    "tooltip": "有効にすると、追加ネットワークに対応したlora .safetensorsファイルがui loraモデルディレクトリに生成されます。拡張loraとは互換性がありません。"
+    "tooltip": "有効にすると、追加ネットワークに対応したlora .safetensorsファイルがuiローラモデルディレクトリに生成されます。拡張ローラとは互換性がありません。"
   },
   "Generate lora weights when saving during training.": {
     "key": "Generate lora weights when saving during training.",
@@ -220,7 +220,7 @@
     "tooltip": "The Lora model to load for continued fine-tuning or checkpoint generation."
   },
   "Use Lora Extended": {
-    "key": "ローラ拡張を使用",
+    "key": "Lora 拡張を使用",
     "tooltip": "ローラモデルをレネットレイヤーで訓練します。これにより、品質と編集性が常に向上しますが、ファイルが大きくなります。"
   },
   "Lora UNET Rank": {
@@ -241,18 +241,18 @@
   },
   "Lora UNET Learning Rate": {
     "key": "ローラUNET学習率",
-    "tooltip": "The learning rate at which to train lora unet. Regular learning rate is ignored."
+    "tooltip": "ローラユニットを学習させる際の学習速度です。通常の学習速度は無視されます。"
   },
   "Lora Weight": {
-    "key": "Lora Weight",
-    "tooltip": "What percentage of the lora weights should be applied to the unet when creating a checkpoint."
+    "key": "ローラウェイト",
+    "tooltip": "チェックポイントを作成する際に、ローラウェイトを何％ユニットに適用するか。"
   },
   "Max Resolution": {
-    "key": "Max Resolution",
+    "key": "最大解像度",
     "tooltip": "The resolution of input images. When using bucketing, this is the maximum size of image buckets."
   },
   "Max Token Length": {
-    "key": "Max Token Length",
+    "key": "最大トークンの長さ",
     "tooltip": "Maximum token length to respect. You probably want to leave this at 75."
   },
   "Memory Attention": {
@@ -260,31 +260,31 @@
     "tooltip": "The type of memory attention to use. 'Xformers' will provide better performance than flash_attention, but requires a separate installation."
   },
   "Min Learning Rate": {
-    "key": "Min Learning Rate",
-    "tooltip": "The minimum learning rate to decrease to over time."
+    "key": "最低学習率",
+    "tooltip": "時間の経過とともに減少する最小学習率。"
   },
   "Mixed Precision": {
     "key": "Mixed Precision",
-    "tooltip": "Use FP16 or BF16 (if available) will help improve memory performance. Required when using 'xformers'."
+    "tooltip": "FP16またはBF16(利用可能な場合) を使用すると、メモリ性能が向上します。\"xformers\"を使用する場合は必須です。"
   },
   "Model Path": {
-    "key": "Model Path",
-    "tooltip": "The URL to the model on huggingface. Should be in the format of 'developer/model_name'."
+    "key": "モデルパス",
+    "tooltip": "Huggingface上のモデルのURL。'developer/model_name'の形式である必要があります。"
   },
   "Model": {
-    "key": "Model",
-    "tooltip": "The model to train."
+    "key": "モデル",
+    "tooltip": "トレーニングするモデルです。"
   },
   "Name": {
-    "key": "Name",
-    "tooltip": "The name of the model to create."
+    "key": "名前",
+    "tooltip": "作成するモデルの名前です。"
   },
   "Number of Hard Resets": {
-    "key": "Number of Hard Resets",
+    "key": "ハードリセット数",
     "tooltip": "Number of hard resets of the lr in cosine_with_restarts scheduler."
   },
   "Number of Samples to Generate": {
-    "key": "Number of Samples to Generate",
+    "key": "生成するサンプル数",
     "tooltip": "How many samples to generate per subject."
   },
   "Offset Noise": {
@@ -404,12 +404,12 @@
     "tooltip": "If a model was extracted or trained with EMA weights, these will be appended separately to the model for use in training later."
   },
   "Scale Position": {
-    "key": "Scale Position",
+    "key": "スケールの位置",
     "tooltip": "The percent in training where the 'final' learning rate should be achieved. If training at 100 epochs and this is set to 0.25, the final LR will be reached at epoch 25."
   },
   "Scheduler": {
-    "key": "Scheduler",
-    "tooltip": "Model scheduler to use. Only applies to models before 2.0."
+    "key": "スケジューラー",
+    "tooltip": "使用するモデルスケジューラーです。2.0以前のモデルにのみ適用されます。"
   },
   "Set Gradients to None When Zeroing": {
     "key": "Set Gradients to None When Zeroing",
@@ -476,23 +476,23 @@
     "tooltip": "Guess what - this will be incredibly slow, but it will work for < 8GB GPUs."
   },
   "Use Concepts List": {
-    "key": "Use Concepts List",
-    "tooltip": "Train multiple concepts from a JSON file or string."
+    "key": "コンセプトリストを使用",
+    "tooltip": "JSONファイルや文字列から複数の概念を学習させる。"
   },
   "Use EMA": {
-    "key": "Use EMA",
-    "tooltip": "Enabling this will provide better results and editability, but cost more VRAM."
+    "key": "EMAを使用",
+    "tooltip": "これを有効にすると、より良い結果と編集性が得られますが、より多くのVRAMを消費します。"
   },
   "Use EMA Weights for Inference": {
-    "key": "Use EMA Weights for Inference",
-    "tooltip": "Enabling this will save the EMA unet weights as the 'normal' model weights and ignore the regular unet weights."
+    "key": "推論にEMAウェイトを使用する",
+    "tooltip": "これを有効にすると、EMAユニットの重みが「正常」モデルの重みとして保存され、通常のユニットの重みを無視します。"
   },
   "Use Epoch Values for Save Frequency": {
-    "key": "Use Epoch Values for Save Frequency",
+    "key": "頻度の保存にエポック値を使用する",
     "tooltip": "When enabled, save frequencies below are based on number of epochs. When disabled, frequencies are based on number of training steps."
   },
   "Use LORA": {
-    "key": "Use LORA",
+    "key": "ローラを使用",
     "tooltip": "Uses Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning. Uses less VRAM, saves a .pt file instead of a full checkpoint"
   },
   "Use Lifetime Epochs When Saving": {
