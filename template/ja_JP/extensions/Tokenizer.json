@@ -7,6 +7,6 @@
     "Text": "文字列",
     "Tokens": "トークン",
     "stable-diffusion-webui-tokenizer": "stable-diffusion-webui-tokenizer",
-    "Prompt for tokenization": "Prompt for tokenization",
-    "Ids for tokenization (example: 9061, 631, 736)": "Ids for tokenization (example: 9061, 631, 736)"
+    "Prompt for tokenization": "プロンプトのトークン化",
+    "Ids for tokenization (example: 9061, 631, 736)": "IDのトークン化 (例: 9061, 631, 736)"
 }
