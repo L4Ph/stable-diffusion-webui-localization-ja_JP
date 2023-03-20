@@ -1,8 +1,8 @@
 {
   "sd-webui-depth-lib": "sd-webui-depth-lib",
-  "Depth Library": "Depth Library",
+  "Depth Library": "Depth ライブラリ",
   "Pages:": "ページ",
-  "Selected": "Selected",
+  "Selected": "選択中",
   "Send to ControlNet": "ControlNet に送る",
   "https://github.com/jexom/sd-webui-depth-lib.git": "https://github.com/jexom/sd-webui-depth-lib.git"
 }
