@@ -4,15 +4,23 @@
 ## これはなに
 日本語訳用の言語ファイルです。 [AUTOMATIC1111版Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
 
-~~また、2カ国語の同時表示を可能にする[Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)拡張機能との併用を推奨します。  
-この拡張機能を使えば、日本語環境での利用だけでなく、英語での情報収集も容易になります。~~  
-**現在はバイリンガル対応の拡張機能を標準で組み込んでいます**  
-[使い方はコチラ](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)
+## Bilingual Localization
+また、2カ国語の同時表示を可能にする[Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)拡張機能との併用を推奨します。  
+この拡張機能を使えば、日本語環境での利用だけでなく、英語での情報収集も容易になります。  
+**現在はバイリンガル対応の拡張機能を標準で組み込んでいます**  使い方は[コチラ](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)
 
-## 翻訳がおかしい/翻訳を手伝う
+## 翻訳がおかしい/翻訳を手伝う📘
 ### [Crowdin](https://crwd.in/stable-diffusion-webui-localization-ja_JP)から翻訳ができます!
 気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues)を投げましょう!  
 分からないことがあれば[Disscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)へどうぞ!  
+Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんがまとめてくださいました! ありがとうございます!
+[コチラ](https://sp8999.com/stable-diffusion/2023/03/20/870/)からどうぞ!
+
+## Special Thanks!✨
+<a href=https://github.com/yuuki76/webui-localization-ja_JP><img src="https://github.com/yuuki76.png" alt="yuuki76" style="display: inline-block; width: 100px; height: 100px;">
+<a href=https://github.com/harukaxxxx/stable-diffusion-webui-localization-source><img src="https://github.com/harukaxxxx.png" alt="harukaxxxx" style="display: inline-block; width: 100px; height: 100px;">
+<a href=https://github.com/journey-ad/sd-webui-bilingual-localization><img src="https://github.com/journey-ad.png" alt="journey-ad" style="display: inline-block; width: 100px; height: 100px;">
+<a href=https://sp8999.com/stable-diffusion/2023/03/20/870/><img src="https://pbs.twimg.com/profile_images/1611351286477377538/86YeQooS.jpg" alt="sp8999" style="display: inline-block; width: 100px; height: 100px;">
 
 ## ローカライズの進捗
 
@@ -164,11 +172,3 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ![](https://user-images.githubusercontent.com/60730393/202901412-26765c04-e69c-4beb-a56b-9e310ed273ca.png)
 2. ページ下部のオレンジ色のボタン(*Restart Gradio and Refresh components*)をクリックして、web UIを再起動します。
 ![](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
-
-
-# Thanks
-- [stable-diffusion-webui-localization-source](https://github.com/harukaxxxx/stable-diffusion-webui-localization-source)
-    - 翻訳のソース(Translate Sources)
-
-- [sd-webui-bilingual-localization](https://github.com/journey-ad/sd-webui-bilingual-localization)
-    - バイリンガル対応拡張機能(bilingual localization extensions)# i18n/l10n Progress
