@@ -77,7 +77,7 @@
   "blur": "ぼかし",
   "kernel size": "カーネルサイズ",
   "sigma": "シグマ値",
-  "k_sigma": "k_sigma",
+  "k_sigma": "kシグマ値",
   "epsilon": "エプシロン",
   "phi": "phi",
   "gamma": "ガンマ値",

@@ -1,6 +1,6 @@
 {
   "openOutpaint": "openOutpaint",
-  "Send to openOutpaint": "Send to openOutpaint",
+  "Send to openOutpaint": "openOutpaintへ転送",
   "openOutpaint-webUI-extension": "openOutpaint-webUI-extension",
-  "Refresh openOutpaint": "Refresh openOutpaint"
+  "Refresh openOutpaint": "openOutpaint を更新"
 }
