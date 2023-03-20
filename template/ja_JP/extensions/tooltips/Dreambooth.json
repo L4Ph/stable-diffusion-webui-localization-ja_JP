@@ -20,7 +20,7 @@
     "tooltip": "How many images to process at once per training step?"
   },
   "Cache Latents": {
-    "key": "Cache Latents",
+    "key": "履歴のキャッシュ",
     "tooltip": "このボックスがチェックされている場合、レイテントはキャッシュされます。レイテントをキャッシュすると、より多くのVRAMを使用しますが、トレーニング速度は向上します。"
   },
   "Cancel": {
@@ -96,7 +96,7 @@
     "tooltip": "インスタンスとクラス・イメージを調べて、対応するクラス・イメージのないインスタンスイメージを報告します。"
   },
   "Discord Webhook": {
-    "key": "Discord Webhook",
+    "key": "DiscordをWebフォーク",
     "tooltip": "生成後にトレーニングサンプルをDiscordチャンネルに送信する"
   },
   "Existing Prompt Contents": {
@@ -172,7 +172,7 @@
     "tooltip": "Number of updates steps to accumulate before performing a backward/update pass. You should try to make this the same as your batch size."
   },
   "Gradient Checkpointing": {
-    "key": "Gradient Checkpointing",
+    "key": "チェックポイントの傾度",
     "tooltip": "This is a technique to reduce memory usage by clearing activations of certain layers and recomputing them during a backward pass. Effectively, this trades extra computation time for reduced memory usage."
   },
   "Graph Smoothing Steps": {
@@ -185,7 +185,7 @@
   },
   "HuggingFace Token": {
     "key": "HuggingFace Token",
-    "tooltip": "Your huggingface token to use for cloning files."
+    "tooltip": "ファイルのクローンに使用するhuggingfaceトークン。"
   },
   "Instance Prompt": {
     "key": "Instance Prompt",
@@ -204,8 +204,8 @@
     "tooltip": "Number of steps for the warmup in the lr scheduler. LR will start at 0 and increase to this value over the specified number of steps."
   },
   "Learning Rate": {
-    "key": "Learning Rate",
-    "tooltip": "The rate at which the model learns. Default is 2e-6."
+    "key": "学習率",
+    "tooltip": "モデルが学習する割合。デフォルトは2e-6です。"
   },
   "Load Settings": {
     "key": "設定の読み込み",
@@ -228,24 +228,24 @@
     "tooltip": "Lora UNETのランク(デフォルトは4) 。高い値＝ファイルサイズが大きくても品質が良い。低い値 = 低いファイルサイズで品質を犠牲にする。学習率はランクによって異なる働きをします。高精度(fp32) でロラを保存すると、ロラファイルが大きくなります。"
   },
   "Lora Text Encoder Rank": {
-    "key": "ローラテキストエンコーダランク",
-    "tooltip": "ローラテキストエンコーダのランクです(デフォルト4) 。高い値＝ファイルサイズが大きくても品質が良い。低い値 = 低いファイルサイズで品質を犠牲にする。学習率は、ランクによって異なる働きをします。高精度(fp32) でロラを保存すると、ロラファイルが大きくなります。"
+    "key": "Lora テキストエンコーダランク",
+    "tooltip": "Loraテキストエンコーダのランクです(デフォルト4) 。高い値＝ファイルサイズが大きくても品質が良い。低い値 = 低いファイルサイズで品質を犠牲にする。学習率は、ランクによって異なる働きをします。高精度(fp32) でLoraを保存すると、Loraファイルが大きくなります。"
   },
   "Lora Text Learning Rate": {
-    "key": "ローラテキスト学習率",
-    "tooltip": "ローラテキストエンコーダを訓練する学習率。正規の学習率は無視されます。"
+    "key": "Loraテキスト学習率",
+    "tooltip": "Loraテキストエンコーダを訓練する学習率。正規の学習率は無視されます。"
   },
   "Lora Text Weight": {
     "key": "Lora Text Weight",
     "tooltip": "What percentage of the lora weights should be applied to the text encoder when creating a checkpoint."
   },
   "Lora UNET Learning Rate": {
-    "key": "ローラUNET学習率",
-    "tooltip": "ローラユニットを学習させる際の学習速度です。通常の学習速度は無視されます。"
+    "key": "Lora UNET 学習率",
+    "tooltip": "Lora ユニットを学習させる際の学習速度です。通常の学習速度は無視されます。"
   },
   "Lora Weight": {
-    "key": "ローラウェイト",
-    "tooltip": "チェックポイントを作成する際に、ローラウェイトを何％ユニットに適用するか。"
+    "key": "Lora ウェイト",
+    "tooltip": "チェックポイントを作成する際に、Loraウェイトを何％ユニットに適用するか。"
   },
   "Max Resolution": {
     "key": "最大解像度",
@@ -257,7 +257,7 @@
   },
   "Memory Attention": {
     "key": "Memory Attention",
-    "tooltip": "The type of memory attention to use. 'Xformers' will provide better performance than flash_attention, but requires a separate installation."
+    "tooltip": "使用するメモリの種類です。'Xformers' は、flash_attleよりも優れたパフォーマンスを提供しますが、別のインストールが必要です。"
   },
   "Min Learning Rate": {
     "key": "最低学習率",
@@ -289,19 +289,19 @@
   },
   "Offset Noise": {
     "key": "Offset Noise",
-    "tooltip": "Allows the model to learn brightness and contrast with greater detail during training. Value controls the strength of the effect, 0 disables it."
+    "tooltip": "トレーニング中の明るさとコントラストをより詳細に学習できるようにします。値は効果の強さをコントロールし、0はそれを無効にします。"
   },
   "Pad Tokens": {
-    "key": "Pad Tokens",
+    "key": "パッドトークン",
     "tooltip": "Pad the input images token length to this amount. You probably want to do this."
   },
   "Pause After N Epochs": {
     "key": "Pause After N Epochs",
-    "tooltip": "Number of epochs after which training will be paused for the specified time. Useful if you want to give your GPU a rest."
+    "tooltip": "指定された時間にトレーニングが一時停止された後のエポックの数です。GPUに休憩を与えたい場合に便利です。"
   },
   "Performance Wizard (WIP)": {
-    "key": "Performance Wizard (WIP)",
-    "tooltip": "Attempt to automatically set training parameters based on total VRAM. Still under development."
+    "key": "パフォーマンスウィザード (WIP)",
+    "tooltip": "VRAMの総量に応じたトレーニングパラメータの自動設定を試みます。まだ開発中です。"
   },
   "Polynomial Power": {
     "key": "Polynomial Power",
@@ -309,10 +309,10 @@
   },
   "Pretrained VAE Name or Path": {
     "key": "Pretrained VAE Name or Path",
-    "tooltip": "To use an alternate VAE, you can specify the path to a directory containing a pytorch_model.bin representing your VAE."
+    "tooltip": "代替VAEを使用するには、VAEを表すpytorch_model.binを含むディレクトリへのパスを指定できます。"
   },
   "Preview Prompts": {
-    "key": "Preview Prompts",
+    "key": "プロンプト プレビュー",
     "tooltip": "Generate a JSON representation of prompt data used for training."
   },
   "Prior Loss Weight": {
@@ -320,47 +320,47 @@
     "tooltip": "Prior loss weight."
   },
   "Sample CFG Scale": {
-    "key": "Sample CFG Scale",
+    "key": "サンプルCFGスケール",
     "tooltip": "The Classifier-Free Guidance Scale to use for preview images."
   },
   "Sample Image Prompt": {
-    "key": "Sample Image Prompt",
-    "tooltip": "The prompt to use when generating preview images."
+    "key": "サンプル イメージ プロンプト:",
+    "tooltip": "プレビュー イメージ を生成する際に使用するプロンプトです。"
   },
   "Sample Negative Prompt": {
-    "key": "Sample Negative Prompt",
-    "tooltip": "A negative prompt to use when generating preview images."
+    "key": "ネガティブプロンプトのサンプル",
+    "tooltip": "プレビュー イメージ を生成する際に使用するネガティブプロンプトです。"
   },
   "Sample Prompt Template File": {
-    "key": "Sample Prompt Template File",
+    "key": "サンプルプロンプトテンプレートファイル",
     "tooltip": "The path to a txt file to use for sample prompts. Use [filewords] or [name] to insert class token in sample prompts"
   },
   "Sample Prompt": {
-    "key": "Sample Prompt",
-    "tooltip": "The prompt to use to generate a sample image"
+    "key": "サンプルプロンプト:",
+    "tooltip": "サンプル イメージを生成するために使用するプロンプト"
   },
   "Sample Seed": {
-    "key": "Sample Seed",
-    "tooltip": "The seed to use when generating samples. Set to -1 to use a random seed every time."
+    "key": "サンプルシード",
+    "tooltip": "サンプル生成時に使用するシードです。毎回ランダムなシードを使用する場合は、-1 を設定します。"
   },
   "Sample Steps": {
-    "key": "Sample Steps",
-    "tooltip": "The number of steps to use when generating classifier/regularization images."
+    "key": "サンプルステップ",
+    "tooltip": "分類画像/規則画像を生成する際に使用するステップ数。"
   },
   "Sanity Sample Prompt": {
     "key": "Sanity Sample Prompt",
-    "tooltip": "A prompt used to generate a 'baseline' image that will be created with other samples to verify model fidelity."
+    "tooltip": "モデルの忠実度を検証するために他のサンプルと一緒に作成される「ベースライン」イメージの生成に使用されるプロンプト。"
   },
   "Sanity Sample Seed": {
     "key": "Sanity Sample Seed",
-    "tooltip": "The seed to use when generating the validation sample image. -1 is not supported."
+    "tooltip": "検証サンプル画像の生成時に使用するシード。-1 はサポートされていません。"
   },
   "Save Checkpoint to Subdirectory": {
-    "key": "Save Checkpoint to Subdirectory",
-    "tooltip": "When enabled, checkpoints will be saved to a subdirectory in the selected checkpoints folder."
+    "key": "チェックポイントをサブディレクトリに保存",
+    "tooltip": "有効にすると、チェックポイントは、選択したチェックポイントフォルダのサブディレクトリに保存されます。"
   },
   "Save Model Frequency (Epochs)": {
-    "key": "Save Model Frequency (Epochs)",
+    "key": "モデルの頻度を保存 (エポック)",
     "tooltip": "Save a checkpoint every N epochs."
   },
   "Save Model Frequency (Step)": {
@@ -440,23 +440,23 @@
     "tooltip": "Total number of classification/regularization images to use. If no images exist, they will be generated. Set to 0 to disable prior preservation."
   },
   "Train Imagic Only": {
-    "key": "Train Imagic Only",
+    "key": "訓練画像のみ",
     "tooltip": "Uses Imagic for training instead of full dreambooth, useful for training with a single instance image."
   },
   "Train Text Encoder": {
-    "key": "Train Text Encoder",
-    "tooltip": "Enabling this will provide better results and editability, but cost more VRAM."
+    "key": "テキストエンコーダを訓練する",
+    "tooltip": "これを有効にすると、より良い結果と編集性が得られますが、より多くのVRAMを消費します。"
   },
   "Train": {
-    "key": "Train",
-    "tooltip": "Start training."
+    "key": "学習",
+    "tooltip": "トレーニングを開始"
   },
   "Training Steps Per Image (Epochs)": {
-    "key": "Training Steps Per Image (Epochs)",
-    "tooltip": "This is the total number of training steps that will be performed on each instance image."
+    "key": "イメージごとのトレーニングステップ (エポック)",
+    "tooltip": "これは、各インスタンス画像に対して実行されるトレーニングステップの総数である。"
   },
   "Training Wizard (Object/Style)": {
-    "key": "Training Wizard (Object/Style)",
+    "key": "トレーニングウィザード (オブジェクト/スタイル)",
     "tooltip": "Calculate training parameters for a non-human subject based on number of instance images and set larning rate. Disables prior preservation."
   },
   "Training Wizard (Person)": {
@@ -469,10 +469,10 @@
   },
   "Use 8bit Adam": {
     "key": "Use 8bit Adam",
-    "tooltip": "Enable this to save VRAM."
+    "tooltip": "これを有効にするとVRAMが保存されます。"
   },
   "Use CPU Only (SLOW)": {
-    "key": "Use CPU Only (SLOW)",
+    "key": "CPUのみを使用 (SLOW)",
     "tooltip": "Guess what - this will be incredibly slow, but it will work for < 8GB GPUs."
   },
   "Use Concepts List": {
@@ -500,7 +500,7 @@
     "tooltip": "When checked, will save preview images and checkpoints using lifetime epochs, versus current training epochs."
   },
   "Use Lifetime Steps When Saving": {
-    "key": "Use Lifetime Steps When Saving",
+    "key": "保存時にライフタイムステップを使用する",
     "tooltip": "When checked, will save preview images and checkpoints using lifetime steps, versus current training steps."
   }
 }
