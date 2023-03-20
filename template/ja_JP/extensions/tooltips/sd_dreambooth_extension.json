@@ -188,11 +188,11 @@
     "tooltip": "ファイルのクローンに使用するhuggingfaceトークン。"
   },
   "Instance Prompt": {
-    "key": "Instance Prompt",
+    "key": "インスタンスプロンプト",
     "tooltip": "A prompt describing the subject. Use [Filewords] to parse image filename/.txt to insert existing prompt here."
   },
   "Instance Token": {
-    "key": "Instance Token",
+    "key": "インスタンストークン",
     "tooltip": "When using [filewords], this is the instance identifier that is unique to your subject. Should be a single word."
   },
   "Learning Rate Scheduler": {
@@ -273,35 +273,35 @@
   },
   "Model": {
     "key": "モデル",
-    "tooltip": "The model to train."
+    "tooltip": "トレーニングするモデル"
   },
   "Name": {
     "key": "名前",
     "tooltip": "作成するモデルの名前"
   },
   "Number of Hard Resets": {
-    "key": "Number of Hard Resets",
+    "key": "ハードリセット数",
     "tooltip": "Number of hard resets of the lr in cosine_with_restarts scheduler."
   },
   "Number of Samples to Generate": {
-    "key": "Number of Samples to Generate",
-    "tooltip": "How many samples to generate per subject."
+    "key": "生成するサンプル数",
+    "tooltip": "テーマごとに生成するサンプル数"
   },
   "Offset Noise": {
-    "key": "Offset Noise",
+    "key": "ノイズをオフセット",
     "tooltip": "Allows the model to learn brightness and contrast with greater detail during training. Value controls the strength of the effect, 0 disables it."
   },
   "Pad Tokens": {
-    "key": "Pad Tokens",
+    "key": "パッドトークン",
     "tooltip": "Pad the input images token length to this amount. You probably want to do this."
   },
   "Pause After N Epochs": {
-    "key": "Pause After N Epochs",
-    "tooltip": "Number of epochs after which training will be paused for the specified time. Useful if you want to give your GPU a rest."
+    "key": "N エポック後に一時停止",
+    "tooltip": "指定された時間にトレーニングが一時停止された後のエポックの数です。GPUに休憩を与えたい場合に便利です。"
   },
   "Performance Wizard (WIP)": {
-    "key": "Performance Wizard (WIP)",
-    "tooltip": "Attempt to automatically set training parameters based on total VRAM. Still under development."
+    "key": "パフォーマンスウィザード (WIP)",
+    "tooltip": "VRAMの総量に応じたトレーニングパラメータの自動設定を試みます。まだ開発中です。"
   },
   "Polynomial Power": {
     "key": "Polynomial Power",
@@ -328,48 +328,48 @@
     "tooltip": "The prompt to use when generating preview images."
   },
   "Sample Negative Prompt": {
-    "key": "Sample Negative Prompt",
+    "key": "ネガティブプロンプトのサンプル",
     "tooltip": "A negative prompt to use when generating preview images."
   },
   "Sample Prompt Template File": {
-    "key": "Sample Prompt Template File",
+    "key": "サンプルプロンプトテンプレートファイル",
     "tooltip": "The path to a txt file to use for sample prompts. Use [filewords] or [name] to insert class token in sample prompts"
   },
   "Sample Prompt": {
     "key": "サンプルプロンプト:",
-    "tooltip": "The prompt to use to generate a sample image"
+    "tooltip": "サンプル イメージを生成するために使用するプロンプト"
   },
   "Sample Seed": {
     "key": "サンプルシード",
-    "tooltip": "The seed to use when generating samples. Set to -1 to use a random seed every time."
+    "tooltip": "サンプル生成時に使用するシードです。毎回ランダムなシードを使用する場合は、-1 を設定します。"
   },
   "Sample Steps": {
-    "key": "Sample Steps",
-    "tooltip": "The number of steps to use when generating classifier/regularization images."
+    "key": "サンプルステップ",
+    "tooltip": "分類画像/規則画像を生成する際に使用するステップ数。"
   },
   "Sanity Sample Prompt": {
     "key": "Sanity Sample Prompt",
-    "tooltip": "A prompt used to generate a 'baseline' image that will be created with other samples to verify model fidelity."
+    "tooltip": "モデルの忠実度を検証するために他のサンプルと一緒に作成される「ベースライン」イメージの生成に使用されるプロンプト。"
   },
   "Sanity Sample Seed": {
     "key": "Sanity Sample Seed",
-    "tooltip": "The seed to use when generating the validation sample image. -1 is not supported."
+    "tooltip": "検証サンプル画像の生成時に使用するシード。-1 はサポートされていません。"
   },
   "Save Checkpoint to Subdirectory": {
-    "key": "Save Checkpoint to Subdirectory",
-    "tooltip": "When enabled, checkpoints will be saved to a subdirectory in the selected checkpoints folder."
+    "key": "チェックポイントをサブディレクトリに保存",
+    "tooltip": "有効にすると、チェックポイントは、選択したチェックポイントフォルダのサブディレクトリに保存されます。"
   },
   "Save Model Frequency (Epochs)": {
-    "key": "Save Model Frequency (Epochs)",
-    "tooltip": "Save a checkpoint every N epochs."
+    "key": "モデルの頻度を保存 (エポック)",
+    "tooltip": "N個のエポックごとにチェックポイントを保存する。"
   },
   "Save Model Frequency (Step)": {
-    "key": "Save Model Frequency (Step)",
+    "key": "モデルの保存頻度 (ステップ)",
     "tooltip": "Save a checkpoint every N epochs. Must be divisible by batch number."
   },
   "Save Preview(s) Frequency (Epochs)": {
     "key": "Save Preview(s) Frequency (Epochs)",
-    "tooltip": "Generate preview images every N epochs."
+    "tooltip": "N エポックごとにプレビュー画像を生成します。"
   },
   "Save Preview(s) Frequency (Step)": {
     "key": "Save Preview(s) Frequency (Step)",
@@ -384,7 +384,7 @@
     "tooltip": "Save weights/checkpoint/snapshot as specified in the saving section for saving 'during' training."
   },
   "Save and Test Webhook": {
-    "key": "Save and Test Webhook",
+    "key": "Webフォークの保存とテスト",
     "tooltip": "Save the currently entered webhook URL and send a test message to it."
   },
   "Save separate diffusers snapshots when saving during training.": {
@@ -400,7 +400,7 @@
     "tooltip": "When enabled, a unique snapshot of the diffusion weights will be saved when training is canceled. This uses more HDD space, but allows resuming from training including the optimizer state."
   },
   "Save EMA Weights to Generated Models": {
-    "key": "Save EMA Weights to Generated Models",
+    "key": "EMA Weightを生成されたモデルに保存",
     "tooltip": "If a model was extracted or trained with EMA weights, these will be appended separately to the model for use in training later."
   },
   "Scale Position": {
@@ -420,11 +420,11 @@
     "tooltip": "When enabled, will shuffle the dataset after the first epoch. Will enable text encoder training and latent caching (More VRAM)."
   },
   "Shuffle Tags": {
-    "key": "Shuffle Tags",
+    "key": "タグをシャッフル",
     "tooltip": "When enabled, tags after the first ',' in a prompt will be randomly ordered, which can potentially improve training."
   },
   "Source Checkpoint": {
-    "key": "Source Checkpoint",
+    "key": "ソースのチェックポイント",
     "tooltip": "The source checkpoint to extract for training."
   },
   "Step Ratio of Text Encoder Training": {
@@ -440,23 +440,23 @@
     "tooltip": "Total number of classification/regularization images to use. If no images exist, they will be generated. Set to 0 to disable prior preservation."
   },
   "Train Imagic Only": {
-    "key": "Train Imagic Only",
+    "key": "画像のみでトレーニング",
     "tooltip": "Uses Imagic for training instead of full dreambooth, useful for training with a single instance image."
   },
   "Train Text Encoder": {
-    "key": "Train Text Encoder",
-    "tooltip": "Enabling this will provide better results and editability, but cost more VRAM."
+    "key": "テキストエンコーダを訓練する",
+    "tooltip": "これを有効にすると、より良い結果と編集性が得られますが、より多くのVRAMを消費します。"
   },
   "Train": {
-    "key": "Train",
-    "tooltip": "Start training."
+    "key": "学習",
+    "tooltip": "トレーニングを開始"
   },
   "Training Steps Per Image (Epochs)": {
-    "key": "Training Steps Per Image (Epochs)",
-    "tooltip": "This is the total number of training steps that will be performed on each instance image."
+    "key": "イメージごとのトレーニングステップ (エポック)",
+    "tooltip": "これは、各インスタンス画像に対して実行されるトレーニングステップの総数である。"
   },
   "Training Wizard (Object/Style)": {
-    "key": "Training Wizard (Object/Style)",
+    "key": "トレーニングウィザード (オブジェクト/スタイル)",
     "tooltip": "Calculate training parameters for a non-human subject based on number of instance images and set larning rate. Disables prior preservation."
   },
   "Training Wizard (Person)": {
