@@ -237,7 +237,7 @@
   "B": "B",
   "C": "C",
   "Don't": "Don't",
-  "Bake in VAE": "Bake in VAE",
+  "Bake in VAE": "VAEに書き込み",
   "Discard weights with matching name": "Discard weights with matching name",
   "Merge": "マージ",
   "See": "詳細な説明については",
