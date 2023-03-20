@@ -7,7 +7,7 @@
 "Checkbox"
 "./template/ja_JP/extensions/Dreambooth.json" - "Checkbox".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Checkbox".
-"./template/ja_JP/extensions/Image Browser.json" - "Checkbox".
+"./template/ja_JP/extensions/Image Browser.json" - "チェックボックス".
 
 "Image"
 "./template/ja_JP/extensions/Dreambooth.json" - "Image".
@@ -18,7 +18,7 @@
 "./template/ja_JP/extensions/a1111-sd-webui-haku-img.json" - "Image".
 "./template/ja_JP/extensions/sd-webui-controlnet.json" - "画像".
 "./template/ja_JP/extensions/haku-img.json" - "画像".
-"./template/ja_JP/extensions/Image Browser.json" - "Image".
+"./template/ja_JP/extensions/Image Browser.json" - "画像".
 
 "DreamArtist"
 "./template/ja_JP/extensions/DreamArtist-sd-webui-extension.json" - "DreamArtist".
@@ -28,10 +28,10 @@
 "./template/ja_JP/extensions/Depth map library and poser.json" - "sd-webui-depth-lib".
 
 "Depth Library"
-"./template/ja_JP/extensions/Depth map library and poser.json" - "Depth Library".
+"./template/ja_JP/extensions/Depth map library and poser.json" - "Depth ライブラリ".
 
 "Pages:"
-"./template/ja_JP/extensions/Depth map library and poser.json" - "Pages:".
+"./template/ja_JP/extensions/Depth map library and poser.json" - "ページ".
 
 "Selected"
 "./template/ja_JP/extensions/Depth map library and poser.json" - "選択中".
@@ -79,17 +79,17 @@
 "./template/ja_JP/extensions/sd-webui-tunnels.json" - "sd-webui-tunnels".
 
 "OpenPose Editor"
-"./template/ja_JP/extensions/OpenPose Editor.json" - "OpenPose Editor".
+"./template/ja_JP/extensions/OpenPose Editor.json" - "OpenPose エディター".
 "./template/ja_JP/extensions/openpose-editor.json" - "OpenPoseエディタ".
 
 "Aesthetic Image Scorer"
-"./template/ja_JP/extensions/Aesthetic Image Scorer.json" - "審美的な画像のスコアラー".
+"./template/ja_JP/extensions/Aesthetic Image Scorer.json" - "美的画像のスコアラー".
 "./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "Aesthetic Image Scorer".
 
 "aesthetic_score"
-"./template/ja_JP/extensions/Aesthetic Image Scorer.json" - "aesthetic_score".
+"./template/ja_JP/extensions/Aesthetic Image Scorer.json" - "美的スコア".
 "./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "aesthetic_score".
-"./template/ja_JP/extensions/Image Browser.json" - "aesthetic_score".
+"./template/ja_JP/extensions/Image Browser.json" - "美的スコア".
 
 "sampler"
 "./template/ja_JP/extensions/Aesthetic Image Scorer.json" - "サンプラー".
@@ -259,12 +259,12 @@
 "Number of rows on the page"
 "./template/ja_JP/extensions/Inspiration.json" - "Number of rows on the page".
 "./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "Number of rows on the page".
-"./template/ja_JP/extensions/Image Browser.json" - "Number of rows on the page".
+"./template/ja_JP/extensions/Image Browser.json" - "ページ上の行数".
 
 "Minimum number of pages per load"
 "./template/ja_JP/extensions/Inspiration.json" - "Minimum number of pages per load".
 "./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "Minimum number of pages per load".
-"./template/ja_JP/extensions/Image Browser.json" - "Minimum number of pages per load".
+"./template/ja_JP/extensions/Image Browser.json" - "ロードあたりの最小ページ数".
 
 "Attention Heatmap"
 "./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "Attention Heatmap".
@@ -368,7 +368,7 @@
 
 "Wildcards"
 "./template/ja_JP/extensions/Wildcards.json" - "ワイルドカード".
-"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "Wildcards".
+"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "ワイルドカード".
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "ワイルドカード".
 
 "Booru tag autocompletion"
@@ -388,7 +388,7 @@
 "./template/ja_JP/extensions/Pixelization.json" - "stable-diffusion-webui-pixelization".
 
 "Artists To Study"
-"./template/ja_JP/extensions/Artists To Study.json" - "Artists To Study".
+"./template/ja_JP/extensions/Artists To Study.json" - "学習するアーティスト".
 
 "dog"
 "./template/ja_JP/extensions/Artists To Study.json" - "犬".
@@ -783,34 +783,34 @@
 "./template/ja_JP/extensions/Smart Process.json" - "取消".
 
 "Conditioning Highres"
-"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Conditioning Highres".
+"./template/ja_JP/extensions/conditioning-highres-fix.json" - "コンディショニングHighres.fix".
 
 "Conditioning Highres.fix strength (for sd-v1-5-inpainting)"
-"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Conditioning Highres.fix strength (for sd-v1-5-inpainting)".
+"./template/ja_JP/extensions/conditioning-highres-fix.json" - "コンディショニングHighres.fix強度(sd-v1-5インペイント用)".
 
 "Cond.fix: Disabled (none)"
-"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: Disabled (none)".
+"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: 無効 (無し)".
 
 "Cond.fix: Empty"
-"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: Empty".
+"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: なし".
 
 "Cond.fix: Lowest"
-"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: Lowest".
+"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: 最低値".
 
 "Cond.fix: Low"
-"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: Low".
+"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: 低".
 
 "Cond.fix: Medium"
-"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: Medium".
+"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: 中".
 
 "Cond.fix: High (recommended)"
-"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: High (recommended)".
+"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: 高 (推奨)".
 
 "Cond.fix: Highest"
-"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: Highest".
+"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: 最高".
 
 "Cond.fix: Full"
-"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: Full".
+"./template/ja_JP/extensions/conditioning-highres-fix.json" - "Cond.fix: フル".
 
 "stable-diffusion-webui-conditioning-highres-fix"
 "./template/ja_JP/extensions/conditioning-highres-fix.json" - "stable-diffusion-webui-conditioning-highres-fix".
@@ -1498,46 +1498,46 @@
 "./template/ja_JP/extensions/Text2Prompt.json" - "Text2Prompt".
 
 "Input Theme"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Input Theme".
+"./template/ja_JP/extensions/Text2Prompt.json" - "テーマを入力".
 
 "Input Negative Theme"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Input Negative Theme".
+"./template/ja_JP/extensions/Text2Prompt.json" - "ネガティブテーマを入力".
 
 "Negative strength"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Negative strength".
+"./template/ja_JP/extensions/Text2Prompt.json" - "ネガティブの強度".
 
 "Replace underscore in tag with whitespace"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Replace underscore in tag with whitespace".
+"./template/ja_JP/extensions/Text2Prompt.json" - "タグのアンダースコアを空白に置き換えます".
 
 "Escape brackets in tag"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Escape brackets in tag".
+"./template/ja_JP/extensions/Text2Prompt.json" - "タグの中に括弧をエスケープする".
 
 "Generation Settings"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Generation Settings".
+"./template/ja_JP/extensions/Text2Prompt.json" - "生成の設定".
 
 "Database"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Database".
+"./template/ja_JP/extensions/Text2Prompt.json" - "データベース".
 
 "Tag count filter"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Tag count filter".
+"./template/ja_JP/extensions/Text2Prompt.json" - "タグカウントフィルター".
 
 "Tag range:"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Tag range:".
+"./template/ja_JP/extensions/Text2Prompt.json" - "タグレンジ".
 
 "≥ 0 tagged"
-"./template/ja_JP/extensions/Text2Prompt.json" - "≥ 0 tagged".
+"./template/ja_JP/extensions/Text2Prompt.json" - "0以上のタグがあります".
 
 "(14589 tags total)"
-"./template/ja_JP/extensions/Text2Prompt.json" - "(14589 tags total)".
+"./template/ja_JP/extensions/Text2Prompt.json" - "(合計14589タグ)".
 
 "Method to convert similarity into probability"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Method to convert similarity into probability".
+"./template/ja_JP/extensions/Text2Prompt.json" - "類似性を確率に変換する方法".
 
 "Cutoff and Power"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Cutoff and Power".
+"./template/ja_JP/extensions/Text2Prompt.json" - "カットオフとパワー".
 
 "Softmax"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Softmax".
+"./template/ja_JP/extensions/Text2Prompt.json" - "ソフトマックス".
 
 "Power"
 "./template/ja_JP/extensions/Text2Prompt.json" - "Power".
@@ -1563,7 +1563,7 @@
 "./template/ja_JP/extensions/Text2Prompt.json" - "p value".
 
 "Use weighted choice"
-"./template/ja_JP/extensions/Text2Prompt.json" - "Use weighted choice".
+"./template/ja_JP/extensions/Text2Prompt.json" - "重み付きの選択を使用".
 
 "stable-diffusion-webui-text2prompt"
 "./template/ja_JP/extensions/Text2Prompt.json" - "stable-diffusion-webui-text2prompt".
@@ -1616,14 +1616,14 @@
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Model".
 "./template/ja_JP/extensions/sd-3dmodel-loader.json" - "Model".
 "./template/ja_JP/extensions/sd-webui-controlnet.json" - "モデル".
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "Model".
+"./template/ja_JP/extensions/sd-model-preview-xd.json" - "モデル".
 
 "Description"
 "./template/ja_JP/extensions/sd-webui-additional-networks.json" - "説明".
 
 "Generate Info"
 "./template/ja_JP/extensions/sd-webui-additional-networks.json" - "生成時の情報".
-"./template/ja_JP/extensions/Image Browser.json" - "Generate Info".
+"./template/ja_JP/extensions/Image Browser.json" - "生成時の情報".
 
 "date"
 "./template/ja_JP/extensions/sd-webui-additional-networks.json" - "日付".
@@ -1634,19 +1634,19 @@
 "./template/ja_JP/extensions/Image Browser.json" - "パス名".
 
 "Wildcards Manager"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Wildcards Manager".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "ワイルドカードの管理".
 
 "Dynamic Prompts enabled"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Dynamic Prompts enabled".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "Dynamic Prompts を有効にする".
 
 "Combinatorial generation"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Combinatorial generation".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "組み合わせ生成".
 
 "Max generations (0 = all combinations - the batch count value is ignored)"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Max generations (0 = all combinations - the batch count value is ignored)".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "最大生成数 (0 = すべての組み合わせ - この時バッチ数は無視されます)".
 
 "Combinatorial batches"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Combinatorial batches".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "組み合わせ生成のバッチ数".
 
 "Prompt Magic"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "Prompt Magic".
@@ -1655,16 +1655,16 @@
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "Magic prompt".
 
 "Max magic prompt length"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Max magic prompt length".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "Magic prompt の最大長".
 
 "Magic prompt creativity"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Magic prompt creativity".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "Magic prompt の創造性".
 
 "Magic prompt model"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Magic prompt model".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "Magic prompt モデル".
 
 "Magic prompt blocklist regex"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Magic prompt blocklist regex".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "Magic prompt のブロックリスト正規表現".
 
 "I'm feeling lucky"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "I'm feeling lucky".
@@ -2053,7 +2053,7 @@ E.g. in ./outputs/txt2img-images/.".
 "Checkpoints"
 "./template/ja_JP/extensions/Model Previews.json" - "チェックポイント".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Checkpoints".
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "Checkpoints".
+"./template/ja_JP/extensions/sd-model-preview-xd.json" - "チェックポイント".
 
 "Info, Links and Help"
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "情報、リンクおよびヘルプ".
@@ -2857,7 +2857,7 @@ E.g. in ./outputs/txt2img-images/.".
 
 "Blend"
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Blend".
-"./template/ja_JP/extensions/a1111-sd-webui-haku-img.json" - "Blend".
+"./template/ja_JP/extensions/a1111-sd-webui-haku-img.json" - "Layerで合成".
 "./template/ja_JP/extensions/haku-img.json" - "合成".
 
 "Difference"
@@ -3862,7 +3862,7 @@ E.g. in ./outputs/txt2img-images/.".
 
 "Show generated images in ui"
 "./template/ja_JP/extensions/shift-attention.json" - "生成された画像を Ui で表示する".
-"./template/ja_JP/extensions/seed_travel.json" - "Show generated images in ui".
+"./template/ja_JP/extensions/seed_travel.json" - "生成された画像を Ui で表示する".
 
 "Save results as video"
 "./template/ja_JP/extensions/shift-attention.json" - "結果を動画として保存".
@@ -3870,22 +3870,22 @@ E.g. in ./outputs/txt2img-images/.".
 
 "Frames per second"
 "./template/ja_JP/extensions/shift-attention.json" - "フレーム/秒".
-"./template/ja_JP/extensions/seed_travel.json" - "Frames per second".
+"./template/ja_JP/extensions/seed_travel.json" - "フレーム/秒".
 
 "Number of frames for lead in/out"
 "./template/ja_JP/extensions/shift-attention.json" - "リードイン/アウトのフレーム数".
-"./template/ja_JP/extensions/seed_travel.json" - "Number of frames for lead in/out".
+"./template/ja_JP/extensions/seed_travel.json" - "リードイン/アウトのフレーム数".
 
 "Upscale ratio"
 "./template/ja_JP/extensions/shift-attention.json" - "アップスケール比".
-"./template/ja_JP/extensions/seed_travel.json" - "Upscale ratio".
+"./template/ja_JP/extensions/seed_travel.json" - "アップスケール比".
 
 "shift-attention"
 "./template/ja_JP/extensions/shift-attention.json" - "shift-attention".
 
 "VRAM Estimator"
-"./template/ja_JP/extensions/a1111-stable-diffusion-webui-vram-estimator.json" - "VRAM推定".
-"./template/ja_JP/extensions/VRAM Estimator.json" - "VRAM Estimator".
+"./template/ja_JP/extensions/a1111-stable-diffusion-webui-vram-estimator.json" - "VRAM推定使用量チェック".
+"./template/ja_JP/extensions/VRAM Estimator.json" - "VRAM推定使用量チェック".
 
 "stable-diffusion-webui-two-shot"
 "./template/ja_JP/extensions/Latent Couple.json" - "stable-diffusion-webui-two-shot".
@@ -3900,7 +3900,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Latent Couple.json" - "重み".
 
 "end at this step"
-"./template/ja_JP/extensions/Latent Couple.json" - "end at this step".
+"./template/ja_JP/extensions/Latent Couple.json" - "このステップで終了".
 
 "Visualize"
 "./template/ja_JP/extensions/Latent Couple.json" - "可視化".
@@ -3909,7 +3909,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Latent Couple.json" - "領域".
 
 "Extra generation params"
-"./template/ja_JP/extensions/Latent Couple.json" - "Extra generation params".
+"./template/ja_JP/extensions/Latent Couple.json" - "追加生成パラメータ".
 
 "Apply"
 "./template/ja_JP/extensions/Latent Couple.json" - "適用".
@@ -3924,13 +3924,13 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Bilingual Localization.json" - "ローカライズファイル (`User Interface` - `Localization` をNoneとして残してください)".
 
 "Translation display order"
-"./template/ja_JP/extensions/Bilingual Localization.json" - "Translation display order".
+"./template/ja_JP/extensions/Bilingual Localization.json" - "表示順".
 
 "Translation First"
-"./template/ja_JP/extensions/Bilingual Localization.json" - "Translation First".
+"./template/ja_JP/extensions/Bilingual Localization.json" - "ローカライズを優先".
 
 "Original First"
-"./template/ja_JP/extensions/Bilingual Localization.json" - "Original First".
+"./template/ja_JP/extensions/Bilingual Localization.json" - "オリジナルを優先".
 
 "Localization dirs"
 "./template/ja_JP/extensions/Bilingual Localization.json" - "ローカライズのディレクトリ".
@@ -4608,10 +4608,10 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor.git".
 
 "Canvas Width"
-"./template/ja_JP/extensions/sd-webui-controlnet.json" - "Canvas Width".
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "キャンバスの幅".
 
 "Canvas Height"
-"./template/ja_JP/extensions/sd-webui-controlnet.json" - "Canvas Height".
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "キャンバスの高さ".
 
 "sd-webui-controlnet"
 "./template/ja_JP/extensions/sd-webui-controlnet.json" - "sd-webui-controlnet".
@@ -4840,22 +4840,22 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/haku-img.json" - "ぼかし".
 
 "kernel size"
-"./template/ja_JP/extensions/haku-img.json" - "kernel size".
+"./template/ja_JP/extensions/haku-img.json" - "カーネルサイズ".
 
 "sigma"
-"./template/ja_JP/extensions/haku-img.json" - "sigma".
+"./template/ja_JP/extensions/haku-img.json" - "シグマ値".
 
 "k_sigma"
-"./template/ja_JP/extensions/haku-img.json" - "k_sigma".
+"./template/ja_JP/extensions/haku-img.json" - "kシグマ値".
 
 "epsilon"
-"./template/ja_JP/extensions/haku-img.json" - "epsilon".
+"./template/ja_JP/extensions/haku-img.json" - "エプシロン".
 
 "phi"
 "./template/ja_JP/extensions/haku-img.json" - "phi".
 
 "gamma"
-"./template/ja_JP/extensions/haku-img.json" - "gamma".
+"./template/ja_JP/extensions/haku-img.json" - "ガンマ値".
 
 "color mode"
 "./template/ja_JP/extensions/haku-img.json" - "カラーモード".
@@ -4876,7 +4876,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/haku-img.json" - "ドットの大きさ".
 
 "outline inflating"
-"./template/ja_JP/extensions/haku-img.json" - "outline inflating".
+"./template/ja_JP/extensions/haku-img.json" - "アウトライン強調".
 
 "Smoothing"
 "./template/ja_JP/extensions/haku-img.json" - "スムージング".
@@ -4942,10 +4942,11 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/haku-img.json" - "a1111-sd-webui-haku-img".
 
 "Tokenizer"
-"./template/ja_JP/extensions/Tokenizer.json" - "Tokenizer".
+"./template/ja_JP/extensions/Tokenizer.json" - "トークナイザー".
 
 "Before your text is sent to the neural network, it gets turned into numbers in a process called tokenization. These tokens are how the neural network reads and interprets text. Thanks to our great friends at Shousetsu愛 for inspiration for this feature."
-"./template/ja_JP/extensions/Tokenizer.json" - "Before your text is sent to the neural network, it gets turned into numbers in a process called tokenization. These tokens are how the neural network reads and interprets text. Thanks to our great friends at Shousetsu愛 for inspiration for this feature.".
+"./template/ja_JP/extensions/Tokenizer.json" - "テキストはニューラルネットワークに送られる前に、トークン化と呼ばれるプロセスで数値に変換されます。このトークンによってニューラルネットワークはテキストを読み解くことができるのです。この機能のインスピレーションを与えてくれた、私たちの偉大な友人である
+ Shousetsu愛 に感謝します。".
 
 "Text input"
 "./template/ja_JP/extensions/Tokenizer.json" - "文字列入力".
@@ -4954,7 +4955,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Tokenizer.json" - "ID入力".
 
 "Tokenize"
-"./template/ja_JP/extensions/Tokenizer.json" - "Tokenize".
+"./template/ja_JP/extensions/Tokenizer.json" - "トークン化".
 
 "Text"
 "./template/ja_JP/extensions/Tokenizer.json" - "文字列".
@@ -4966,10 +4967,10 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Tokenizer.json" - "stable-diffusion-webui-tokenizer".
 
 "Prompt for tokenization"
-"./template/ja_JP/extensions/Tokenizer.json" - "Prompt for tokenization".
+"./template/ja_JP/extensions/Tokenizer.json" - "プロンプトのトークン化".
 
 "Ids for tokenization (example: 9061, 631, 736)"
-"./template/ja_JP/extensions/Tokenizer.json" - "Ids for tokenization (example: 9061, 631, 736)".
+"./template/ja_JP/extensions/Tokenizer.json" - "IDのトークン化 (例: 9061, 631, 736)".
 
 "Tag Autocomplete"
 "./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "自動タグ補完".
@@ -5032,43 +5033,43 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "LoRAを検索".
 
 "Show '?' next to tags, linking to its Danbooru or e621 wiki page (Warning: This is an external site and very likely contains NSFW examples!)"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Show '?' next to tags, linking to its Danbooru or e621 wiki page (Warning: This is an external site and very likely contains NSFW examples!)".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "タグの横に「?」を表示し、Danbooruまたはe621のwikiページにリンクします (警告:これは外部サイトで、NSFWの例が含まれている可能性が非常に高いです)".
 
 "Replace underscores with spaces on insertion"
 "./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "タグ挿入時にアンダースコアをスペースに置き換える".
 
 "Escape parentheses on insertion"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Escape parentheses on insertion".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "挿入時に括弧をエスケープする".
 
 "Append comma on tag autocompletion"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Append comma on tag autocompletion".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "タグの自動補完時にカンマを追加".
 
 "Search by alias"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Search by alias".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "エイリアスで検索".
 
 "Only show alias"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Only show alias".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "エイリアスのみ表示".
 
 "Translation filename"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Translation filename".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "ファイル名の翻訳".
 
 "Translation file uses old 3-column translation format instead of the new 2-column one"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Translation file uses old 3-column translation format instead of the new 2-column one".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "古い３カラムフォーマットの翻訳ファイルの代わりに新しい２カラムフォーマットのを使用する".
 
 "Search by translation"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Search by translation".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "訳文で検索".
 
 "Extra filename (for small sets of custom tags)"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Extra filename (for small sets of custom tags)".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "追加ファイル名 (小規模なカスタムタグ用)".
 
 "Mode to add the extra tags to the main tag list"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Mode to add the extra tags to the main tag list".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "メインタグリストに追加するモード".
 
 "Insert before"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Insert before".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "前に挿入".
 
 "Insert after"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Insert after".
+"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "後ろに挿入".
 
 "a1111-sd-webui-tagcomplete"
 "./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "a1111-sd-webui-tagcomplete".
@@ -5332,16 +5333,16 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/VRAM Estimator.json" - "https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator.git".
 
 "Model Pre​views"
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "Model Pre​views".
+"./template/ja_JP/extensions/sd-model-preview-xd.json" - "モデルのプレビュー".
 
 "Embeddings"
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "Embeddings".
+"./template/ja_JP/extensions/sd-model-preview-xd.json" - "埋め込み".
 
 "Filter"
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "Filter".
+"./template/ja_JP/extensions/sd-model-preview-xd.json" - "フィルター".
 
 "Notes"
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "Notes".
+"./template/ja_JP/extensions/sd-model-preview-xd.json" - "備考".
 
 "Model Preview XD"
 "./template/ja_JP/extensions/sd-model-preview-xd.json" - "Model Preview XD".
@@ -5356,10 +5357,10 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/sd-model-preview-xd.json" - "Strict".
 
 "Folder"
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "Folder".
+"./template/ja_JP/extensions/sd-model-preview-xd.json" - "フォルダー".
 
 "Index"
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "Index".
+"./template/ja_JP/extensions/sd-model-preview-xd.json" - "インデックス".
 
 "Limit the height of preivews to the height of the browser window (.html preview files are always limited regardless of this setting)"
 "./template/ja_JP/extensions/sd-model-preview-xd.json" - "Limit the height of preivews to the height of the browser window (.html preview files are always limited regardless of this setting)".
@@ -5368,37 +5369,37 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/sd-model-preview-xd.json" - "sd-model-preview-xd".
 
 "No Preview Found"
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "No Preview Found".
+"./template/ja_JP/extensions/sd-model-preview-xd.json" - "プレビューが見つかりませんでした".
 
 "Seed travel"
 "./template/ja_JP/extensions/seed_travel.json" - "Seed travel".
 
 "Destination seed(s) (Comma separated)"
-"./template/ja_JP/extensions/seed_travel.json" - "Destination seed(s) (Comma separated)".
+"./template/ja_JP/extensions/seed_travel.json" - "宛先シード値(カンマ区切り)".
 
 "Only use Random seeds (Unless comparing paths)"
-"./template/ja_JP/extensions/seed_travel.json" - "Only use Random seeds (Unless comparing paths)".
+"./template/ja_JP/extensions/seed_travel.json" - "ランダムシードのみを使用 (パスの比較を除く)".
 
 "Number of random seed(s)"
-"./template/ja_JP/extensions/seed_travel.json" - "Number of random seed(s)".
+"./template/ja_JP/extensions/seed_travel.json" - "ランダムシードの数".
 
 "Compare paths (Separate travels from 1st seed to each destination)"
-"./template/ja_JP/extensions/seed_travel.json" - "Compare paths (Separate travels from 1st seed to each destination)".
+"./template/ja_JP/extensions/seed_travel.json" - "パスを比較する(1つのシードからそれぞれの宛先への分離)".
 
 "Steps (Number of images between each seed)"
-"./template/ja_JP/extensions/seed_travel.json" - "Steps (Number of images between each seed)".
+"./template/ja_JP/extensions/seed_travel.json" - "ステップ (各シード間の画像数)".
 
 "Loop back to initial seed"
-"./template/ja_JP/extensions/seed_travel.json" - "Loop back to initial seed".
+"./template/ja_JP/extensions/seed_travel.json" - "初期シードにループバック".
 
 "Bump seed (If > 0 do a Compare Paths but only one image. No video will be generated.)"
-"./template/ja_JP/extensions/seed_travel.json" - "Bump seed (If > 0 do a Compare Paths but only one image. No video will be generated.)".
+"./template/ja_JP/extensions/seed_travel.json" - "Bump シード (> 0 の場合、パスの比較を行いますが、画像は 1 つだけです。ビデオは生成されません。)".
 
 "Use cache"
-"./template/ja_JP/extensions/seed_travel.json" - "Use cache".
+"./template/ja_JP/extensions/seed_travel.json" - "キャッシュを使用".
 
 "Interpolation rate"
-"./template/ja_JP/extensions/seed_travel.json" - "Interpolation rate".
+"./template/ja_JP/extensions/seed_travel.json" - "補間率".
 
 "Hug-the-middle"
 "./template/ja_JP/extensions/seed_travel.json" - "Hug-the-middle".
@@ -5407,19 +5408,19 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/seed_travel.json" - "Slow start".
 
 "Quick start"
-"./template/ja_JP/extensions/seed_travel.json" - "Quick start".
+"./template/ja_JP/extensions/seed_travel.json" - "Quick Start".
 
 "Rate strength"
-"./template/ja_JP/extensions/seed_travel.json" - "Rate strength".
+"./template/ja_JP/extensions/seed_travel.json" - "強度値".
 
 "Allow the default Euler a Sampling method. (Does not produce good results)"
-"./template/ja_JP/extensions/seed_travel.json" - "Allow the default Euler a Sampling method. (Does not produce good results)".
+"./template/ja_JP/extensions/seed_travel.json" - "デフォルトの Euler a サンプルアルゴリズムを許可します。(良い結果にはなりません)".
 
 "seed_travel"
 "./template/ja_JP/extensions/seed_travel.json" - "seed_travel".
 
 "Image Browser"
-"./template/ja_JP/extensions/Image Browser.json" - "Image Browser".
+"./template/ja_JP/extensions/Image Browser.json" - "画像ブラウザー".
 
 "txt2img-grids"
 "./template/ja_JP/extensions/Image Browser.json" - "txt2img-grids".
@@ -5440,10 +5441,10 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Image Browser.json" - "画像ディレクトリ".
 
 "Sub directory depth"
-"./template/ja_JP/extensions/Image Browser.json" - "Sub directory depth".
+"./template/ja_JP/extensions/Image Browser.json" - "サブディレクトリの深さ".
 
 "Add to / replace in saved directories"
-"./template/ja_JP/extensions/Image Browser.json" - "Add to / replace in saved directories".
+"./template/ja_JP/extensions/Image Browser.json" - "保存済ディレクトリに追加/置換".
 
 "Saved directories"
 "./template/ja_JP/extensions/Image Browser.json" - "保存先".
@@ -5458,16 +5459,16 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Image Browser.json" - "何も選択されていません".
 
 "Get sub directories"
-"./template/ja_JP/extensions/Image Browser.json" - "Get sub directories".
+"./template/ja_JP/extensions/Image Browser.json" - "サブディレクトリを取得".
 
 "Maintenance"
 "./template/ja_JP/extensions/Image Browser.json" - "メンテナンス".
 
 "⚠ Caution: You should only use these options if you know what you are doing. ⚠"
-"./template/ja_JP/extensions/Image Browser.json" - "⚠ Caution: You should only use these options if you know what you are doing. ⚠".
+"./template/ja_JP/extensions/Image Browser.json" - "⚠ 注意: これらのオプションは、何をしているか分かっている場合にのみ使用してください。⚠".
 
 "Status:"
-"./template/ja_JP/extensions/Image Browser.json" - "Status:".
+"./template/ja_JP/extensions/Image Browser.json" - "状態:".
 
 "Last message"
 "./template/ja_JP/extensions/Image Browser.json" - "前回のメッセージ".
@@ -5476,10 +5477,10 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Image Browser.json" - "Exifキャッシュを再構築".
 
 "Delete 0-entries from exif cache"
-"./template/ja_JP/extensions/Image Browser.json" - "Delete 0-entries from exif cache".
+"./template/ja_JP/extensions/Image Browser.json" - "exif キャッシュから 0 エントリを削除".
 
 "Update directory names in database"
-"./template/ja_JP/extensions/Image Browser.json" - "Update directory names in database".
+"./template/ja_JP/extensions/Image Browser.json" - "データベースのディレクトリ名を更新".
 
 "From (full path)"
 "./template/ja_JP/extensions/Image Browser.json" - "送信元 (フルパス)".
@@ -5488,16 +5489,16 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Image Browser.json" - "to (full path)".
 
 "Reapply ranking after moving files"
-"./template/ja_JP/extensions/Image Browser.json" - "Reapply ranking after moving files".
+"./template/ja_JP/extensions/Image Browser.json" - "ファイルを移動した後にランキングを再適用".
 
 "Dropdown"
-"./template/ja_JP/extensions/Image Browser.json" - "Dropdown".
+"./template/ja_JP/extensions/Image Browser.json" - "ドロップダウン".
 
 "First Page"
 "./template/ja_JP/extensions/Image Browser.json" - "最初のページ".
 
 "Prev Page"
-"./template/ja_JP/extensions/Image Browser.json" - "Prev Page".
+"./template/ja_JP/extensions/Image Browser.json" - "前のページ".
 
 "Page Index"
 "./template/ja_JP/extensions/Image Browser.json" - "ページのインデックス".
@@ -5512,25 +5513,25 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Image Browser.json" - "ランキング".
 
 "Next Image After Ranking (To be implemented)"
-"./template/ja_JP/extensions/Image Browser.json" - "Next Image After Ranking (To be implemented)".
+"./template/ja_JP/extensions/Image Browser.json" - "次回画像ランキング(実装予定)".
 
 "delete next"
-"./template/ja_JP/extensions/Image Browser.json" - "delete next".
+"./template/ja_JP/extensions/Image Browser.json" - "次を削除".
 
 "Delete"
 "./template/ja_JP/extensions/Image Browser.json" - "削除".
 
 "also delete off-screen images"
-"./template/ja_JP/extensions/Image Browser.json" - "also delete off-screen images".
+"./template/ja_JP/extensions/Image Browser.json" - "画面外の画像も削除します".
 
 "Additional Generation Info"
-"./template/ja_JP/extensions/Image Browser.json" - "Additional Generation Info".
+"./template/ja_JP/extensions/Image Browser.json" - "追加の生成情報".
 
 "sort by"
 "./template/ja_JP/extensions/Image Browser.json" - "並べ替え順".
 
 "cfg scale"
-"./template/ja_JP/extensions/Image Browser.json" - "cfg scale".
+"./template/ja_JP/extensions/Image Browser.json" - "CFGスケール".
 
 "steps"
 "./template/ja_JP/extensions/Image Browser.json" - "ステップ数".
@@ -5545,19 +5546,19 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Image Browser.json" - "モデルのHash値".
 
 "filename keyword"
-"./template/ja_JP/extensions/Image Browser.json" - "filename keyword".
+"./template/ja_JP/extensions/Image Browser.json" - "ファイル名 キーワード".
 
 "Filename keyword search"
-"./template/ja_JP/extensions/Image Browser.json" - "Filename keyword search".
+"./template/ja_JP/extensions/Image Browser.json" - "ファイル名 キーワード検索".
 
 "exif keyword"
 "./template/ja_JP/extensions/Image Browser.json" - "exif キーワード".
 
 "EXIF keyword search"
-"./template/ja_JP/extensions/Image Browser.json" - "EXIF keyword search".
+"./template/ja_JP/extensions/Image Browser.json" - "EXIF キーワード検索".
 
 "Search negative prompt"
-"./template/ja_JP/extensions/Image Browser.json" - "Search negative prompt".
+"./template/ja_JP/extensions/Image Browser.json" - "ネガティブプロンプトを検索".
 
 "Yes"
 "./template/ja_JP/extensions/Image Browser.json" - "Yes".
@@ -5566,52 +5567,52 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Image Browser.json" - "Only".
 
 "case sensitive"
-"./template/ja_JP/extensions/Image Browser.json" - "case sensitive".
+"./template/ja_JP/extensions/Image Browser.json" - "大文字と小文字を区別".
 
 "regex - e.g. ^(?!.*Hires).*$"
-"./template/ja_JP/extensions/Image Browser.json" - "regex - e.g. ^(?!.*Hires).*$".
+"./template/ja_JP/extensions/Image Browser.json" - "正規表現 - 例: ^(?!.*Hires).*$".
 
 "ranking filter"
-"./template/ja_JP/extensions/Image Browser.json" - "ranking filter".
+"./template/ja_JP/extensions/Image Browser.json" - "ランキングフィルター".
 
 "Ranking filter"
-"./template/ja_JP/extensions/Image Browser.json" - "Ranking filter".
+"./template/ja_JP/extensions/Image Browser.json" - "ランキングフィルター".
 
 "minimum aesthetic_score"
-"./template/ja_JP/extensions/Image Browser.json" - "minimum aesthetic_score".
+"./template/ja_JP/extensions/Image Browser.json" - "最小美的スコア".
 
 "Minimum aesthetic_score"
-"./template/ja_JP/extensions/Image Browser.json" - "Minimum aesthetic_score".
+"./template/ja_JP/extensions/Image Browser.json" - "最小美的スコア".
 
 "Maximum aesthetic_score"
-"./template/ja_JP/extensions/Image Browser.json" - "Maximum aesthetic_score".
+"./template/ja_JP/extensions/Image Browser.json" - "最大美的スコア".
 
 "Generation Info"
-"./template/ja_JP/extensions/Image Browser.json" - "Generation Info".
+"./template/ja_JP/extensions/Image Browser.json" - "生成時の情報".
 
 "File Name"
-"./template/ja_JP/extensions/Image Browser.json" - "File Name".
+"./template/ja_JP/extensions/Image Browser.json" - "ファイル名".
 
 "Move to favorites"
-"./template/ja_JP/extensions/Image Browser.json" - "Move to favorites".
+"./template/ja_JP/extensions/Image Browser.json" - "お気に入りへ移動".
 
 "Send to txt2img ControlNet"
-"./template/ja_JP/extensions/Image Browser.json" - "Send to txt2img ControlNet".
+"./template/ja_JP/extensions/Image Browser.json" - "txt2img ControlNet に転送".
 
 "Send to img2img ControlNet"
-"./template/ja_JP/extensions/Image Browser.json" - "Send to img2img ControlNet".
+"./template/ja_JP/extensions/Image Browser.json" - "img2img ControlNet に転送".
 
 "ControlNet number"
 "./template/ja_JP/extensions/Image Browser.json" - "ControlNet number".
 
 "Directory path"
-"./template/ja_JP/extensions/Image Browser.json" - "Directory path".
+"./template/ja_JP/extensions/Image Browser.json" - "ディレクトリ パス".
 
 "Move to directory"
-"./template/ja_JP/extensions/Image Browser.json" - "Move to directory".
+"./template/ja_JP/extensions/Image Browser.json" - "ディレクトリへ移動".
 
 "Renew Page"
-"./template/ja_JP/extensions/Image Browser.json" - "Renew Page".
+"./template/ja_JP/extensions/Image Browser.json" - "ページの更新".
 
 "set_index"
 "./template/ja_JP/extensions/Image Browser.json" - "set_index".
@@ -5623,61 +5624,61 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Image Browser.json" - "to_dir_load_switch".
 
 "turn_page_switch"
-"./template/ja_JP/extensions/Image Browser.json" - "turn_page_switch".
+"./template/ja_JP/extensions/Image Browser.json" - "ページをめくる".
 
 "List of active tabs (separated by commas). Available options are txt2img, img2img, txt2img-grids, img2img-grids, Extras, Favorites, Others. Custom folders are also supported by specifying their path."
-"./template/ja_JP/extensions/Image Browser.json" - "List of active tabs (separated by commas). Available options are txt2img, img2img, txt2img-grids, img2img-grids, Extras, Favorites, Others. Custom folders are also supported by specifying their path.".
+"./template/ja_JP/extensions/Image Browser.json" - "アクティブなタブの一覧 (カンマで区切られています). 利用可能なオプションは、txt2img, img2img-grid, img2img-grids, extras, Favorites, Othersです. パスを指定することで、カスタムフォルダもサポートされます。".
 
 "Select components to hide"
-"./template/ja_JP/extensions/Image Browser.json" - "Select components to hide".
+"./template/ja_JP/extensions/Image Browser.json" - "非表示にするコンポーネントを選択".
 
 "Include images in sub directories"
-"./template/ja_JP/extensions/Image Browser.json" - "Include images in sub directories".
+"./template/ja_JP/extensions/Image Browser.json" - "サブディレクトリ内の画像を含める".
 
 "Preload images at startup"
-"./template/ja_JP/extensions/Image Browser.json" - "Preload images at startup".
+"./template/ja_JP/extensions/Image Browser.json" - "起動時に画像をプリロードする".
 
 "Move buttons copy instead of move"
-"./template/ja_JP/extensions/Image Browser.json" - "Move buttons copy instead of move".
+"./template/ja_JP/extensions/Image Browser.json" - "移動ボタンは「移動」ではなく「コピー」に".
 
 "Print image deletion messages to the console"
-"./template/ja_JP/extensions/Image Browser.json" - "Print image deletion messages to the console".
+"./template/ja_JP/extensions/Image Browser.json" - "コンソールに画像削除メッセージを出力する".
 
 "Move/Copy/Delete matching .txt files"
-"./template/ja_JP/extensions/Image Browser.json" - "Move/Copy/Delete matching .txt files".
+"./template/ja_JP/extensions/Image Browser.json" - "一致する.txtファイルを移動/コピー/削除".
 
 "Print warning logs to the console"
-"./template/ja_JP/extensions/Image Browser.json" - "Print warning logs to the console".
+"./template/ja_JP/extensions/Image Browser.json" - "警告ログをコンソールに出力".
 
 "Print debug logs to the console"
-"./template/ja_JP/extensions/Image Browser.json" - "Print debug logs to the console".
+"./template/ja_JP/extensions/Image Browser.json" - "デバッグログをコンソールに出力".
 
 "Use recycle bin when deleting images"
-"./template/ja_JP/extensions/Image Browser.json" - "Use recycle bin when deleting images".
+"./template/ja_JP/extensions/Image Browser.json" - "画像を削除するときにごみ箱を使用".
 
 "Scan Exif-/.txt-data (initially slower, but required for many features to work)"
-"./template/ja_JP/extensions/Image Browser.json" - "Scan Exif-/.txt-data (initially slower, but required for many features to work)".
+"./template/ja_JP/extensions/Image Browser.json" - "Exif-/.txt-data をスキャンします (最初は遅くなりますが、多くの機能が動作するために必要です)".
 
 "Scan Exif-/.txt-data (slower, but required for exif-keyword-search)"
-"./template/ja_JP/extensions/Image Browser.json" - "Scan Exif-/.txt-data (slower, but required for exif-keyword-search)".
+"./template/ja_JP/extensions/Image Browser.json" - "Exif-/.txt-data をスキャンします (低速ですが、EXIF キーワード検索 に必要です)".
 
 "Change CTRL keybindings to SHIFT"
-"./template/ja_JP/extensions/Image Browser.json" - "Change CTRL keybindings to SHIFT".
+"./template/ja_JP/extensions/Image Browser.json" - "Ctrlキー割り当てをShiftに変更する".
 
 "or to CTRL+SHIFT"
-"./template/ja_JP/extensions/Image Browser.json" - "or to CTRL+SHIFT".
+"./template/ja_JP/extensions/Image Browser.json" - "または Ctrl + Shift".
 
 "Enable Maintenance tab"
-"./template/ja_JP/extensions/Image Browser.json" - "Enable Maintenance tab".
+"./template/ja_JP/extensions/Image Browser.json" - "メンテナンス タブを表示".
 
 "Save ranking in image's pnginfo"
-"./template/ja_JP/extensions/Image Browser.json" - "Save ranking in image's pnginfo".
+"./template/ja_JP/extensions/Image Browser.json" - "画像のpnginfo にランキングを保存".
 
 "Number of columns on the page"
-"./template/ja_JP/extensions/Image Browser.json" - "Number of columns on the page".
+"./template/ja_JP/extensions/Image Browser.json" - "ページ上の列数".
 
 "stable-diffusion-webui-images-browser"
 "./template/ja_JP/extensions/Image Browser.json" - "stable-diffusion-webui-images-browser".
 
 "Input images directory"
-"./template/ja_JP/extensions/Image Browser.json" - "Input images directory".
+"./template/ja_JP/extensions/Image Browser.json" - "入力画像のディレクトリ".
