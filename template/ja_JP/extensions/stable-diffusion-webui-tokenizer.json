@@ -5,7 +5,7 @@
   "ID input": "ID input",
   "Tokenize": "Tokenize",
   "Text": "Text",
-  "Tokens": "Tokens",
+  "Tokens": "トークン",
   "stable-diffusion-webui-tokenizer": "stable-diffusion-webui-tokenizer",
   "Prompt for tokenization": "Prompt for tokenization",
   "Ids for tokenization (example: 9061, 631, 736)": "Ids for tokenization (example: 9061, 631, 736)",
