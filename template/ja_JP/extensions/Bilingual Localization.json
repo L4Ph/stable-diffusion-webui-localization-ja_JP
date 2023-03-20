@@ -2,9 +2,9 @@
   "Bilingual Localization": "バイリンガル翻訳",
   "Enable Bilingual Localization": "バイリンガル翻訳を有効にする",
   "Localization file (Please leave `User interface` - `Localization` as None)": "ローカライズファイル (`User Interface` - `Localization` をNoneとして残してください)",
-  "Translation display order": "Translation display order",
-  "Translation First": "Translation First",
-  "Original First": "Original First",
+  "Translation display order": "表示順",
+  "Translation First": "ローカライズを優先",
+  "Original First": "オリジナルを優先",
   "Localization dirs": "ローカライズのディレクトリ",
   "sd-webui-bilingual-localization": "sd-webui-bilingual-localization"
 }
