@@ -7,11 +7,11 @@
     "Use grid (output to grid dir)": "グリッドを使用 (グリッドdirに出力)",
     "Grid layout": "グリッドレイアウト",
     "Auto": "自動",
-    "Prevent Empty Spot": "Prevent Empty Spot",
+    "Prevent Empty Spot": "空のスポットを防止する",
     "Batch Length As Row": "Batch Length As Row",
-    "Heatmap blend alpha": "Heatmap blend alpha",
-    "Heatmap image scale": "Heatmap image scale",
-    "Trace each layers": "Trace each layers",
+    "Heatmap blend alpha": "ヒートマップブレンド α",
+    "Heatmap image scale": "ヒートマップ画像のスケール",
+    "Trace each layers": "各レイヤーをトレース",
     "Use layers as row instead of Batch Length": "Use layers as row instead of Batch Length",
     "stable-diffusion-webui-daam": "stable-diffusion-webui-daam"
 }

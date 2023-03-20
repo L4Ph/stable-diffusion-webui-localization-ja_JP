@@ -20,7 +20,7 @@
   "Rebuild exif cache": "Exifキャッシュを再構築",
   "Delete 0-entries from exif cache": "exif キャッシュから 0 エントリを削除",
   "Update directory names in database": "データベースのディレクトリ名を更新",
-  "From (full path)": "to (full path)",
+  "From (full path)": "From (full path)",
   "to (full path)": "to (full path)",
   "Reapply ranking after moving files": "ファイルを移動した後にランキングを再適用",
   "Dropdown": "ドロップダウン",
