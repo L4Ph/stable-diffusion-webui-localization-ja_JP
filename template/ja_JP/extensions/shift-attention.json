@@ -1,10 +1,10 @@
 {
   "Shift attention": "Shift attention",
-  "Show generated images in ui": "Show generated images in ui",
-  "Save results as video": "Save results as video",
-  "Frames per second": "Frames per second",
-  "Number of frames for lead in/out": "Number of frames for lead in/out",
-  "Upscale ratio": "Upscale ratio",
+  "Show generated images in ui": "生成された画像を Ui で表示する",
+  "Save results as video": "結果を動画として保存",
+  "Frames per second": "フレーム/秒",
+  "Number of frames for lead in/out": "リードイン/アウトのフレーム数",
+  "Upscale ratio": "アップスケール比",
   "shift-attention": "shift-attention",
   "https://github.com/yownas/shift-attention.git": "https://github.com/yownas/shift-attention.git"
 }
