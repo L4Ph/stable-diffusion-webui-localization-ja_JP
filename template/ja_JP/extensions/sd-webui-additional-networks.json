@@ -90,7 +90,7 @@
   "Training parameters": "トレーニングパラメータ",
   "copy to clipboard": "クリップボードにコピー",
   "Generate Info": "生成時の情報",
-  "Extra paths to scan for LoRA models, comma-separated. Paths containing commas must be enclosed in double quotes. In the path, \" (one quote) must be replaced by \"\" (two quotes).": "追加でスキャンする LoRA モデルのパス (カンマで区切ることで複数指定できます)。パスの中でカンマを含む場合は必ず二重引用符で囲む必要があります。パス内の '' (単一引用符) は \"\" (二重引用符) に置き換える必要があります。",
+  "Extra paths to scan for LoRA models, comma-separated. Paths containing commas must be enclosed in double quotes. In the path, \" (one quote) must be replaced by \"\" (two quotes).": "追加でスキャンする LoRA モデルのパス (カンマで区切って複数指定)。パスの中でカンマを含む場合は必ず二重引用符で囲む必要がある。パス内の '' (単一引用符) は \"\" (二重引用符) に置き換える必要がある。",
   "Sort LoRA models by": "LoRAの並び替え",
   "name": "名前",
   "date": "日付",
