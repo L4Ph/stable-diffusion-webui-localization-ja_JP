@@ -1,6 +1,6 @@
 {
     "Enable pixelization": "Enable pixelization",
-    "Keep resolution": "Keep resolution",
-    "Pixel size": "Pixel size",
+    "Keep resolution": "解像度を保持",
+    "Pixel size": "ピクセルサイズ",
     "stable-diffusion-webui-pixelization": "stable-diffusion-webui-pixelization"
 }
