@@ -272,12 +272,12 @@
     "tooltip": "The URL to the model on huggingface. Should be in the format of 'developer/model_name'."
   },
   "Model": {
-    "key": "Model",
+    "key": "モデル",
     "tooltip": "The model to train."
   },
   "Name": {
-    "key": "Name",
-    "tooltip": "The name of the model to create."
+    "key": "名前",
+    "tooltip": "作成するモデルの名前"
   },
   "Number of Hard Resets": {
     "key": "Number of Hard Resets",
@@ -404,11 +404,11 @@
     "tooltip": "If a model was extracted or trained with EMA weights, these will be appended separately to the model for use in training later."
   },
   "Scale Position": {
-    "key": "Scale Position",
+    "key": "スケールの位置",
     "tooltip": "The percent in training where the 'final' learning rate should be achieved. If training at 100 epochs and this is set to 0.25, the final LR will be reached at epoch 25."
   },
   "Scheduler": {
-    "key": "Scheduler",
+    "key": "スケジューラー",
     "tooltip": "Model scheduler to use. Only applies to models before 2.0."
   },
   "Set Gradients to None When Zeroing": {
@@ -416,7 +416,7 @@
     "tooltip": "When performing the backwards pass, gradients will be set to none, instead of creating a new empty tensor. This will slightly improve VRAM."
   },
   "Shuffle After Epoch": {
-    "key": "Shuffle After Epoch",
+    "key": "エポック後シャッフル",
     "tooltip": "When enabled, will shuffle the dataset after the first epoch. Will enable text encoder training and latent caching (More VRAM)."
   },
   "Shuffle Tags": {
