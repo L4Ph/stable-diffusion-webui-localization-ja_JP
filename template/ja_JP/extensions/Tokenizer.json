@@ -1,6 +1,6 @@
 {
     "Tokenizer": "トークナイザー",
-    "Before your text is sent to the neural network, it gets turned into numbers in a process called tokenization. These tokens are how the neural network reads and interprets text. Thanks to our great friends at Shousetsu愛 for inspiration for this feature.": "Before your text is sent to the neural network, it gets turned into numbers in a process called tokenization. These tokens are how the neural network reads and interprets text. Thanks to our great friends at Shousetsu愛 for inspiration for this feature.",
+    "Before your text is sent to the neural network, it gets turned into numbers in a process called tokenization. These tokens are how the neural network reads and interprets text. Thanks to our great friends at Shousetsu愛 for inspiration for this feature.": "テキストはニューラルネットワークに送られる前に、トークン化と呼ばれるプロセスで数値に変換されます。このトークンによってニューラルネットワークはテキストを読み解くことができるのです。この機能のインスピレーションを与えてくれた、私たちの偉大な友人である\n Shousetsu愛 に感謝します。",
     "Text input": "文字列入力",
     "ID input": "ID入力",
     "Tokenize": "Tokenize",
