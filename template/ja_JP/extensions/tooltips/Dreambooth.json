@@ -1,7 +1,7 @@
 {
   "API Key": {
-    "key": "API Key",
-    "tooltip": "Used for securing the Web API. Click the refresh button to the right to (re)generate your key, the trash icon to remove it."
+    "key": "API キー",
+    "tooltip": "ウェブAPIのセキュリティ確保に使用します。右の更新ボタンをクリックするとキーが(再)生成され、ゴミ箱アイコンをクリックするとキーが削除されます。"
   },
   "AdamW Weight Decay": {
     "key": "AdamW Weight Decay",
@@ -16,19 +16,19 @@
     "tooltip": "Randomly decide to flip images horizontally."
   },
   "Batch Size": {
-    "key": "Batch Size",
+    "key": "バッチサイズ",
     "tooltip": "How many images to process at once per training step?"
   },
   "Cache Latents": {
     "key": "Cache Latents",
-    "tooltip": "When this box is checked latents will be cached. Caching latents will use more VRAM, but improve training speed."
+    "tooltip": "このボックスがチェックされている場合、レイテントはキャッシュされます。レイテントをキャッシュすると、より多くのVRAMを使用しますが、トレーニング速度は向上します。"
   },
   "Cancel": {
-    "key": "Cancel",
-    "tooltip": "Cancel training."
+    "key": "キャンセル",
+    "tooltip": "トレーニングをキャンセルする"
   },
   "Class Batch Size": {
-    "key": "Class Batch Size",
+    "key": "クラスのバッチサイズ",
     "tooltip": "How many classifier/regularization images to generate at once."
   },
   "Class Images Per Instance Image": {
@@ -36,11 +36,11 @@
     "tooltip": "How many classification images to use per instance image."
   },
   "Class Prompt": {
-    "key": "Class Prompt",
+    "key": "クラスプロンプト",
     "tooltip": "A prompt for generating classification/regularization images. See the readme for more info."
   },
   "Class Token": {
-    "key": "Class Token",
+    "key": "クラストークン",
     "tooltip": "When using [filewords], this is the class identifier to use/find in existing prompts. Should be a single word."
   },
   "Classification CFG Scale": {
@@ -52,11 +52,11 @@
     "tooltip": "The directory containing classification/regularization images."
   },
   "Classification Image Negative Prompt": {
-    "key": "Classification Image Negative Prompt",
-    "tooltip": "A negative prompt to use when generating class images. Can be empty."
+    "key": "分類イメージのネガティブプロンプト",
+    "tooltip": "クラスイメージを生成する際に使用するネガティブプロンプトです。空でも問題ありません。"
   },
   "Classification Steps": {
-    "key": "Classification Steps",
+    "key": "分類のステップ",
     "tooltip": "The number of steps to use when generating classifier/regularization images."
   },
   "Clip Skip": {
@@ -64,7 +64,7 @@
     "tooltip": "Use output of nth layer from back of text encoder (n>=1)"
   },
   "Concepts List": {
-    "key": "Concepts List",
+    "key": "コンセプト一覧",
     "tooltip": "The path to the concepts JSON file, or a JSON string."
   },
   "Constant/Linear Starting Factor": {
@@ -72,24 +72,24 @@
     "tooltip": "Sets the initial learning rate to the main_lr * this value. If you had a target LR of .000006 and set this to .5, the scheduler would start at .000003 and increase until it reached .000006."
   },
   "Create From Hub": {
-    "key": "Create From Hub",
+    "key": "ハブから作成",
     "tooltip": "Import a model from Huggingface.co instead of using a local checkpoint. Hub model MUST contain diffusion weights. You can specify a local folder with a cloned model, no HF token will be needed in this case."
   },
   "Create Model": {
-    "key": "Create Model",
-    "tooltip": "Create a new model."
+    "key": "モデルを作成",
+    "tooltip": "新しいモデルを作成"
   },
   "Create": {
-    "key": "Create",
+    "key": "作成",
     "tooltip": "Create the danged model already."
   },
   "Custom Model Name": {
-    "key": "Custom Model Name",
-    "tooltip": "A custom name to use when saving .ckpt and .pt files. Subdirectories will also be named this."
+    "key": "カスタムモデル名",
+    "tooltip": ".ckptおよび.ptファイルを保存するときに使用するカスタム名です。サブディレクトリもこの名前になります。"
   },
   "Dataset Directory": {
-    "key": "Dataset Directory",
-    "tooltip": "The directory containing training images."
+    "key": "データセットディレクトリ",
+    "tooltip": "学習用画像が格納されているディレクトリ"
   },
   "Debug Buckets": {
     "key": "Debug Buckets",
@@ -97,7 +97,7 @@
   },
   "Discord Webhook": {
     "key": "Discord Webhook",
-    "tooltip": "Send training samples to a Discord channel after generation."
+    "tooltip": "生成後にトレーニングサンプルをDiscordチャンネルに送信する"
   },
   "Existing Prompt Contents": {
     "key": "Existing Prompt Contents",
@@ -136,7 +136,7 @@
     "tooltip": "Generate sample images using the currently saved diffusers model."
   },
   "Generate Samples": {
-    "key": "Generate Samples",
+    "key": "サンプルを生成",
     "tooltip": "Trigger sample generation after the next training epoch."
   },
   "Generate a .ckpt file when saving during training.": {
