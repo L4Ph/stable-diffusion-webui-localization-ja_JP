@@ -216,15 +216,15 @@
     "tooltip": "現在のGPUメモリ使用量を記録します。"
   },
   "Lora Model": {
-    "key": "ローラモデル",
+    "key": "Loraモデル",
     "tooltip": "The Lora model to load for continued fine-tuning or checkpoint generation."
   },
   "Use Lora Extended": {
     "key": "Lora 拡張を使用",
-    "tooltip": "ローラモデルをレネットレイヤーで訓練します。これにより、品質と編集性が常に向上しますが、ファイルが大きくなります。"
+    "tooltip": "Loraモデルをレネットレイヤーで訓練します。これにより、品質と編集性が常に向上しますが、ファイルが大きくなります。"
   },
   "Lora UNET Rank": {
-    "key": "ローラUNETランク",
+    "key": "Lora UNET ランク",
     "tooltip": "Lora UNETのランク(デフォルトは4) 。高い値＝ファイルサイズが大きくても品質が良い。低い値 = 低いファイルサイズで品質を犠牲にする。学習率はランクによって異なる働きをします。高精度(fp32) でロラを保存すると、ロラファイルが大きくなります。"
   },
   "Lora Text Encoder Rank": {
@@ -492,7 +492,7 @@
     "tooltip": "When enabled, save frequencies below are based on number of epochs. When disabled, frequencies are based on number of training steps."
   },
   "Use LORA": {
-    "key": "ローラを使用",
+    "key": "LORAを使用",
     "tooltip": "Uses Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning. Uses less VRAM, saves a .pt file instead of a full checkpoint"
   },
   "Use Lifetime Epochs When Saving": {
