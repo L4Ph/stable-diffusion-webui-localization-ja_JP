@@ -1,13 +1,13 @@
 {
-    "Conditioning Highres": "Conditioning Highres",
-    "Conditioning Highres.fix strength (for sd-v1-5-inpainting)": "Conditioning Highres.fix strength (for sd-v1-5-inpainting)",
-    "Cond.fix: Disabled (none)": "Cond.fix: Disabled (none)",
-    "Cond.fix: Empty": "Cond.fix: Empty",
-    "Cond.fix: Lowest": "Cond.fix: Lowest",
-    "Cond.fix: Low": "Cond.fix: Low",
-    "Cond.fix: Medium": "Cond.fix: Medium",
-    "Cond.fix: High (recommended)": "Cond.fix: High (recommended)",
-    "Cond.fix: Highest": "Cond.fix: Highest",
-    "Cond.fix: Full": "Cond.fix: Full",
+    "Conditioning Highres": "コンディショニングHighres.fix",
+    "Conditioning Highres.fix strength (for sd-v1-5-inpainting)": "コンディショニングHighres.fix強度(sd-v1-5インペイント用)",
+    "Cond.fix: Disabled (none)": "Cond.fix: 無効 (無し)",
+    "Cond.fix: Empty": "Cond.fix: なし",
+    "Cond.fix: Lowest": "Cond.fix: 最低値",
+    "Cond.fix: Low": "Cond.fix: 低い",
+    "Cond.fix: Medium": "Cond.fix: 中",
+    "Cond.fix: High (recommended)": "Cond.fix: 高 (推奨)",
+    "Cond.fix: Highest": "Cond.fix: 最高",
+    "Cond.fix: Full": "Cond.fix: フル",
     "stable-diffusion-webui-conditioning-highres-fix": "stable-diffusion-webui-conditioning-highres-fix"
 }
