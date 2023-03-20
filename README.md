@@ -27,8 +27,8 @@ Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんが�
 <details>
 <summary>WebUI</summary>
 
-- [ ] ![ExtensionList translated 68%](https://geps.dev/progress/68?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [ExtensionList](https://raw.githubusercontent.com/wiki/AUTOMATIC1111/stable-diffusion-webui/Extensions-index.md)
-- [ ] ![StableDiffusion translated 90%](https://geps.dev/progress/90?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [ ] ![ExtensionList translated 74%](https://geps.dev/progress/74?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [ExtensionList](https://raw.githubusercontent.com/wiki/AUTOMATIC1111/stable-diffusion-webui/Extensions-index.md)
+- [ ] ![StableDiffusion translated 95%](https://geps.dev/progress/95?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 </details>
 
 <details>
@@ -75,9 +75,9 @@ Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんが�
 - [ ] ![auto-sd-paint-ext translated 7%](https://geps.dev/progress/7?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [auto-sd-paint-ext](https://github.com/Interpause/auto-sd-paint-ext)
 - [x] ![conditioning-highres-fix translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [conditioning-highres-fix]()
 - [ ] ![deforum-for-automatic1111-webui translated 1%](https://geps.dev/progress/1?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui)
-- [ ] ![haku-img translated 91%](https://geps.dev/progress/91?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [haku-img]()
+- [x] ![haku-img translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [haku-img]()
 - [x] ![novelai-2-local-prompt translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [novelai-2-local-prompt](https://github.com/animerl/novelai-2-local-prompt)
-- [ ] ![openOutpaint extension translated 0%](https://geps.dev/progress/0?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [openOutpaint extension]()
+- [x] ![openOutpaint extension translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [openOutpaint extension]()
 - [ ] ![openOutpaint-webUI-extension translated 0%](https://geps.dev/progress/0?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [openOutpaint-webUI-extension](https://github.com/zero01101/openOutpaint-webUI-extension)
 - [x] ![openpose-editor translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [openpose-editor](https://github.com/fkunn1326/openpose-editor)
 - [x] ![posex translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [posex](https://github.com/hnmr293/posex)
