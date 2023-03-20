@@ -6,8 +6,13 @@
 
 ~~また、2カ国語の同時表示を可能にする[Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)拡張機能との併用を推奨します。  
 この拡張機能を使えば、日本語環境での利用だけでなく、英語での情報収集も容易になります。~~  
-**現在はこの拡張機能を標準で組み込んでいます**
+**現在はバイリンガル対応の拡張機能を標準で組み込んでいます**  
 [使い方はコチラ](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)
+
+## 翻訳がおかしい/翻訳を手伝う
+### [Crowdin](https://crwd.in/stable-diffusion-webui-localization-ja_JP)から翻訳ができます!
+気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues)を投げましょう!  
+分からないことがあれば[Disscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)へどうぞ!  
 
 ## ローカライズの進捗
 
@@ -158,10 +163,6 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 2. ページ下部のオレンジ色のボタン(*Restart Gradio and Refresh components*)をクリックして、web UIを再起動します。
 ![](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
 
-## 翻訳がおかしい/翻訳を手伝う
-### [Crowdin](https://crwd.in/stable-diffusion-webui-localization-ja_JP)から翻訳ができます!
-気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues)を投げましょう!  
-分からないことがあれば[Disscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)へどうぞ!  
 
 # Thanks
 - [stable-diffusion-webui-localization-source](https://github.com/harukaxxxx/stable-diffusion-webui-localization-source)
