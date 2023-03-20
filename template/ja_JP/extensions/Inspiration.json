@@ -11,7 +11,7 @@
     "This takes server hours depending on your GPU type and how many pictures  you generate for each artist/style": "This takes server hours depending on your GPU type and how many pictures  you generate for each artist/style",
     "I suggest at least four images for each": "I suggest at least four images for each",
     "You can also download generated pictures from here:": "You can also download generated pictures from here:",
-    "unzip the file to": "unzip the file to",
+    "unzip the file to": "ファイルの解凍先",
     "/extections/stable-diffusion-webui-inspiration": "/extections/stable-diffusion-webui-inspiration",
     "and restart webui, and enjoy the joy of creation!": "and restart webui, and enjoy the joy of creation!",
     "Maximum number of samples, used to determine which folders to skip when continue running the create script": "Maximum number of samples, used to determine which folders to skip when continue running the create script",
