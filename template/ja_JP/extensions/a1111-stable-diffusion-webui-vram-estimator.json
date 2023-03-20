@@ -1,10 +1,10 @@
 {
-  "VRAM Estimator": "VRAM Estimator",
-  "Plot": "Plot",
-  "Max Image Size": "Max Image Size",
-  "Max Batch Count": "Max Batch Count",
-  "Run benchmark": "Run benchmark",
-  "Load results": "Load results",
+  "VRAM Estimator": "VRAM推定",
+  "Plot": "プロット",
+  "Max Image Size": "最大画像サイズ",
+  "Max Batch Count": "最大バッチ数",
+  "Run benchmark": "ベンチマークを実行",
+  "Load results": "結果を読み込む",
   "a1111-stable-diffusion-webui-vram-estimator": "a1111-stable-diffusion-webui-vram-estimator",
   "https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator.git": "https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator.git"
 }
