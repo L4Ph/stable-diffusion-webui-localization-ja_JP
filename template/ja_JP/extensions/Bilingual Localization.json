@@ -1,10 +1,10 @@
 {
-  "Bilingual Localization": "Bilingual Localization",
-  "Enable Bilingual Localization": "Enable Bilingual Localization",
-  "Localization file (Please leave `User interface` - `Localization` as None)": "Localization file (Please leave `User interface` - `Localization` as None)",
+  "Bilingual Localization": "バイリンガル翻訳",
+  "Enable Bilingual Localization": "バイリンガル翻訳を有効にする",
+  "Localization file (Please leave `User interface` - `Localization` as None)": "ローカライズファイル (`User Interface` - `Localization` をNoneとして残してください)",
   "Translation display order": "Translation display order",
   "Translation First": "Translation First",
   "Original First": "Original First",
-  "Localization dirs": "Localization dirs",
+  "Localization dirs": "ローカライズのディレクトリ",
   "sd-webui-bilingual-localization": "sd-webui-bilingual-localization"
 }
