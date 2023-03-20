@@ -2,6 +2,6 @@
   "sd-webui-depth-lib": "sd-webui-depth-lib",
   "Depth Library": "Depth Library",
   "Pages:": "Pages:",
-  "Selected": "Selected",
-  "Send to ControlNet": "Send to ControlNet"
+  "Selected": "選択中",
+  "Send to ControlNet": "ControlNet に送る"
 }
