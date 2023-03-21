@@ -1,15 +1,15 @@
 {
   "Embedding Editor": "Embedding Editor",
   "Vector": "ベクトル",
-  "Refresh Embeddings": "Refresh Embeddings",
-  "Save Embedding": "Save Embedding",
+  "Refresh Embeddings": "Embeddingsを更新",
+  "Save Embedding": "Embeddingを保存",
   "Enter words and color hexes to mark weights on the sliders for guidance. Hint: Use the txt2img prompt token counter or": "Enter words and color hexes to mark weights on the sliders for guidance. Hint: Use the txt2img prompt token counter or",
   "webui-tokenizer": "webui-tokenizer",
-  "to see which words are constructed using multiple sub-words, e.g. 'computer' doesn't exist in stable diffusion's CLIP dictionary and instead 'compu' and 'ter' are used (1 word but 2 embedding vectors). Currently buggy and needs a moment to process before pressing the button. If it doesn't work after a moment, try adding a random space to refresh it.": "to see which words are constructed using multiple sub-words, e.g. 'computer' doesn't exist in stable diffusion's CLIP dictionary and instead 'compu' and 'ter' are used (1 word but 2 embedding vectors). Currently buggy and needs a moment to process before pressing the button. If it doesn't work after a moment, try adding a random space to refresh it.",
+  "to see which words are constructed using multiple sub-words, e.g. 'computer' doesn't exist in stable diffusion's CLIP dictionary and instead 'compu' and 'ter' are used (1 word but 2 embedding vectors). Currently buggy and needs a moment to process before pressing the button. If it doesn't work after a moment, try adding a random space to refresh it.": "複数のサブワードを使用して構成されている単語を確認します。「computer」はstable diffusionの CLIP 辞書に存在せず、代わりに「compu」と「ter」が使用されます (1 語で 2 つの埋め込みベクトル)。 現在バグがあり、ボタンを押す前に処理する時間が必要です。 しばらくしてもうまくいかない場合は、ランダムなスペースを追加して更新してみてください。",
   "Sampling Steps": "サンプリングステップ数",
   "Generate Preview": "プレビューを生成",
   "stable-diffusion-webui-embedding-editor": "stable-diffusion-webui-embedding-editor",
   "https://github.com/CodeExplode/stable-diffusion-webui-embedding-editor.git": "https://github.com/CodeExplode/stable-diffusion-webui-embedding-editor.git",
   "symbol:color-hex, symbol:color-hex, ...": "symbol:color-hex, symbol:color-hex, ...",
-  "e.g. A portrait photo of embedding_name": "e.g. A portrait photo of embedding_name"
+  "e.g. A portrait photo of embedding_name": "例: A portrait photo of embedding_name"
 }
