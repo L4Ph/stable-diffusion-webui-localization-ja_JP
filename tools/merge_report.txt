@@ -10,19 +10,19 @@
 "./template/ja_JP/extensions/Image Browser.json" - "チェックボックス".
 
 "Image"
-"./template/ja_JP/extensions/Dreambooth.json" - "Image".
+"./template/ja_JP/extensions/Dreambooth.json" - "画像".
 "./template/ja_JP/extensions/DreamArtist-sd-webui-extension.json" - "画像".
-"./template/ja_JP/extensions/DreamArtist.json" - "Image".
-"./template/ja_JP/extensions/training-picker.json" - "Image".
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Image".
+"./template/ja_JP/extensions/DreamArtist.json" - "画像".
+"./template/ja_JP/extensions/training-picker.json" - "画像".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "画像".
 "./template/ja_JP/extensions/a1111-sd-webui-haku-img.json" - "Image".
 "./template/ja_JP/extensions/sd-webui-controlnet.json" - "画像".
 "./template/ja_JP/extensions/haku-img.json" - "画像".
 "./template/ja_JP/extensions/Image Browser.json" - "画像".
 
 "DreamArtist"
-"./template/ja_JP/extensions/DreamArtist-sd-webui-extension.json" - "DreamArtist".
-"./template/ja_JP/extensions/DreamArtist.json" - "DreamArtist".
+"./template/ja_JP/extensions/DreamArtist-sd-webui-extension.json" - "ドリームアーティスト".
+"./template/ja_JP/extensions/DreamArtist.json" - "ドリームアーティスト".
 
 "sd-webui-depth-lib"
 "./template/ja_JP/extensions/Depth map library and poser.json" - "sd-webui-depth-lib".
@@ -84,11 +84,11 @@
 
 "Aesthetic Image Scorer"
 "./template/ja_JP/extensions/Aesthetic Image Scorer.json" - "美的画像のスコアラー".
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "Aesthetic Image Scorer".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "審美的な画像スコア".
 
 "aesthetic_score"
 "./template/ja_JP/extensions/Aesthetic Image Scorer.json" - "美的スコア".
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "aesthetic_score".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "美的スコア".
 "./template/ja_JP/extensions/Image Browser.json" - "美的スコア".
 
 "sampler"
@@ -105,93 +105,93 @@
 "./template/ja_JP/extensions/auto-sd-paint-ext.json" - "auto-sd-paint-ext".
 
 "DreamArtist Create embedding"
-"./template/ja_JP/extensions/DreamArtist.json" - "DreamArtist Create embedding".
+"./template/ja_JP/extensions/DreamArtist.json" - "ドリームアーティスト 埋め込みの作成".
 
 "DreamArtist Train"
-"./template/ja_JP/extensions/DreamArtist.json" - "DreamArtist Train".
+"./template/ja_JP/extensions/DreamArtist.json" - "ドリームアーティストのトレーニングを行う".
 
 "Process Att-Map"
-"./template/ja_JP/extensions/DreamArtist.json" - "Process Att-Map".
+"./template/ja_JP/extensions/DreamArtist.json" - "Att-Mapの処理を行う".
 
 "Initialization text (negative)"
-"./template/ja_JP/extensions/DreamArtist.json" - "Initialization text (negative)".
+"./template/ja_JP/extensions/DreamArtist.json" - "初期化テキスト（ネガティブ）".
 
 "Number of negative vectors per token"
-"./template/ja_JP/extensions/DreamArtist.json" - "Number of negative vectors per token".
+"./template/ja_JP/extensions/DreamArtist.json" - "トークンごとのネガティブベクトルの数".
 
 "Unet Learning rate"
-"./template/ja_JP/extensions/DreamArtist.json" - "Unet Learning rate".
+"./template/ja_JP/extensions/DreamArtist.json" - "Unetの学習率".
 
 "Train with DreamArtist"
-"./template/ja_JP/extensions/DreamArtist.json" - "Train with DreamArtist".
+"./template/ja_JP/extensions/DreamArtist.json" - "ドリームアーティストでトレーニング".
 
 "Train with reconstruction"
-"./template/ja_JP/extensions/DreamArtist.json" - "Train with reconstruction".
+"./template/ja_JP/extensions/DreamArtist.json" - "再構築でトレーニング".
 
 "Attention Map"
-"./template/ja_JP/extensions/DreamArtist.json" - "Attention Map".
+"./template/ja_JP/extensions/DreamArtist.json" - "アテンションマップ".
 
 "Train U-Net"
-"./template/ja_JP/extensions/DreamArtist.json" - "Train U-Net".
+"./template/ja_JP/extensions/DreamArtist.json" - "U-Netでトレーニングする".
 
 "CFG scale (dynamic cfg: low,high:type e.g. 1.0-3.5:cos)"
-"./template/ja_JP/extensions/DreamArtist.json" - "CFG scale (dynamic cfg: low,high:type e.g. 1.0-3.5:cos)".
+"./template/ja_JP/extensions/DreamArtist.json" - "CFGスケール (動的 cfg: low,high:type 例: 1.0-3.5:cos)".
 
 "Reconstruction loss weight"
-"./template/ja_JP/extensions/DreamArtist.json" - "Reconstruction loss weight".
+"./template/ja_JP/extensions/DreamArtist.json" - "再構築 損失の重み".
 
 "Negative lr weight"
-"./template/ja_JP/extensions/DreamArtist.json" - "Negative lr weight".
+"./template/ja_JP/extensions/DreamArtist.json" - "ネガティブ学習率の重み".
 
 "Classifier path"
-"./template/ja_JP/extensions/DreamArtist.json" - "Classifier path".
+"./template/ja_JP/extensions/DreamArtist.json" - "分類器のパス".
 
 "Accumulation steps"
-"./template/ja_JP/extensions/DreamArtist.json" - "Accumulation steps".
+"./template/ja_JP/extensions/DreamArtist.json" - "蓄積ステップ".
 
 "Prompt template file"
-"./template/ja_JP/extensions/DreamArtist.json" - "Prompt template file".
-"./template/ja_JP/extensions/Hypernetwork-Monkeypatch-Extension.json" - "Prompt template file".
+"./template/ja_JP/extensions/DreamArtist.json" - "プロンプトテンプレートファイル".
+"./template/ja_JP/extensions/Hypernetwork-Monkeypatch-Extension.json" - "プロンプトテンプレートファイル".
 
 "Positive "filewords" only"
-"./template/ja_JP/extensions/DreamArtist.json" - "Positive "filewords" only".
+"./template/ja_JP/extensions/DreamArtist.json" - "ポジティブ「ファイルワード」のみ".
 
 "Experimental features (May be solve the problem of erratic training and difficult to reproduce [set EMA to 0.97])"
-"./template/ja_JP/extensions/DreamArtist.json" - "Experimental features (May be solve the problem of erratic training and difficult to reproduce [set EMA to 0.97])".
+"./template/ja_JP/extensions/DreamArtist.json" - "実験的な機能（不安定なトレーニングや再現性の低い問題を解決する可能性があります。[EMAを0.97に設定]）".
 
 "EMA (positive)"
-"./template/ja_JP/extensions/DreamArtist.json" - "EMA (positive)".
+"./template/ja_JP/extensions/DreamArtist.json" - "EMA（ポジティブ）".
 
 "EMA replace steps (positive)"
-"./template/ja_JP/extensions/DreamArtist.json" - "EMA replace steps (positive)".
+"./template/ja_JP/extensions/DreamArtist.json" - "EMAの置換ステップ（ポジティブ）".
 
 "EMA (nagetive)"
-"./template/ja_JP/extensions/DreamArtist.json" - "EMA (nagetive)".
+"./template/ja_JP/extensions/DreamArtist.json" - "EMA（ネガティブ）".
 
 "EMA replace steps (nagative)"
-"./template/ja_JP/extensions/DreamArtist.json" - "EMA replace steps (nagative)".
+"./template/ja_JP/extensions/DreamArtist.json" - "EMAの置換ステップ（ネガティブ）".
 
 "beta1"
-"./template/ja_JP/extensions/DreamArtist.json" - "beta1".
+"./template/ja_JP/extensions/DreamArtist.json" - "ベータ1".
 
 "beta2"
-"./template/ja_JP/extensions/DreamArtist.json" - "beta2".
+"./template/ja_JP/extensions/DreamArtist.json" - "ベータ2".
 
 "Since there is a self-attention operation in VAE, it may change the distribution of features. This processing will superimpose the attention map of self-attention on the original Att-Map."
-"./template/ja_JP/extensions/DreamArtist.json" - "Since there is a self-attention operation in VAE, it may change the distribution of features. This processing will superimpose the attention map of self-attention on the original Att-Map.".
+"./template/ja_JP/extensions/DreamArtist.json" - "VAEにはself-attention操作があるため、特徴の分布が変化する可能性があります。この処理では、self-attentionのアテンションマップを元のAtt-Mapに重ね合わせます。".
 
 "Data directory"
-"./template/ja_JP/extensions/DreamArtist.json" - "Data directory".
+"./template/ja_JP/extensions/DreamArtist.json" - "データディレクトリ".
 
 "Process"
-"./template/ja_JP/extensions/DreamArtist.json" - "Process".
-"./template/ja_JP/extensions/training-picker.json" - "Process".
+"./template/ja_JP/extensions/DreamArtist.json" - "プロセス".
+"./template/ja_JP/extensions/training-picker.json" - "プロセス".
 
 "DreamArtist-sd-webui-extension"
 "./template/ja_JP/extensions/DreamArtist.json" - "DreamArtist-sd-webui-extension".
 
 "Path to classifier ckpt, can be empty"
-"./template/ja_JP/extensions/DreamArtist.json" - "Path to classifier ckpt, can be empty".
+"./template/ja_JP/extensions/DreamArtist.json" - "分類器ckptへのパス。空白にすることもできます。".
 
 "https://github.com/7eu7d7/DreamArtist-sd-webui-extension.git"
 "./template/ja_JP/extensions/DreamArtist.json" - "https://github.com/7eu7d7/DreamArtist-sd-webui-extension.git".
@@ -203,7 +203,10 @@
 "./template/ja_JP/extensions/Image Browser.json" - "Number".
 
 "training-picker"
-"./template/ja_JP/extensions/training-picker.json" - "training-picker".
+"./template/ja_JP/extensions/training-picker.json" - "training picker".
+
+"stable-diffusion-webui-rembg"
+"./template/ja_JP/extensions/stable-diffusion-webui-rembg.json" - "stable-diffusion-webui-rembg".
 
 "Latent Couple"
 "./template/ja_JP/extensions/stable-diffusion-webui-two-shot.json" - "Latent Couple".
@@ -211,7 +214,7 @@
 
 "Linear"
 "./template/ja_JP/extensions/seed travel.json" - "Linear".
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Linear".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "線型".
 "./template/ja_JP/extensions/seed_travel.json" - "Linear".
 
 "LLuL"
@@ -227,7 +230,7 @@
 
 "Unprompted"
 "./template/ja_JP/extensions/Unprompted.json" - "Unprompted".
-"./template/ja_JP/extensions/unprompted.json" - "Unprompted".
+"./template/ja_JP/extensions/unprompted.json" - "未プロンプト".
 
 "posex"
 "./template/ja_JP/extensions/posex.json" - "posex".
@@ -237,10 +240,10 @@
 
 "Output"
 "./template/ja_JP/extensions/stable-diffusion-webui-text2prompt.json" - "出力".
-"./template/ja_JP/extensions/Deforum.json" - "Output".
+"./template/ja_JP/extensions/Deforum.json" - "出力".
 "./template/ja_JP/extensions/Text2Prompt.json" - "出力".
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "出力".
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Output".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "出力".
 
 "Randomize"
 "./template/ja_JP/extensions/Randomize.json" - "ランダムに生成".
@@ -253,36 +256,36 @@
 "./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "有効化".
 
 "Inspiration"
-"./template/ja_JP/extensions/Inspiration.json" - "Inspiration".
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "Inspiration".
+"./template/ja_JP/extensions/Inspiration.json" - "インスピレーション".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "インスピレーション".
 
 "Number of rows on the page"
-"./template/ja_JP/extensions/Inspiration.json" - "Number of rows on the page".
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "Number of rows on the page".
+"./template/ja_JP/extensions/Inspiration.json" - "ページ上の行数".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "ページ上の行数".
 "./template/ja_JP/extensions/Image Browser.json" - "ページ上の行数".
 
 "Minimum number of pages per load"
-"./template/ja_JP/extensions/Inspiration.json" - "Minimum number of pages per load".
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "Minimum number of pages per load".
+"./template/ja_JP/extensions/Inspiration.json" - "ロードあたりの最小ページ数".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "ロードあたりの最小ページ数".
 "./template/ja_JP/extensions/Image Browser.json" - "ロードあたりの最小ページ数".
 
 "Attention Heatmap"
-"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "Attention Heatmap".
+"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "ヒートマップ".
 
 "Attention texts for visualization. (comma separated)"
-"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "Attention texts for visualization. (comma separated)".
+"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "視覚化のためのテキスト(カンマ区切り)".
 
 "Hide heatmap images"
-"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "Hide heatmap images".
+"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "ヒートマップ画像を非表示".
 
 "Do not save heatmap images"
-"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "Do not save heatmap images".
+"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "ヒートマップ画像を保存しない".
 
 "Hide caption"
 "./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "キャプションを非表示にする".
 
 "Use grid (output to grid dir)"
-"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "Use grid (output to grid dir)".
+"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "グリッドを使用 (グリッドdirに出力)".
 
 "Grid layout"
 "./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "グリッドのレイアウト".
@@ -291,16 +294,16 @@
 "./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "自動".
 
 "Prevent Empty Spot"
-"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "Prevent Empty Spot".
+"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "空のスポットを防止する".
 
 "Batch Length As Row"
 "./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "Batch Length As Row".
 
 "Heatmap blend alpha"
-"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "Heatmap blend alpha".
+"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "ヒートマップブレンド α".
 
 "Heatmap image scale"
-"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "Heatmap image scale".
+"./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "ヒートマップ画像のスケール".
 
 "Trace each layers"
 "./template/ja_JP/extensions/stable-diffusion-webui-daam.json" - "各レイヤーをトレース".
@@ -315,49 +318,49 @@
 "./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "Create inspiration images".
 
 "Artist or styles name list. '.txt' files with one name per line"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "Artist or styles name list. '.txt' files with one name per line".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "アーティスト名やスタイル名のリスト。1行に1つの名前を含む'.txt'ファイル".
 
 "Prompt Placeholder, which can be used at the top of prompt input"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "Prompt Placeholder, which can be used at the top of prompt input".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "プロンプト入力の先頭で使用できるプロンプトプレースホルダー".
 
 "To activate inspiration function, you need get "inspiration" images first."
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "To activate inspiration function, you need get "inspiration" images first.".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "インスピレーション機能を有効にするには、まず「インスピレーション」画像を取得する必要があります。".
 
 "You can create these images by run "Create inspiration images" script in txt2img page,"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "You can create these images by run "Create inspiration images" script in txt2img page,".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "これらの画像は、txt2imgページに「インスピレーション画像を作成」スクリプトを実行することで作成できます。".
 
 "you can get the artists or art styles list from here"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "you can get the artists or art styles list from here".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "ここからアーティストやアートスタイルのリストを手に入れることができます".
 
 "download these files, and select these files in the "Create inspiration images" script UI"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "download these files, and select these files in the "Create inspiration images" script UI".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "これらのファイルをダウンロードし、「インスピレーションイメージの作成」スクリプトUIでこれらのファイルを選択します".
 
 "There about 6000 artists and art styles in these files."
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "There about 6000 artists and art styles in these files.".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "これらのファイルには約6000人のアーティストとアートスタイルがあります。".
 
 "This takes server hours depending on your GPU type and how many pictures  you generate for each artist/style"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "This takes server hours depending on your GPU type and how many pictures  you generate for each artist/style".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "GPUの種類と、アーティスト/スタイルごとに生成する画像の数に応じてサーバーの時間が必要です".
 
 "I suggest at least four images for each"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "I suggest at least four images for each".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "それぞれに少なくとも4つの画像を提案します".
 
 "You can also download generated pictures from here:"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "You can also download generated pictures from here:".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "ここから生成された画像をダウンロードすることもできます:".
 
 "unzip the file to"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "unzip the file to".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "ファイルの解凍先".
 
 "/extections/stable-diffusion-webui-inspiration"
 "./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "/extections/stable-diffusion-webui-inspiration".
 
 "and restart webui, and enjoy the joy of creation!"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "and restart webui, and enjoy the joy of creation!".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "創作の喜びを満喫してください!".
 
 "Source"
 "./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "入力".
 
 "Maximum number of samples, used to determine which folders to skip when continue running the create script"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "Maximum number of samples, used to determine which folders to skip when continue running the create script".
+"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "作成スクリプトの実行を続けるときにスキップするフォルダを決定するために使用されるサンプルの最大数".
 
 "stable-diffusion-webui-inspiration"
 "./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "stable-diffusion-webui-inspiration".
@@ -365,11 +368,6 @@
 "Bilingual Localization"
 "./template/ja_JP/extensions/sd-webui-bilingual-localization.json" - "Bilingual Localization".
 "./template/ja_JP/extensions/Bilingual Localization.json" - "バイリンガル翻訳".
-
-"Wildcards"
-"./template/ja_JP/extensions/Wildcards.json" - "ワイルドカード".
-"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "ワイルドカード".
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "ワイルドカード".
 
 "Booru tag autocompletion"
 "./template/ja_JP/extensions/Booru tag autocompletion.json" - "Booruタグの自動補完".
@@ -448,13 +446,13 @@
 "./template/ja_JP/extensions/Artists To Study.json" - "n".
 
 "Get Images"
-"./template/ja_JP/extensions/Artists To Study.json" - "Get Images".
+"./template/ja_JP/extensions/Artists To Study.json" - "画像を取得".
 
 "dog-anime"
 "./template/ja_JP/extensions/Artists To Study.json" - "犬のアニメ：".
 
 "dog-cartoon"
-"./template/ja_JP/extensions/Artists To Study.json" - "dog-cartoon".
+"./template/ja_JP/extensions/Artists To Study.json" - "犬のカートゥーン".
 
 "dog-digipa-high-impact"
 "./template/ja_JP/extensions/Artists To Study.json" - "dog-digipa-high-impact".
@@ -496,10 +494,10 @@
 "./template/ja_JP/extensions/Artists To Study.json" - "dog-n".
 
 "house-anime"
-"./template/ja_JP/extensions/Artists To Study.json" - "house-anime".
+"./template/ja_JP/extensions/Artists To Study.json" - "家のアニメ".
 
 "house-cartoon"
-"./template/ja_JP/extensions/Artists To Study.json" - "house-cartoon".
+"./template/ja_JP/extensions/Artists To Study.json" - "家のカートゥーン".
 
 "house-digipa-high-impact"
 "./template/ja_JP/extensions/Artists To Study.json" - "house-digipa-high-impact".
@@ -541,10 +539,10 @@
 "./template/ja_JP/extensions/Artists To Study.json" - "house-n".
 
 "portrait-anime"
-"./template/ja_JP/extensions/Artists To Study.json" - "portrait-anime".
+"./template/ja_JP/extensions/Artists To Study.json" - "ポートレイトのアニメ".
 
 "portrait-cartoon"
-"./template/ja_JP/extensions/Artists To Study.json" - "portrait-cartoon".
+"./template/ja_JP/extensions/Artists To Study.json" - "ポートレイトのカートゥーン".
 
 "portrait-digipa-high-impact"
 "./template/ja_JP/extensions/Artists To Study.json" - "portrait-digipa-high-impact".
@@ -661,7 +659,7 @@
 "./template/ja_JP/extensions/Artists To Study.json" - "stable-diffusion-webui-artists-to-study".
 
 "Multiplication (2^N)"
-"./template/ja_JP/extensions/sd-webui-llul.json" - "Multiplication (2^N)".
+"./template/ja_JP/extensions/sd-webui-llul.json" - "倍率(2^N)".
 
 "Weight"
 "./template/ja_JP/extensions/sd-webui-llul.json" - "重み".
@@ -725,10 +723,10 @@
 "./template/ja_JP/extensions/sd-webui-llul.json" - "interpolation method".
 
 "Lerp"
-"./template/ja_JP/extensions/sd-webui-llul.json" - "Lerp".
+"./template/ja_JP/extensions/sd-webui-llul.json" - "線形補間".
 
 "SLerp"
-"./template/ja_JP/extensions/sd-webui-llul.json" - "SLerp".
+"./template/ja_JP/extensions/sd-webui-llul.json" - "球面線形補間".
 
 "LLuL Enabled"
 "./template/ja_JP/extensions/sd-webui-llul.json" - "LLuL Enabled".
@@ -816,7 +814,7 @@
 "./template/ja_JP/extensions/conditioning-highres-fix.json" - "stable-diffusion-webui-conditioning-highres-fix".
 
 "Unprompted Seed"
-"./template/ja_JP/extensions/unprompted.json" - "Unprompted Seed".
+"./template/ja_JP/extensions/unprompted.json" - "未プロンプトのシード値".
 
 "Functions"
 "./template/ja_JP/extensions/unprompted.json" - "機能".
@@ -828,7 +826,7 @@
 "./template/ja_JP/extensions/unprompted.json" - "オプション".
 
 "Example Function"
-"./template/ja_JP/extensions/unprompted.json" - "Example Function".
+"./template/ja_JP/extensions/unprompted.json" - "関数例".
 
 "Enter a subject 🡢 subject"
 "./template/ja_JP/extensions/unprompted.json" - "Enter a subject 🡢 subject".
@@ -1287,7 +1285,7 @@
 "./template/ja_JP/extensions/unprompted.json" - "Show mask in output 🡢 show".
 
 "img2img"
-"./template/ja_JP/extensions/unprompted.json" - "img2img".
+"./template/ja_JP/extensions/unprompted.json" - "画像から画像に".
 
 "img2img: Runs an img2img task inside of an [after] block."
 "./template/ja_JP/extensions/unprompted.json" - "img2img: Runs an img2img task inside of an [after] block.".
@@ -1433,25 +1431,25 @@
 "./template/ja_JP/extensions/unprompted.json" - "unprompted".
 
 "Save score as EXIF or PNG Info Chunk"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "Save score as EXIF or PNG Info Chunk".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "スコアをEXIFまたはPNGチャンクに保存".
 
 "cfg_scale"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "cfg_scale".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "cfgスケール".
 
 "sd_model_hash"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "sd_model_hash".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "sdモデルハッシュ値".
 
 "hash"
 "./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "ハッシュ値".
 
 "Save tags (Windows only)"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "Save tags (Windows only)".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "タグを保存(Windowsのみ)".
 
 "Save category (Windows only)"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "Save category (Windows only)".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "カテゴリを保存(Windowsのみ)".
 
 "Save generation params text"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "Save generation params text".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "生成されたパラメータテキストを保存".
 
 "Force CPU (Requires Custom Script Reload)"
 "./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "強制的に CPU (カスタムスクリプトの再読み込みが必要)".
@@ -1462,6 +1460,10 @@
 "Dynamic Prompts"
 "./template/ja_JP/extensions/sd-dynamic-prompts.json" - "Dynamic Prompts".
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "Dynamic Prompts".
+
+"Wildcards"
+"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "ワイルドカード".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "ワイルドカード".
 
 "Deforum"
 "./template/ja_JP/extensions/Deforum.json" - "Deforum".
@@ -1579,7 +1581,7 @@
 
 "Reset"
 "./template/ja_JP/extensions/openpose-editor.json" - "リセット".
-"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "Reset".
+"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "リセット".
 
 "Load from JSON"
 "./template/ja_JP/extensions/openpose-editor.json" - "JSONから読み込む".
@@ -1601,20 +1603,20 @@
 
 "Send to"
 "./template/ja_JP/extensions/openpose-editor.json" - "転送".
-"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "Send to".
+"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "転送する".
 
 "openpose-editor"
 "./template/ja_JP/extensions/openpose-editor.json" - "openpose-editor".
 
 "Latent Mirroring"
-"./template/ja_JP/extensions/Latent Mirroring.json" - "Latent Mirroring".
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "Latent Mirroring".
+"./template/ja_JP/extensions/Latent Mirroring.json" - "鏡映化".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "鏡映化".
 
 "Model"
 "./template/ja_JP/extensions/sd-webui-additional-networks.json" - "モデル".
 "./template/ja_JP/extensions/Model Previews.json" - "モデル".
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Model".
-"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "Model".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "モデル".
+"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "モデル".
 "./template/ja_JP/extensions/sd-webui-controlnet.json" - "モデル".
 "./template/ja_JP/extensions/sd-model-preview-xd.json" - "モデル".
 
@@ -1667,25 +1669,25 @@
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "Magic prompt のブロックリスト正規表現".
 
 "I'm feeling lucky"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "I'm feeling lucky".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "創造的なランダムプロンプト".
 
 "Attention grabber"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Attention grabber".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "Attention grabber（プロンプトの後ろの: 1.5などのこと）".
 
 "Minimum attention"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Minimum attention".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "Attentionの最小値".
 
 "Maximum attention"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Maximum attention".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "Attentionの最大値".
 
 "Don't apply to negative prompts"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Don't apply to negative prompts".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "ネガティブプロンプトには適用しない".
 
 "Need help?"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "ヘルプが必要ですか?".
 
 "Syntax cheatsheet"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Syntax cheatsheet".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "Dynamic Promptの構文メモ".
 
 "Tutorial"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "チュートリアル".
@@ -1700,67 +1702,67 @@
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "組み合わせ".
 
 "Choose a number of terms from a list, in this case we choose two artists:"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Choose a number of terms from a list, in this case we choose two artists:".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "以下のプロンプトの場合、artistから2つを選択します。".
 
 "{2$$artist1|artist2|artist3}"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "{2$$artist1|artist2|artist3}".
 
 "If $$ is not provided, then 1$$ is assumed."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "If $$ is not provided, then 1$$ is assumed.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "$$ が入力されていない場合、1$$ に設定されます。".
 
 "If the chosen number of terms is greater than the available terms, then some terms will be duplicated, otherwise chosen terms will be unique. This is useful in the case of wildcards, e.g."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "If the chosen number of terms is greater than the available terms, then some terms will be duplicated, otherwise chosen terms will be unique. This is useful in the case of wildcards, e.g.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "選択した用語の数がプロンプトより大きい場合、プロンプトが複製されます。 これはワイルドカードを使う際に便利です。例えば、".
 
 "{2$$__artist__}"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "{2$$__artist__}".
 
 "is equivalent to"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "is equivalent to".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "これは以下と同じ意味です。".
 
 "{2$$__artist__|__artist__}"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "{2$$__artist__|__artist__}".
 
 "A range can be provided:"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "A range can be provided:".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "プロンプトを選択する数に幅をもたせられます。".
 
 "{1-3$$artist1|artist2|artist3}"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "{1-3$$artist1|artist2|artist3}".
 
 "In this case, a random number of artists between 1 and 3 is chosen."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "In this case, a random number of artists between 1 and 3 is chosen.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "この場合1～3のランダムの数のartistが選ばれます。".
 
 "Options can be given weights:"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Options can be given weights:".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "オプションでweightを与えられます".
 
 "{2::artist1|artist2}"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "{2::artist1|artist2}".
 
 "In this case, artist1 will be chosen twice as often as artist2."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "In this case, artist1 will be chosen twice as often as artist2.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "この場合、artist1はartist2の2倍の確率で選ばれます。".
 
 "Wildcards can be used and the joiner can also be specified:"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Wildcards can be used and the joiner can also be specified:".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "ワイルドカードを何でつなぐかも指定できます。".
 
 "{{1-$$and$$__adjective__}}"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "{{1-$$and$$__adjective__}}".
 
 "Here, a random number between 1 and 3 words from adjective.txt will be chosen and joined together with the word 'and' instead of the default comma."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Here, a random number between 1 and 3 words from adjective.txt will be chosen and joined together with the word 'and' instead of the default comma.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "この場合1~3の単語がadjective.txtから選択され、それらの単語がandで接続されます。デフォルト設定はカンマ”,”です。".
 
 "Find and manage wildcards in the Wildcards Manager tab."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Find and manage wildcards in the Wildcards Manager tab.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "ワイルドカードはワイルドカードマネージャーのタブで管理します。".
 
 "You can add more wildcards by creating a text file with one term per line and name is mywildcards.txt. Place it in D:\StableDiffusion\clean install\webui\extensions\sd-dynamic-prompts\wildcards."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "You can add more wildcards by creating a text file with one term per line and name is mywildcards.txt. Place it in D:\StableDiffusion\clean install\webui\extensions\sd-dynamic-prompts\wildcards.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "1行に1つの用語を持つテキストファイルを作成することで、ワイルドカードを追加することができます。名前はmywildcards.txtです。テキストファイルの格納ディレクトリは”D:\StableDiffusion\clean install\webui\extensions\sd-dynamic-prompts\wildcards"です。".
 
 "__<folder>/mywildcards__"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "__<folder>/mywildcards__".
 
 "will then become available."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "will then become available.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "こうすることで利用可能になります。".
 
 "Find more settings on the"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Find more settings on the".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "より詳細な設定は".
 
 "tab"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "タブ".
@@ -1769,13 +1771,13 @@
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "使用しています".
 
 "version 2.7.2 of the WebUI extension"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "version 2.7.2 of the WebUI extension".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "webUI Extensionのバージョン 2.7.2".
 
 ", and the underlying"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - ", and the underlying".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "を選択します。".
 
 "dynamicprompts library is version 0.7.1"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "dynamicprompts library is version 0.7.1".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "dynamicprompts ライブラリはバージョン 0.7.1 です。".
 
 "Jinja2 templates"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "Jinja2 templates".
@@ -1796,16 +1798,16 @@
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "I love red roses".
 
 "Random choices"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Random choices".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "ランダム選択".
 
 "I love {{ choice('red', 'blue', 'green') }} roses"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "I love {{ choice('red', 'blue', 'green') }} roses".
 
 "This will randomly choose one of the three colors."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "This will randomly choose one of the three colors.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "これにより、3色の中からランダムに1色が選ばれます。".
 
 "Iterations"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Iterations".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "繰り返し".
 
 "{% for colour in ['red', 'blue', 'green'] %}
         {% prompt %}I love {{ colour }} roses{% endprompt %}
@@ -1815,7 +1817,7 @@
     {% endfor %}".
 
 "This will produce three prompts, one for each color. The prompt tag is used to mark the text that will be used as the prompt. If no prompt tag is present then only one prompt is assumed"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "This will produce three prompts, one for each color. The prompt tag is used to mark the text that will be used as the prompt. If no prompt tag is present then only one prompt is assumed".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "これにより、各色に1つずつ、計3つのプロンプトが生成されます。プロンプトタグは、プロンプトとして使用されるテキストをマークするために使用されます。プロンプトタグが存在しない場合は、プロンプトは1つだけとみなされます。".
 
 "{% for colour in wildcard("__colours__") %}
         {% prompt %}I love {{ colour }} roses{% endprompt %}
@@ -1825,10 +1827,10 @@
     {% endfor %}".
 
 "This will produce one prompt for each colour in the wildcard.txt file."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "This will produce one prompt for each colour in the wildcard.txt file.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "これにより、wildcard.txtファイル内の各色に対して1つのプロンプトが生成されます。".
 
 "Conditionals"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Conditionals".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "条件設定".
 
 "{% for colour in ["red", "blue", "green"] %}
         {% if colour == "red"}
@@ -1837,7 +1839,7 @@
             {% prompt %}I hate {{ colour }} roses{% endprompt %}
         {% endif %}
     {% endfor %}"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "{% for colour in ["red", "blue", "green"] %}
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "% for colour in ["red", "blue", "green"] %}
         {% if colour == "red"}
             {% prompt %}I love {{ colour }} roses{% endprompt %}
         {% else %}
@@ -1846,7 +1848,7 @@
     {% endfor %}".
 
 "This will produce the following prompts:"
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "This will produce the following prompts:".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "これにより、以下のプロンプトが表示されます:".
 
 "I hate blue roses"
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "I hate blue roses".
@@ -1945,7 +1947,7 @@
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "sd-dynamic-prompts".
 
 "Disable dynamic prompts by unchecking this box."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Disable dynamic prompts by unchecking this box.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "このボックスのチェックを外すと、ダイナミックプロンプトが無効になります。".
 
 "Instead of generating random prompts from a template, combinatorial generation produces every possible prompt from the given string.
 The prompt 'I {love|hate} {New York|Chicago} in {June|July|August}' will produce 12 variants in total.
@@ -1957,7 +1959,7 @@ The prompt 'I {love|hate} {New York|Chicago} in {June|July|August}' will produce
 The value of the 'Seed' field is only used for the first image. To change this, look for 'Fixed seed' in the 'Advanced options' section.".
 
 "Limit the maximum number of prompts generated. 0 (default) will generate all images. Useful to prevent an unexpected combinatorial explosion."
-"./template/ja_JP/extensions/Dynamic Prompts.json" - "Limit the maximum number of prompts generated. 0 (default) will generate all images. Useful to prevent an unexpected combinatorial explosion.".
+"./template/ja_JP/extensions/Dynamic Prompts.json" - "生成されるプロンプトの最大数を制限します。0 (デフォルト) はすべての画像を生成します。予期しない組み合わせによる爆発を防ぐのに便利です。".
 
 "Re-run your combinatorial batch this many times with a different seed each time."
 "./template/ja_JP/extensions/Dynamic Prompts.json" - "Re-run your combinatorial batch this many times with a different seed each time.".
@@ -2089,7 +2091,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "to share your creations and suggestions.".
 
 "Official Deforum Wiki:"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Official Deforum Wiki:".
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Deforum Wiki:".
 
 "Anime-inclined great guide (by FizzleDorf) with lots of examples:"
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Anime-inclined great guide (by FizzleDorf) with lots of examples:".
@@ -2162,16 +2164,16 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Resume & Run from file".
 
 "Run from Settings file"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Run from Settings file".
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "設定ファイルから実行".
 
 "Resume Animation"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Resume Animation".
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "アニメーションを再開".
 
 "Override settings"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Override settings".
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "設定を上書き".
 
 "Custom settings file"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Custom settings file".
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "カスタム設定ファイル".
 
 "Resume from timestring"
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Resume from timestring".
@@ -2192,7 +2194,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Interpolation".
 
 "Video Input"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Video Input".
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "ビデオ入力".
 
 "Border"
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Border".
@@ -2364,10 +2366,10 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "CLIP skip schedule".
 
 "Motion"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Motion".
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "動作".
 
 "Noise"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Noise".
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "ノイズ".
 
 "Coherence"
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Coherence".
@@ -2376,10 +2378,10 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Anti Blur".
 
 "Angle"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Angle".
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "角度".
 
 "Zoom"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Zoom".
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "ズーム".
 
 "Translation X"
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Translation X".
@@ -3220,7 +3222,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "サンプルを生成".
 
 "Select or create a model to begin."
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Select or create a model to begin.".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "開始するモデルを選択または作成する。".
 
 "Select"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "選択".
@@ -3229,37 +3231,37 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "作成".
 
 "Snapshot to Resume"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Snapshot to Resume".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "スナップショットから再開する".
 
 "Lora Model"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Lora モデル".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "LoRA モデル".
 
 "Loaded Model:"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "ロードされたモデル:".
 
 "Model Revision:"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Model Revision:".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "モデルリビジョン:".
 
 "Model Epoch:"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Model Epoch:".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "モデルのエポック数".
 
 "V2 Model:"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "V2 Model:".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "V2 モデル:".
 
 "Has EMA:"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Has EMA:".
 
 "Source Checkpoint:"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Source Checkpoint:".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "ソースのチェックポイント:".
 
 "Create Model"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "モデル作成".
 
 "Create From Hub"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Create From Hub".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "ハブから作成".
 
 "512x Model"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "512x Model".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "512x モデル".
 
 "Model Path"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "モデルのパス".
@@ -3268,19 +3270,19 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "HuggingFace Token".
 
 "Source Checkpoint"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Source Checkpoint".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "ソースのチェックポイント".
 
 "Extract EMA Weights"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Extract EMA Weights".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "EMAウェイトを抽出".
 
 "Unfreeze Model"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Unfreeze Model".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "モデルを凍結解除".
 
 "Input"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "入力".
 
 "Concepts"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Concepts".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "コンセプト".
 
 "Saving"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "保存中".
@@ -3289,7 +3291,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "テスト中".
 
 "Performance Wizard (WIP)"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Performance Wizard (WIP)".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "パフォーマンスウィザード (WIP)".
 
 "Basic"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "基本".
@@ -3301,64 +3303,64 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "LORAを使う".
 
 "Use Lora Extended"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Use Lora Extended".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "LoRA 拡張を使用".
 
 "Train Imagic Only"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Train Imagic Only".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "画像のみでトレーニング".
 
 "Train Inpainting Model"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Train Inpainting Model".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "ンペインティングモデルのトレーニング".
 
 "Generate Classification Images Using txt2img"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Generate Classification Images Using txt2img".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "txt2imgを使用して分類画像を生成する。".
 
 "Intervals"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Intervals".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "間隔".
 
 "Training Steps Per Image (Epochs)"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Training Steps Per Image (Epochs)".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "1つの画像あたりのトレーニングステップ数（エポック数）".
 
 "Pause After N Epochs"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Pause After N Epochs".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "N エポック後に一時停止".
 
 "Amount of time to pause between Epochs (s)"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Amount of time to pause between Epochs (s)".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "エポック間で一時停止する時間(秒)".
 
 "Save Model Frequency (Epochs)"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Save Model Frequency (Epochs)".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "モデルの保存頻度（エポック数）".
 
 "Save Preview(s) Frequency (Epochs)"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Save Preview(s) Frequency (Epochs)".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "プレビュー保存頻度 (エポック数)".
 
 "Batching"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Batching".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "バッチ処理".
 
 "Batch Size"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "バッチサイズ".
 
 "Gradient Accumulation Steps"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Gradient Accumulation Steps".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "勾配蓄積ステップ".
 
 "Class Batch Size"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Class Batch Size".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "クラスのバッチサイズ".
 
 "Set Gradients to None When Zeroing"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Set Gradients to None When Zeroing".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "勾配をゼロにするときにNoneに設定する".
 
 "Gradient Checkpointing"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Gradient Checkpointing".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "チェックポイントの傾度".
 
 "Learning Rate"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Learning Rate".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "学習率".
 
 "Learning Rate Scheduler"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Learning Rate Scheduler".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "学習率スケジューラ".
 
 "linear_with_warmup"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "linear_with_warmup".
 
 "cosine"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "cosine".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "コサイン".
 
 "cosine_annealing"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "cosine_annealing".
@@ -3370,88 +3372,88 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "cosine_with_restarts".
 
 "polynomial"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "polynomial".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "多項式".
 
 "constant"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "constant".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "定数".
 
 "constant_with_warmup"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "constant_with_warmup".
 
 "Min Learning Rate"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Min Learning Rate".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "最低学習率".
 
 "Number of Hard Resets"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Number of Hard Resets".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "ハードリセット数".
 
 "Constant/Linear Starting Factor"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Constant/Linear Starting Factor".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "定数/線形開始係数".
 
 "Polynomial Power"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Polynomial Power".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "多項式累乗".
 
 "Scale Position"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Scale Position".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "スケールの位置".
 
 "Lora UNET Learning Rate"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Lora UNET Learning Rate".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "LoRA UNET 学習率".
 
 "Lora Text Encoder Learning Rate"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Lora Text Encoder Learning Rate".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "LoRAテキストエンコーダの学習率".
 
 "Learning Rate Warmup Steps"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Learning Rate Warmup Steps".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "学習率ウォームアップのステップ".
 
 "Image Processing"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Image Processing".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "画像処理".
 
 "Max Resolution"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Max Resolution".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "最大解像度".
 
 "Apply Horizontal Flip"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Apply Horizontal Flip".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "水平方向に反転を適用".
 
 "Sanity Sample Prompt"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Sanity Sample Prompt".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "正常性確認用サンプルのプロンプト".
 
 "Sanity Sample Negative Prompt"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Sanity Sample Negative Prompt".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "正常性確認用サンプルのネガティブプロンプト".
 
 "Sanity Sample Seed"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Sanity Sample Seed".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "正常性確認用サンプルのシード値".
 
 "Miscellaneous"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Miscellaneous".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "その他".
 
 "Pretrained VAE Name or Path"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Pretrained VAE Name or Path".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "事前訓練済みのVAE名またはパス".
 
 "Use Concepts List"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Use Concepts List".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "コンセプトリストを使用".
 
 "Concepts List"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Concepts List".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "コンセプトリスト".
 
 "API Key"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "API Key".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "API キー".
 
 "Discord Webhook"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Discord Webhook".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "DiscordをWebフォーク".
 
 "Save and Test Webhook"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Save and Test Webhook".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Webフォークの保存とテスト".
 
 "Advanced"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Advanced".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "高度な設定".
 
 "Tuning"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Tuning".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "チューニング".
 
 "Use EMA"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Use EMA".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "EMAを使用".
 
 "Optimizer"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Optimizer".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "オプティマイザー".
 
 "8Bit Adam"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "8Bit Adam".
@@ -3460,7 +3462,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Lion".
 
 "Mixed Precision"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Mixed Precision".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "混合された精度".
 
 "no"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "no".
@@ -3472,76 +3474,76 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Memory Attention".
 
 "default"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "default".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "初期値".
 
 "xformers"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "xformers".
 
 "Cache Latents"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Cache Latents".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "履歴のキャッシュ".
 
 "Train UNET"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Train UNET".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "UNETでトレーニングする".
 
 "Step Ratio of Text Encoder Training"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Step Ratio of Text Encoder Training".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "テキストエンコーダトレーニングのステップ比率".
 
 "Offset Noise"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Offset Noise".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "オフセットノイズ".
 
 "Freeze CLIP Normalization Layers"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Freeze CLIP Normalization Layers".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "CLIP正規化レイヤーを固定".
 
 "Clip Skip"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Clip Skip".
 
 "AdamW Weight Decay"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "AdamW Weight Decay".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "AdamW Weight の減衰".
 
 "Pad Tokens"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Pad Tokens".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "パッドトークン".
 
 "Strict Tokens"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Strict Tokens".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "厳密なトークン".
 
 "Shuffle Tags"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Shuffle Tags".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "タグをシャッフル".
 
 "Max Token Length"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Max Token Length".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "最大トークンの長さ".
 
 "Prior Loss"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Prior Loss".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "正則化の損失".
 
 "Scale Prior Loss"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Scale Prior Loss".
 
 "Prior Loss Weight"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Prior Loss Weight".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "正則化の損失の重み".
 
 "Prior Loss Target"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Prior Loss Target".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "正則化の損失の対象".
 
 "Minimum Prior Loss Weight"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Minimum Prior Loss Weight".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "最小の正則化の損失の重み".
 
 "Training Wizard (Person)"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Training Wizard (Person)".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "トレーニングウィザード (人)".
 
 "Training Wizard (Object/Style)"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Training Wizard (Object/Style)".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "トレーニングウィザード (オブジェクト/スタイル)".
 
 "Concept 1"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Concept 1".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "コンセプト 1".
 
 "Concept 2"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Concept 2".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "コンセプト 2".
 
 "Concept 3"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Concept 3".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "コンセプト 3".
 
 "Concept 4"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Concept 4".
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "コンセプト 4".
 
 "Dataset Directory"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Dataset Directory".
@@ -3858,7 +3860,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Image Browser.json" - "All".
 
 "3D Model Loader"
-"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "3D Model Loader".
+"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "3Dモデル読み込み".
 
 "Show generated images in ui"
 "./template/ja_JP/extensions/shift-attention.json" - "生成された画像を Ui で表示する".
@@ -4044,95 +4046,95 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Smart Process.json" - "https://github.com/d8ahazard/sd_smartprocess.git".
 
 "Create aesthetic embedding"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Create aesthetic embedding".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Aesthetic embedding の作成".
 
 "Open for Clip Aesthetic!"
 "./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Open for Clip Aesthetic!".
 
 "Aesthetic weight"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Aesthetic weight".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Aesthetic ウェイト".
 
 "Aesthetic steps"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Aesthetic steps".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Aesthetic ステップ数".
 
 "Aesthetic learning rate"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Aesthetic learning rate".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Aesthetic 学習率".
 
 "Slerp interpolation"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Slerp interpolation".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "スラープ補間（補間）".
 
 "Aesthetic imgs embedding"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Aesthetic imgs embedding".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Aesthetic Embeddingを使用する".
 
 "Aesthetic text for imgs"
 "./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Aesthetic text for imgs".
 
 "Slerp angle"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Slerp angle".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "スラープ角度".
 
 "Is negative text"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Is negative text".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "ネガティブテキスト".
 
 "Create an aesthetic embedding out of any number of images"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Create an aesthetic embedding out of any number of images".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "任意の数の画像からAesthetic embeddingを作成します".
 
 "Create images embedding"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "Create images embedding".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "埋め込み画像を作成".
 
 "stable-diffusion-webui-aesthetic-gradients"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "stable-diffusion-webui-aesthetic-gradients".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "stable-diffusion-webui-exhestic-gradients".
 
 "This text is used to rotate the feature space of the imgs embs"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "This text is used to rotate the feature space of the imgs embs".
+"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "このテキストは、Embedding画像の特徴空間を回転させるために使用されます".
 
 "https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients.git"
 "./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-gradients.json" - "https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients.git".
 
 "Latent Mirror mode"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "Latent Mirror mode".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "鏡映化モード".
 
 "Alternate Steps"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "Alternate Steps".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "ステップごとに交互に行う".
 
 "Blend Average"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "Blend Average".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "平均して混ぜる".
 
 "Latent Mirror style"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "Latent Mirror style".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "潜在鏡映化スタイル".
 
 "Vertical Mirroring"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "Vertical Mirroring".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "上下鏡映化".
 
 "Horizontal Mirroring"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "Horizontal Mirroring".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "左右鏡映化".
 
 "Horizontal+Vertical Mirroring"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "Horizontal+Vertical Mirroring".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "上下左右鏡映化".
 
 "90 Degree Rotation"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "90 Degree Rotation".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "90度回転".
 
 "180 Degree Rotation"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "180 Degree Rotation".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "180度回転".
 
 "Roll Channels"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "Roll Channels".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "ロールチャンネル".
 
 "X panning"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "X panning".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "x軸方向へずらす".
 
 "Y panning"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "Y panning".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "y軸方向へずらす".
 
 "Maximum steps fraction to mirror at"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "Maximum steps fraction to mirror at".
+"./template/ja_JP/extensions/SD-latent-mirroring.json" - "鏡映化実行ステップの比率".
 
 "SD-latent-mirroring"
 "./template/ja_JP/extensions/SD-latent-mirroring.json" - "SD-latent-mirroring".
 
 "Dataset Tag Editor"
-"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Dataset Tag Editor".
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Dataset Tag Editor".
+"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "データセットタグエディタ".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "データ集合のタグエディタ".
 
 "No"
 "./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "いいえ".
@@ -4140,8 +4142,8 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Image Browser.json" - "No".
 
 "Sort by"
-"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Sort by".
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Sort by".
+"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "並べ替え".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "並べ替え順".
 "./template/ja_JP/extensions/Image Browser.json" - "並べ替え順".
 
 "Target"
@@ -4158,28 +4160,28 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "hidden_s_or_n".
 
 "Dataset Filter"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Dataset Filter".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "データセットフィルタ".
 
 "Filter Apply"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Filter Apply".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "フィルター適用".
 
 "This extension works well with text captions in comma-separated style (such as the tags generated by DeepBooru interrogator)."
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "This extension works well with text captions in comma-separated style (such as the tags generated by DeepBooru interrogator).".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "この拡張機能は、テキストキャプションをカンマ区切りのスタイル(DeepBooru interrogatorによって生成されたタグなど) でうまく動作します。".
 
 "Save all changes"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Save all changes".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "すべての変更を保存".
 
 "Backup original text file (original file will be renamed like filename.000, .001, .002, ...)"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Backup original text file (original file will be renamed like filename.000, .001, .002, ...)".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "元のテキストファイルをバックアップします (元のファイルの名前は filename.000, .001, .002, ...)".
 
 "Note:"
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "備考:".
 
 "New text file will be created if you are using filename as captions."
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "New text file will be created if you are using filename as captions.".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "ファイル名をキャプションとして使用している場合、新しいテキストファイルが作成されます。".
 
 "Save kohya-ss's finetuning metadata json"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Save kohya-ss's finetuning metadata json".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Kohya-ssのfinetuningメタデータjsonを保存します".
 
 "json output path"
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "json 出力のパス".
@@ -4218,13 +4220,13 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "読み込み".
 
 "Dataset Load Settings"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Dataset Load Settings".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "データセットの読み込み設定".
 
 "Load from subdirectories"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Load from subdirectories".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "サブディレクトリから読み込む".
 
 "Load caption from filename if no text file exists"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Load caption from filename if no text file exists".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "テキストファイルが存在しない場合、ファイル名からキャプションを読み込む".
 
 "Use Interrogator Caption"
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "インターロゲーターのキャプションを使用".
@@ -4248,37 +4250,37 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "Interrogator Settings".
 
 "Use Custom Threshold (Booru)"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Use Custom Threshold (Booru)".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "カスタムしきい値を使用 (Booru)".
 
 "Booru Score Threshold"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Booru Score Threshold".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Booruスコアのしきい値".
 
 "Use Custom Threshold (WDv1.4 Tagger)"
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "Use Custom Threshold (WDv1.4 Tagger)".
 
 "WDv1.4 Tagger Score Threshold"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "WDv1.4 Tagger Score Threshold".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "WDv1.4 タグのスコアしきい値".
 
 "Dataset Images"
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "データセット画像".
 
 "Displayed Images : 0 / 0 total"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Displayed Images : 0 / 0 total".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "表示される画像: 0 / 0 合計".
 
 "Current Tag Filter :"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Current Tag Filter :".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "現在のタグフィルター :".
 
 "Current Selection Filter : 0 images"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Current Selection Filter : 0 images".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "現在の選択フィルタ: 0 画像".
 
 "Selected Image :"
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "選択した画像".
 
 "Filter by Tags"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Filter by Tags".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "タグでフィルタリングする".
 
 "Filter by Selection"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Filter by Selection".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "選択範囲でフィルタリングする".
 
 "Batch Edit Captions"
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "Batch Edit Captions".
@@ -4287,55 +4289,55 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "Edit Caption of Selected Image".
 
 "Move or Delete Files"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Move or Delete Files".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "ファイルの移動または削除".
 
 "Clear tag filters"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Clear tag filters".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "タグフィルタをクリア".
 
 "Clear ALL filters"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Clear ALL filters".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "すべてのフィルタをクリア".
 
 "Positive Filter"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Positive Filter".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "正のフィルター".
 
 "Negative Filter"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Negative Filter".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "負のフィルター".
 
 "Search tags / Filter images by tags"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Search tags / Filter images by tags".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "タグ検索/タグによる画像フィルター".
 
 "(INCLUSIVE)"
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "(INCLUSIVE)".
 
 "Search Tags"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Search Tags".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "タグを検索する".
 
 "Prefix"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Prefix".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "接頭辞".
 
 "Suffix"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Suffix".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "接尾語".
 
 "Use regex"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Use regex".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "正規表現を使用する".
 
 "Alphabetical Order"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Alphabetical Order".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "アルファベット順".
 
 "Frequency"
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "Frequency".
 
 "Length"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Length".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "長さ".
 
 "Sort Order"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Sort Order".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "ソート順".
 
 "Ascending"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Ascending".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "昇順".
 
 "Descending"
-"./template/ja_JP/extensions/Dataset Tag Editor.json" - "Descending".
+"./template/ja_JP/extensions/Dataset Tag Editor.json" - "降順".
 
 "Filter Logic"
 "./template/ja_JP/extensions/Dataset Tag Editor.json" - "Filter Logic".
@@ -4618,7 +4620,7 @@ E.g. in ./outputs/txt2img-images/.".
 
 "Remove background"
 "./template/ja_JP/extensions/Depth Maps.json" - "背景を削除".
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Remove background".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "背景を削除".
 
 "HakuImg"
 "./template/ja_JP/extensions/haku-img.json" - "HakuImg".
@@ -5078,7 +5080,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git".
 
 "Highres. percentage chance"
-"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "Highres. percentage chance".
+"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "ハイレゾのパーセンテージ確率".
 
 "Highres. Denoising Strength"
 "./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "ハイレゾのノイズ除去の強度".
@@ -5090,52 +5092,52 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "ハイレゾの高さ".
 
 "Stop at CLIP layers"
-"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "Stop at CLIP layers".
+"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "CLIP レイヤーの停止処理".
 
 "stable-diffusion-webui-randomize"
-"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "stable-diffusion-webui-randomize".
+"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "stable-diffusion-webui-rembg".
 
 "Comma separated list OR * for all"
-"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "Comma separated list OR * for all".
+"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "コンマで区切られたリスト、または * 指定によるすべて".
 
 "Range of stepped values (min, max, step)"
-"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "Range of stepped values (min, max, step)".
+"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "ステップ値の範囲 (最小、最大、ステップ幅)".
 
 "Float value from 0 to 1"
-"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "Float value from 0 to 1".
+"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "0 から 1 までの浮動小数点数の値".
 
 "Loads weights from checkpoint before making images. You can either use hash or a part of filename (as seen in settings) for checkpoint name. Recommended to use with Y axis for less switching."
-"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "Loads weights from checkpoint before making images. You can either use hash or a part of filename (as seen in settings) for checkpoint name. Recommended to use with Y axis for less switching.".
+"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "画像を生成する前に、チェックポイントからweights重みを読み込みます。チェックポイント名には、ハッシュまたはファイル名の一部を使用できます(設定で表示)。切り替えを少なくするには、Y軸での利用を推奨します。".
 
 "openOutpaint"
 "./template/ja_JP/extensions/openOutpaint-webUI-extension.json" - "openOutpaint".
 
 "Send to openOutpaint"
-"./template/ja_JP/extensions/openOutpaint-webUI-extension.json" - "Send to openOutpaint".
+"./template/ja_JP/extensions/openOutpaint-webUI-extension.json" - "OpenOutpaintへ送る".
 
 "openOutpaint-webUI-extension"
 "./template/ja_JP/extensions/openOutpaint-webUI-extension.json" - "openOutpaint-webUI-extension".
 
 "Refresh openOutpaint"
-"./template/ja_JP/extensions/openOutpaint-webUI-extension.json" - "Refresh openOutpaint".
+"./template/ja_JP/extensions/openOutpaint-webUI-extension.json" - "OpenOutpaint を更新する".
 
 "Ultimate SD upscale"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Ultimate SD upscale".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "最高SDアップスケール".
 
 "Will upscale the image depending on the selected target size type"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Will upscale the image depending on the selected target size type".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "選択したターゲットサイズの種類に応じて、画像をアップスケールします".
 
 "Target size type"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Target size type".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "ターゲットサイズの種類".
 
 "From img2img2 settings"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "From img2img2 settings".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Img2img2設定より".
 
 "Custom size"
 "./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "任意のサイズ".
 
 "Scale from image size"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Scale from image size".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "画像サイズから拡大".
 
 "Custom width"
 "./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "カスタム幅".
@@ -5147,13 +5149,13 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "スケール".
 
 "Redraw options:"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Redraw options:".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "再描画オプション:".
 
 "Type"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Type".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "種類".
 
 "Chess"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Chess".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "チェス".
 
 "Tile width"
 "./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "タイル幅".
@@ -5162,10 +5164,10 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "タイル高さ".
 
 "Padding"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Padding".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "余白".
 
 "Seams fix:"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Seams fix:".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "シーム修正:".
 
 "Band pass"
 "./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Band pass".
@@ -5180,10 +5182,10 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "ノイズ除去".
 
 "Save options:"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Save options:".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "オプションの保存".
 
 "Upscaled"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Upscaled".
+"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "アップスケール済".
 
 "Seams fix"
 "./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Seams fix".
@@ -5198,7 +5200,7 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "stable-diffusion-webui-depthmap-script".
 
 "Compute on"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Compute on".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "計算".
 
 "GPU"
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "GPU".
@@ -5207,34 +5209,34 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "CPU".
 
 "Match input size (size is ignored when using boost)"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Match input size (size is ignored when using boost)".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "一致する入力サイズ(ブーストを使用する場合はサイズは無視されます)".
 
 "BOOST (multi-resolution merging)"
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "ブースト (マルチ解像度マージ)".
 
 "Invert DepthMap (black=near, white=far)"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Invert DepthMap (black=near, white=far)".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "DepthMapを反転 (黒=近く、白=遠い)".
 
 "Clip and renormalize"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Clip and renormalize".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "クリップおよび再法線処理".
 
 "Far clip"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Far clip".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "遠いクリップ".
 
 "Near clip"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Near clip".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "近くのクリップ".
 
 "Combine into one image."
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Combine into one image.".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "一つの画像にまとめます。".
 
 "Combine axis"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Combine axis".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "軸を結合".
 
 "Vertical"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Vertical".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "垂直方向".
 
 "Horizontal"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Horizontal".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "水平方向".
 
 "Save DepthMap"
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "深度マップを保存".
@@ -5246,46 +5248,46 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "ヒートマップを表示".
 
 "Generate Stereo side-by-side image"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Generate Stereo side-by-side image".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Side-by-sideの立体視画像を生成する".
 
 "Generate Stereo anaglyph image (red/cyan)"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Generate Stereo anaglyph image (red/cyan)".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "アナグリフ式立体画像(赤/青) を生成する".
 
 "Divergence (3D effect)"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Divergence (3D effect)".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "ダイバージェンス（3D効果）".
 
 "Gap fill technique"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Gap fill technique".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "ギャップ埋め技術".
 
 "Balance between eyes"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Balance between eyes".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "目間のバランス".
 
 "Generate 3D inpainted mesh. (Sloooow)"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Generate 3D inpainted mesh. (Sloooow)".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "3Dインペイントされたメッシュを生成します（とても遅い）".
 
 "Generate 4 demo videos with 3D inpainted mesh."
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Generate 4 demo videos with 3D inpainted mesh.".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "3Dインペイントメッシュで4つのデモビデオを生成します。".
 
 "Save the foreground masks"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Save the foreground masks".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "前面マスクを保存する".
 
 "pre-depth background removal"
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "pre-depth background removal".
 
 "Rembg Model"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Rembg Model".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Rembgモデル".
 
 "Information, comment and share @"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Information, comment and share @".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "情報、コメント、シェア @".
 
 "Input Mesh (.ply)"
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Input Mesh (.ply)".
 
 "Generate video from inpainted mesh."
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Generate video from inpainted mesh.".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "インペイントメッシュからビデオを生成します。".
 
 "A file on the same machine where the server is running."
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "A file on the same machine where the server is running.".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "サーバーが稼働している同じマシン上のファイル。".
 
 "Number of frames"
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "フレーム数".
@@ -5294,22 +5296,22 @@ E.g. in ./outputs/txt2img-images/.".
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "フレームレート".
 
 "Format"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Format".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "フォーマット".
 
 "Trajectory"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Trajectory".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "軌跡".
 
 "Translate: x, y, z"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Translate: x, y, z".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "変換: x, y, z".
 
 "Crop: top, left, bottom, right"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Crop: top, left, bottom, right".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "クロップ: 上、左、下、右".
 
 "Dolly"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Dolly".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "小さな人形".
 
 "Generate Video"
-"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Generate Video".
+"./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "ビデオを生成".
 
 "Plot"
 "./template/ja_JP/extensions/VRAM Estimator.json" - "プロット".
