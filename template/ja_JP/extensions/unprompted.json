@@ -205,7 +205,7 @@
   "subtract": "subtract",
   "discard": "discard",
   "Show mask in output 🡢 show": "Show mask in output 🡢 show",
-  "img2img": "img2img",
+  "img2img": "画像から画像に",
   "img2img: Runs an img2img task inside of an [after] block.": "img2img: Runs an img2img task inside of an [after] block.",
   "img2img_autosize": "img2img_autosize",
   "img2img_autosize: Automatically adjusts the width and height parameters in img2img mode based on the proportions of the input image.": "img2img_autosize: Automatically adjusts the width and height parameters in img2img mode based on the proportions of the input image.",
