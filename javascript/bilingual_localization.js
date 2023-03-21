@@ -281,7 +281,10 @@
     // Load file
     function readFile(filePath) {
       let request = new XMLHttpRequest();
-      request.open("GET", `file=${filePath}`, false);
+      request.open('GET', `file=${filePath}`, false);
+      request.setRequestHeader('Pragma', 'no-cache');
+      request.setRequestHeader('Cache-Control', 'no-cache');
+      request.setRequestHeader('If-Modified-Since', 'Thu, 01 Jun 1970 00:00:00 GMT');
       request.send(null);
       return request.responseText;
     }
