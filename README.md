@@ -118,6 +118,11 @@ Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんが�
 - [ ] ![stable-diffusion-webui-rembg translated 10%](https://geps.dev/progress/10?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)
 </details>
 
+## 自分だけの翻訳がほしい?
+**そんな貴方のためのテンプレートがあります。**  
+[テンプレート](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-template)リポジトリをご活用ください!
+
+
 # Getting Started
 ### 1. 公式の拡張機能リストからインストール(最も推奨)
 1. <kbd>Extensions</kbd>タブをクリックし、<kbd>Available</kbd>をクリックします。
