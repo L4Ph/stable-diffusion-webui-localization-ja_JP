@@ -6,7 +6,7 @@
   "u2net_cloth_seg": "u2net 衣装区分",
   "silueta": "シルエット",
   "Return mask": "マスク画像のみ",
-  "Alpha matting": "Alpha matting",
+  "Alpha matting": "アルファマット合成",
   "Erode size": "浸食サイズ",
   "Foreground threshold": "前景しきい値",
   "Background threshold": "後景しきい値",
