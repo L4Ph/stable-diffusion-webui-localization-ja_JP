@@ -4,7 +4,7 @@
   "u2netp": "u2netp",
   "u2net_human_seg": "u2net_human_seg",
   "u2net_cloth_seg": "u2net_cloth_seg",
-  "silueta": "silueta",
+  "silueta": "シルエット",
   "Return mask": "マスク画像のみ",
   "Alpha matting": "Alpha matting",
   "Erode size": "Erode size",
