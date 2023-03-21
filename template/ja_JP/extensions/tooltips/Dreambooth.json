@@ -68,7 +68,7 @@
     "tooltip": "コンセプトJSONファイル、またはJSON文字列へのパス。"
   },
   "Constant/Linear Starting Factor": {
-    "key": "Constant/Linear Starting Factor",
+    "key": "定数/線形開始係数",
     "tooltip": "初期学習率をこの値に設定します。対象となるLRがある場合。 00006と0.5に設定すると、スケジューラは0.000006に達するまで.000003で起動し、増加します。"
   },
   "Create From Hub": {
@@ -152,20 +152,20 @@
     "tooltip": "有効にすると、ユーザーによってトレーニングがキャンセルされたときに、チェックポイントが生成されます。"
   },
   "Generate lora weights Generate lora weights for additional networks.": {
-    "key": "Lora ウェイトを生成する 追加のネットワークの lora ウェイトを生成します。",
+    "key": "LoRA ウェイトを生成する 追加のネットワークの LoRA ウェイトを生成します。",
     "tooltip": "有効にすると、追加ネットワークに対応したlora .safetensorsファイルがuiローラモデルディレクトリに生成されます。拡張ローラとは互換性がありません。"
   },
   "Generate lora weights when saving during training.": {
-    "key": "トレーニング中に保存するときに Lora Weight を生成します。",
-    "tooltip": "有効にすると、トレーニング中に指定された時期ごとにlora .ptファイルが生成されます。 これは、「重みを保存」ボタンを手動でクリックしたときに.ptファイルを生成するかどうかにも影響します。"
+    "key": "トレーニング中に保存するときに LoRA Weight を生成します。",
+    "tooltip": "有効にすると、トレーニング中に指定された時期ごとにLoRA .ptファイルが生成されます。 これは、「重みを保存」ボタンを手動でクリックしたときに.ptファイルを生成するかどうかにも影響します。"
   },
   "Generate lora weights when training completes.": {
-    "key": "トレーニングが完了したらLora Weightを生成します。",
-    "tooltip": "有効にすると、トレーニング完了時にlora .ptファイルが生成されます。"
+    "key": "トレーニングが完了したらLoRA Weightを生成します。",
+    "tooltip": "有効にすると、トレーニング完了時にLoRA .ptファイルが生成されます。"
   },
   "Generate lora weights when training is canceled.": {
-    "key": "トレーニングがキャンセルされた時にLora Weightを生成します。",
-    "tooltip": "有効にすると、ユーザーによってトレーニングがキャンセルされたときに、Lora .ptファイルが生成されます。"
+    "key": "トレーニングがキャンセルされた時にLoRA Weightを生成します。",
+    "tooltip": "有効にすると、ユーザーによってトレーニングがキャンセルされたときに、LoRA .ptファイルが生成されます。"
   },
   "Gradient Accumulation Steps": {
     "key": "勾配蓄積ステップ",
@@ -197,11 +197,11 @@
   },
   "Learning Rate Scheduler": {
     "key": "学習率スケジューラー",
-    "tooltip": "The learning rate scheduler to use. All schedulers use the provided warmup time except for 'constant'."
+    "tooltip": "使用する学習率スケジューラ。すべてのスケジューラは、「定数」を除く提供されたウォームアップ時間を使用します。"
   },
   "Learning Rate Warmup Steps": {
     "key": "学習率ウォームアップのステップ",
-    "tooltip": "Number of steps for the warmup in the lr scheduler. LR will start at 0 and increase to this value over the specified number of steps."
+    "tooltip": "LRスケジューラのウォームアップのステップ数。 LRは0から開始し、指定されたステップ数でこの値に増加します。"
   },
   "Learning Rate": {
     "key": "学習率",
@@ -216,40 +216,40 @@
     "tooltip": "現在のGPUメモリ使用量を記録します。"
   },
   "Lora Model": {
-    "key": "Loraモデル",
-    "tooltip": "Loraモデルは、継続的な微調整やチェックポイント生成のためにロードします。"
+    "key": "LoRAモデル",
+    "tooltip": "LoRAモデルは、継続的な微調整やチェックポイント生成のためにロードします。"
   },
   "Use Lora Extended": {
-    "key": "Lora 拡張を使用",
-    "tooltip": "Loraモデルをレネットレイヤーで訓練します。これにより、品質と編集性が常に向上しますが、ファイルが大きくなります。"
+    "key": "LoRA 拡張を使用",
+    "tooltip": "LoRAモデルをレネットレイヤーで訓練します。これにより、品質と編集性が常に向上しますが、ファイルが大きくなります。"
   },
   "Lora UNET Rank": {
-    "key": "Lora UNET ランク",
-    "tooltip": "Lora UNETのランク(デフォルトは4) 。高い値＝ファイルサイズが大きくても品質が良い。低い値 = 低いファイルサイズで品質を犠牲にする。学習率はランクによって異なる働きをします。高精度(fp32) でロラを保存すると、ロラファイルが大きくなります。"
+    "key": "LoRA UNET ランク",
+    "tooltip": "LoRA UNETのランク(デフォルトは4) 。高い値＝ファイルサイズが大きくても品質が良い。低い値 = 低いファイルサイズで品質を犠牲にする。学習率はランクによって異なる働きをします。高精度(fp32) でロラを保存すると、ロラファイルが大きくなります。"
   },
   "Lora Text Encoder Rank": {
-    "key": "Lora テキストエンコーダランク",
-    "tooltip": "Loraテキストエンコーダのランクです(デフォルト4) 。高い値＝ファイルサイズが大きくても品質が良い。低い値 = 低いファイルサイズで品質を犠牲にする。学習率は、ランクによって異なる働きをします。高精度(fp32) でLoraを保存すると、Loraファイルが大きくなります。"
+    "key": "LoRA テキストエンコーダランク",
+    "tooltip": "LoRAテキストエンコーダのランクです(デフォルト4) 。高い値＝ファイルサイズが大きくても品質が良い。低い値 = 低いファイルサイズで品質を犠牲にする。学習率は、ランクによって異なる働きをします。高精度(fp32) でLoRAを保存すると、LoRAファイルが大きくなります。"
   },
   "Lora Text Learning Rate": {
-    "key": "Loraテキスト学習率",
-    "tooltip": "Loraテキストエンコーダを訓練する学習率。正規の学習率は無視されます。"
+    "key": "LoRAテキスト学習率",
+    "tooltip": "LoRAテキストエンコーダを訓練する学習率。正規の学習率は無視されます。"
   },
   "Lora Text Weight": {
-    "key": "Lora テキスト Weight",
-    "tooltip": "チェックポイントを作成する際に、Lora Weightを何％テキストエンコーダーに適用するか。"
+    "key": "LoRA テキスト Weight",
+    "tooltip": "チェックポイントを作成する際に、LoRA Weightを何％テキストエンコーダーに適用するか。"
   },
   "Lora UNET Learning Rate": {
-    "key": "Lora UNET 学習率",
-    "tooltip": "Lora ユニットを学習させる際の学習速度です。通常の学習速度は無視されます。"
+    "key": "LoRA UNET 学習率",
+    "tooltip": "LoRA ユニットを学習させる際の学習速度です。通常の学習速度は無視されます。"
   },
   "Lora Weight": {
-    "key": "Lora ウェイト",
-    "tooltip": "チェックポイントを作成する際に、Loraウェイトを何％ユニットに適用するか。"
+    "key": "LoRA ウェイト",
+    "tooltip": "チェックポイントを作成する際に、LoRAウェイトを何％ユニットに適用するか。"
   },
   "Max Resolution": {
     "key": "最大解像度",
-    "tooltip": "The resolution of input images. When using bucketing, this is the maximum size of image buckets."
+    "tooltip": "入力画像の解像度。Bucketingを使用する場合は、画像バケットの最大サイズです。"
   },
   "Max Token Length": {
     "key": "最大トークンの長さ",
