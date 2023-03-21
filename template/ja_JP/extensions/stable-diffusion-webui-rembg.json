@@ -5,11 +5,11 @@
   "u2net_human_seg": "u2net_human_seg",
   "u2net_cloth_seg": "u2net_cloth_seg",
   "silueta": "silueta",
-  "Return mask": "Return mask",
+  "Return mask": "マスク画像のみ",
   "Alpha matting": "Alpha matting",
   "Erode size": "Erode size",
-  "Foreground threshold": "Foreground threshold",
-  "Background threshold": "Background threshold",
+  "Foreground threshold": "前景しきい値",
+  "Background threshold": "後景しきい値",
   "stable-diffusion-webui-rembg": "stable-diffusion-webui-rembg",
   "https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg.git": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg.git"
 }
