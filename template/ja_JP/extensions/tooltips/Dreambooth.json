@@ -397,15 +397,15 @@
   },
   "Save separate diffusers snapshots when training is cancelled.": {
     "key": "トレーニングのキャンセル時に別の差分スナップショットを保存します。",
-    "tooltip": "When enabled, a unique snapshot of the diffusion weights will be saved when training is canceled. This uses more HDD space, but allows resuming from training including the optimizer state."
+    "tooltip": "有効化すると、トレーニングがキャンセルされたときに、拡散重み固有のスナップショットが保存されます。これにより、より多くのHDDスペースを使用しますが、オプティマイザーの状態を含めてトレーニングから再開することができます。"
   },
   "Save EMA Weights to Generated Models": {
     "key": "EMA Weightを生成されたモデルに保存",
-    "tooltip": "If a model was extracted or trained with EMA weights, these will be appended separately to the model for use in training later."
+    "tooltip": "もしモデルがEMAの重みから抽出されたり学習されたりした場合、これらはモデルに別々に追加されて、後で学習に使えるようになります。"
   },
   "Scale Position": {
     "key": "スケールの位置",
-    "tooltip": "The percent in training where the 'final' learning rate should be achieved. If training at 100 epochs and this is set to 0.25, the final LR will be reached at epoch 25."
+    "tooltip": "最終的な学習率が達成するのに必要なトレーニングの割合。 100エポックでトレーニングを行い、これが0.25に設定されている場合、最終的なLRは25エポックに達します。"
   },
   "Scheduler": {
     "key": "スケジューラー",
@@ -421,23 +421,23 @@
   },
   "Shuffle Tags": {
     "key": "タグをシャッフル",
-    "tooltip": "When enabled, tags after the first ',' in a prompt will be randomly ordered, which can potentially improve training."
+    "tooltip": "この機能を有効にすると、プロンプトの最初の「,」以降のタグがランダムに並べられるようになり、学習効果が高まる可能性があります。"
   },
   "Source Checkpoint": {
     "key": "ソースのチェックポイント",
-    "tooltip": "The source checkpoint to extract for training."
+    "tooltip": "トレーニングのために抽出するソースチェックポイントです。"
   },
   "Step Ratio of Text Encoder Training": {
     "key": "テキストエンコーダトレーニングのステップ比率",
-    "tooltip": "The number of steps per image (Epoch) to train the text encoder for. Set 0.5 for 50% of the epochs"
+    "tooltip": "テキストエンコーダを学習させるための1画像あたりのステップ数(エポック) です。50%のエポックに対して0.5を設定してください。"
   },
   "Strict Tokens": {
     "key": "厳密なトークン",
-    "tooltip": "Parses instance prompts separated by the following characters [,;.!?], and prevents breaking up tokens when using the tokenizer. Useful if you have prompts separated by a lot of tags."
+    "tooltip": "次の文字 [,;...!] で区切られたインスタンスプロンプトを解析し、トークナイザーを使用する際にトークンが分割されるのを防ぎます。多くのタグで区切られたプロンプトがある場合に便利です。"
   },
   "Total Number of Class/Reg Images": {
     "key": "クラス/Reg 画像の合計数",
-    "tooltip": "Total number of classification/regularization images to use. If no images exist, they will be generated. Set to 0 to disable prior preservation."
+    "tooltip": "使用する分類/正規化画像の合計数。画像が存在しない場合は生成されます。先行保存を無効にする場合は0に設定してください。"
   },
   "Train Imagic Only": {
     "key": "訓練画像のみ",
