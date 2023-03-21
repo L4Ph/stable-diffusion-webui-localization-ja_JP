@@ -497,10 +497,10 @@
   },
   "Use Lifetime Epochs When Saving": {
     "key": "保存時に有効中のエポックを使用する",
-    "tooltip": "チェックを入れると、ライフタイムエポックを使用してプレビュー画像とチェックポイントを保存します。現在のトレーニングエポックではありません。"
+    "tooltip": "チェックを入れると、現在のトレーニングエポックではなく、ライフタイムエポックを使用してプレビュー画像とチェックポイントを保存します。"
   },
   "Use Lifetime Steps When Saving": {
     "key": "保存時にライフタイムステップを使用する",
-    "tooltip": "When checked, will save preview images and checkpoints using lifetime steps, versus current training steps."
+    "tooltip": "チェックを入れると、プレビュー画像とチェックポイントを、現在のトレーニングステップではなく、ライフタイムステップを基準にして保存します。"
   }
 }
