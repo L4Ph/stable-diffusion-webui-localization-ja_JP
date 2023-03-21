@@ -4,7 +4,7 @@
 ## これはなに
 日本語訳用の言語ファイルです。 [AUTOMATIC1111版Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
 
-## Bilingual Localization
+## バイリンガル(2ヶ国語同時表示)対応について
 また、2カ国語の同時表示を可能にする[Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)拡張機能との併用を推奨します。  
 この拡張機能を使えば、日本語環境での利用だけでなく、英語での情報収集も容易になります。  
 **現在はバイリンガル対応の拡張機能を標準で組み込んでいます**  使い方は[コチラ](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)
@@ -80,6 +80,27 @@ Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんが�
 - [x] ![stable-diffusion-webui-rembg translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)
 - [x] ![shift-attention translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [shift-attention](https://github.com/yownas/shift-attention)
 </details>
+
+## ディレクトリ構造について
+```
+📦template
+ ┣📂localizations
+ ┃ ┗ 📜ja_JP.json - 実際に拡張機能で使用されるファイル
+ ┣ 📂source - 翻訳のソースとなるkeyを格納するディレクトリ
+ ┃ ┣ 📂extensions
+ ┃ ┃ ┣ 📂tooltips
+ ┃ ┃ ┃ ┗ 📜tooltip.json
+ ┃ ┃ ┗ 📜extension.json
+ ┃ ┣ 📜ExtensionList.json
+ ┃ ┗ 📜StableDiffusion.json
+ ┗ 📂ja_JP - 翻訳後のkeyを格納するディレクトリ
+   ┣ 📂extensions
+   ┃ ┣ 📂tooltips
+   ┃ ┃ ┗ 📜tooltip.json
+   ┃ ┗ 📜extension.json
+   ┣ 📜ExtensionList.json
+   ┗ 📜StableDiffusion.json
+```
 
 # Getting Started
 ### 1. 公式の拡張機能リストからインストール(最も推奨)
