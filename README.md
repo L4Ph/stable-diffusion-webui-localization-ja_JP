@@ -7,7 +7,7 @@
 ## 2ヶ国語同時表示対応について
 以下のように2ヶ国語同時表示を可能にする[Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)拡張機能との併用を推奨します。    
 **現在はバイリンガル対応の拡張機能を標準で組み込んでおり、有効化すればすぐに使えます!**  
-詳しくは[コチラ](#Bilingual-Localizationの利用方法)をご覧ください
+詳しくは[Bilingual-Localizationの利用方法](#Bilingual-Localizationの利用方法)をご覧ください
 
 ![Snipaste_2023-02-28_00-23-45](https://user-images.githubusercontent.com/16256221/221622328-a4e46b1c-f202-4a41-9a56-3df96c823f42.png)
 
@@ -174,9 +174,11 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 3. ドロップダウンリストから`ja-JP`を選択します。(もし、出てこない場合は右側の🔄から再読込してください。)
 
 ## Bilingual-Localizationの利用方法
->**⚠️重要⚠️**  
-<kbd>Settings</kbd> - <kbd>User interface</kbd> - <kbd>Localization</kbd>が`None`に設定されていることを確認してください。  
-<kbd>Settings</kbd> - <kbd>Bilingual Localization</kbd>パネルで、有効にしたい言語ファイル名を選択し、<kbd>Apply settings</kbd>ボタンと<kbd>Reload UI</kbd>ボタンを順にクリックします。
+- <kbd>Settings</kbd> - <kbd>Bilingual Localization</kbd>パネルから、`ja_JP`を選択
+![Snipaste_2023-02-28_00-04-21](https://user-images.githubusercontent.com/16256221/221625729-73519629-8c1f-4eb5-99db-a1d3f4b58a87.png)
+
+> **⚠️注意⚠️**  
+<kbd>Settings</kbd> - <kbd>User interface</kbd> - <kbd>Localization</kbd>が`None`に設定されていることを確認してください。
 
 ### 設定を適用する
 1. ページ上部のオレンジ色のボタン(<kbd>Apply settings</kbd>)をクリックして設定を保存します。
