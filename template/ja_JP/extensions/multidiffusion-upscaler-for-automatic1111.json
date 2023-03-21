@@ -1,7 +1,7 @@
 {
   "MultiDiffusion": "MultiDiffusion機能",
   "Enable MultiDiffusion": "MultiDiffusionを有効にする",
-  "Overwrite image size": "画像サイズを上書きする",
+  "Overwrite image size": "現在の画像サイズで上書き",
   "Keep input image size": "入力画像のサイズを維持する",
   "Image width": "画像の幅",
   "Image height": "画像の高さ：",
@@ -19,7 +19,7 @@
   "Reset Tile Size": "タイルサイズをリセット。",
   "Fast Encoder": "高速エンコーダ",
   "Fast Decoder": "高速デコーダ",
-  "Fast Encoder may change colors; Can fix it with more RAM and lower speed.": "高速エンコーダは色を変更する可能性があります。より多くのメモリと低速エンコーダで色化けを修正できます。",
+  "Fast Encoder may change colors; Can fix it with more RAM and lower speed.": "高速エンコーダは色が変わる可能性があります。メモリを増やしたり低速にする事で色化けは改善できます。",
   "Encoder Color Fix": "エンコーダの色修正",
   "multidiffusion-upscaler-for-automatic1111": "automatic1111でMultiDiffusionのアップスケーラーを使う",
   "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111.git": "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111.git"
