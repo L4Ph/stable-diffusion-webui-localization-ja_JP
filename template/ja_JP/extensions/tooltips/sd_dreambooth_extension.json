@@ -425,23 +425,23 @@
   },
   "Source Checkpoint": {
     "key": "ソースのチェックポイント",
-    "tooltip": "The source checkpoint to extract for training."
+    "tooltip": "トレーニングのために抽出するソースチェックポイントです。"
   },
   "Step Ratio of Text Encoder Training": {
     "key": "テキストエンコーダトレーニングのステップ比率",
-    "tooltip": "The number of steps per image (Epoch) to train the text encoder for. Set 0.5 for 50% of the epochs"
+    "tooltip": "テキストエンコーダを学習させるための1画像あたりのステップ数(エポック) です。50%のエポックに対して0.5を設定してください。"
   },
   "Strict Tokens": {
     "key": "厳密なトークン",
-    "tooltip": "Parses instance prompts separated by the following characters [,;.!?], and prevents breaking up tokens when using the tokenizer. Useful if you have prompts separated by a lot of tags."
+    "tooltip": "次の文字 [,;...!] で区切られたインスタンスプロンプトを解析し、トークナイザーを使用する際にトークンが分割されるのを防ぎます。多くのタグで区切られたプロンプトがある場合に便利です。"
   },
   "Total Number of Class/Reg Images": {
     "key": "クラス/Reg 画像の合計数",
-    "tooltip": "Total number of classification/regularization images to use. If no images exist, they will be generated. Set to 0 to disable prior preservation."
+    "tooltip": "使用する分類/正規化画像の合計数。画像が存在しない場合は生成されます。先行保存を無効にする場合は0に設定してください。"
   },
   "Train Imagic Only": {
     "key": "画像のみでトレーニング",
-    "tooltip": "Uses Imagic for training instead of full dreambooth, useful for training with a single instance image."
+    "tooltip": "Full Dreamboothの代わりにImagicをトレーニングに使用します。単一の画像でトレーニングするのに便利です。"
   },
   "Train Text Encoder": {
     "key": "テキストエンコーダを訓練する",
@@ -457,15 +457,15 @@
   },
   "Training Wizard (Object/Style)": {
     "key": "トレーニングウィザード (オブジェクト/スタイル)",
-    "tooltip": "Calculate training parameters for a non-human subject based on number of instance images and set larning rate. Disables prior preservation."
+    "tooltip": "インスタンス画像の数に基づいて、人間以外を主体としたトレーニングパラメータを計算し、学習率を設定します。Prior-Preservation（事前分布の保存）を無効にします。"
   },
   "Training Wizard (Person)": {
     "key": "トレーニングウィザード (人)",
-    "tooltip": "Calculate training parameters for a human subject based on number of instance images and set learning rate. Enables prior preservation."
+    "tooltip": "インスタンス画像の数に基づいて、人間を主体としたトレーニングパラメータを計算し、学習率を設定します。Prior-Preservation（事前分布の保存）を有効にします。"
   },
   "Unfreeze Model": {
     "key": "モデルを凍結解除",
-    "tooltip": "Unfreezes model layers and allows for potentially better training, but makes increased VRAM usage more likely."
+    "tooltip": "凍結した（訓練対象から排除した）モデルのレイヤーを解凍し訓練対象とすることで、より良いトレーニングが可能になります。ただし、VRAMの使用量が増加する可能性が高くなります。"
   },
   "Use 8bit Adam": {
     "key": "8bit Adam を使用",
@@ -473,7 +473,7 @@
   },
   "Use CPU Only (SLOW)": {
     "key": "CPUのみを使用 (低速)",
-    "tooltip": "Guess what - this will be incredibly slow, but it will work for < 8GB GPUs."
+    "tooltip": "非常に遅い処理になると予想されますが、8GB未満のGPUでも機能します。"
   },
   "Use Concepts List": {
     "key": "コンセプトリストを使用",
@@ -484,20 +484,20 @@
     "tooltip": "これを有効にすると、より良い結果と編集性が得られますが、より多くのVRAMを消費します。"
   },
   "Use EMA Weights for Inference": {
-    "key": "Use EMA Weights for Inference",
+    "key": "推論にEMA（指数移動平均）のウェイトを使用する",
     "tooltip": "これを有効にすると、EMAユニットの重みが「正常」モデルの重みとして保存され、通常のユニットの重みを無視します。"
   },
   "Use Epoch Values for Save Frequency": {
     "key": "頻度の保存にエポック値を使用する",
-    "tooltip": "When enabled, save frequencies below are based on number of epochs. When disabled, frequencies are based on number of training steps."
+    "tooltip": "有効にすると、以下の保存頻度はエポック数に基づきます。無効にすると、頻度はトレーニングステップ数に基づきます。"
   },
   "Use LORA": {
     "key": "LORAを使用",
-    "tooltip": "Uses Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning. Uses less VRAM, saves a .pt file instead of a full checkpoint"
+    "tooltip": "Text-to-Image DiffusionモデルのFine-tuningに、低ランクのAdaptationを使用します。VRAMの使用量を少なくし、full checkpointファイルではなく.ptファイルを保存します。"
   },
   "Use Lifetime Epochs When Saving": {
     "key": "保存時に有効中のエポックを使用する",
-    "tooltip": "When checked, will save preview images and checkpoints using lifetime epochs, versus current training epochs."
+    "tooltip": "チェックを入れると、ライフタイムエポックを使用してプレビュー画像とチェックポイントを保存します。現在のトレーニングエポックではありません。"
   },
   "Use Lifetime Steps When Saving": {
     "key": "保存時にライフタイムステップを使用する",

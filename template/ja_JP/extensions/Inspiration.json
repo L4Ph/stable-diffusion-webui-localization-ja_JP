@@ -1,6 +1,6 @@
 {
     "Inspiration": "インスピレーション",
-    "Create inspiration images": "Create inspiration images",
+    "Create inspiration images": "インスピレーション画像の作成",
     "Artist or styles name list. '.txt' files with one name per line": "アーティスト名やスタイル名のリスト。1行に1つの名前を含む'.txt'ファイル",
     "Prompt Placeholder, which can be used at the top of prompt input": "プロンプト入力の先頭で使用できるプロンプトプレースホルダー",
     "To activate inspiration function, you need get \"inspiration\" images first.": "インスピレーション機能を有効にするには、まず「インスピレーション」画像を取得する必要があります。",

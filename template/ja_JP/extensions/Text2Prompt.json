@@ -19,9 +19,9 @@
   "NONE": "なし",
   "Top-k": "Top-k",
   "Top-p (Nucleus)": "Top-p (Nucleus)",
-  "Max number of tags": "Max number of tags",
-  "k value": "k value",
-  "p value": "p value",
+  "Max number of tags": "最大タグ数",
+  "k value": "k の値",
+  "p value": "p の値",
   "Use weighted choice": "重み付きの選択を使用",
   "stable-diffusion-webui-text2prompt": "stable-diffusion-webui-text2prompt"
 }
