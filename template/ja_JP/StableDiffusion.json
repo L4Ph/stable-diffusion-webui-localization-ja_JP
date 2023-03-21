@@ -571,7 +571,7 @@
   "Github": "Github",
   "Gradio": "Gradio",
   "python": "python",
-  "N/A": "該当なし",
+  "N/A": "N/A",
   "Prompt (press Ctrl+Enter or Alt+Enter to generate)": "プロンプト (Ctrl+Enter か Alt+Enter を押して生成)",
   "Negative prompt (press Ctrl+Enter or Alt+Enter to generate)": "ネガティブプロンプト (Ctrl+Enter か Alt+Enter を押して生成)",
   "Stop processing images and return any results accumulated so far.": "処理を中断し、それまでに出来た結果を表示",
