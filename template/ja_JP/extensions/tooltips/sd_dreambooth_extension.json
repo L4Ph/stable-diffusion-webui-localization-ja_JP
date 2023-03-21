@@ -5,11 +5,11 @@
   },
   "AdamW Weight Decay": {
     "key": "AdamW Weight の減衰",
-    "tooltip": "The weight decay of the AdamW Optimizer. Values closer to 0 closely match your training dataset, and values closer to 1 generalize more and deviate from your training dataset. Default is 1e-2, values lower than 0.1 are recommended."
+    "tooltip": "AdamW Optimizerのウェイト減衰量。値が0に近い場合はトレーニングデータセットと密接に一致し、1に近い場合はより一般化しトレーニングデータセットから逸脱します。デフォルトは1e-2で、0.1より低い値を推奨されます。"
   },
   "Amount of time to pause between Epochs (s)": {
-    "key": "Amount of time to pause between Epochs (s)",
-    "tooltip": "When 'Pause After N Epochs' is greater than 0, this is the amount of time, in seconds, that training will be paused for"
+    "key": "エポック間で一時停止する時間(秒)",
+    "tooltip": "「Nエポック後に一時停止」の値が0より大きい場合、訓練は数秒で一時停止されます。"
   },
   "Apply Horizontal Flip": {
     "key": "水平フリップを適用",
@@ -17,7 +17,7 @@
   },
   "Batch Size": {
     "key": "出力枚数",
-    "tooltip": "How many images to process at once per training step?"
+    "tooltip": "訓練ステップごとに何枚の画像を処理しますか？"
   },
   "Cache Latents": {
     "key": "履歴のキャッシュ",
@@ -29,7 +29,7 @@
   },
   "Class Batch Size": {
     "key": "クラスのバッチサイズ",
-    "tooltip": "How many classifier/regularization images to generate at once."
+    "tooltip": "一度に生成する分類/正規化画像の枚数。"
   },
   "Class Images Per Instance Image": {
     "key": "Class Images Per Instance Image",
@@ -313,7 +313,7 @@
   },
   "Preview Prompts": {
     "key": "プロンプトをプレビュー",
-    "tooltip": "Generate a JSON representation of prompt data used for training."
+    "tooltip": "訓練に使用されるプロンプトデータの JSON 表現を生成する。"
   },
   "Prior Loss Weight": {
     "key": "Prior Loss Weight",
@@ -325,7 +325,7 @@
   },
   "Sample Image Prompt": {
     "key": "サンプル画像プロンプト:",
-    "tooltip": "The prompt to use when generating preview images."
+    "tooltip": "プレビュー画像の生成に使用するプロンプト。"
   },
   "Sample Negative Prompt": {
     "key": "ネガティブプロンプトのサンプル",
@@ -333,7 +333,7 @@
   },
   "Sample Prompt Template File": {
     "key": "サンプルプロンプトテンプレートファイル",
-    "tooltip": "The path to a txt file to use for sample prompts. Use [filewords] or [name] to insert class token in sample prompts"
+    "tooltip": "サンプルプロンプトに使用する txt ファイルへのパス。サンプル プロンプトにクラス トークンを挿入するには、 [filewords] または [name] を使用してください。"
   },
   "Sample Prompt": {
     "key": "サンプルプロンプト:",
@@ -348,11 +348,11 @@
     "tooltip": "分類画像/規則画像を生成する際に使用するステップ数。"
   },
   "Sanity Sample Prompt": {
-    "key": "Sanity Sample Prompt",
+    "key": "正常性確認用サンプルプロンプト",
     "tooltip": "モデルの忠実度を検証するために他のサンプルと一緒に作成される「ベースライン」イメージの生成に使用されるプロンプト。"
   },
   "Sanity Sample Seed": {
-    "key": "Sanity Sample Seed",
+    "key": "正常性確認用サンプルシード値",
     "tooltip": "検証サンプル画像の生成時に使用するシード。-1 はサポートされていません。"
   },
   "Save Checkpoint to Subdirectory": {
@@ -365,19 +365,19 @@
   },
   "Save Model Frequency (Step)": {
     "key": "モデルの保存頻度 (ステップ)",
-    "tooltip": "Save a checkpoint every N epochs. Must be divisible by batch number."
+    "tooltip": "Nエポックごとにチェックポイントを保存します。バッチ数で割り切れる必要があります。"
   },
   "Save Preview(s) Frequency (Epochs)": {
-    "key": "Save Preview(s) Frequency (Epochs)",
+    "key": "プレビュー保存頻度 (エポック数)",
     "tooltip": "N エポックごとにプレビュー画像を生成します。"
   },
   "Save Preview(s) Frequency (Step)": {
-    "key": "Save Preview(s) Frequency (Step)",
-    "tooltip": "Generate preview images every N steps. Must be divisible by batch number."
+    "key": "プレビュー保存頻度 (ステップ数)",
+    "tooltip": "プレビュー画像をNステップごとに生成します。バッチ数で割り切れる必要があります。"
   },
   "Save Settings": {
     "key": "設定を保存",
-    "tooltip": "Save the current training parameters to the model config file."
+    "tooltip": "現在のトレーニングパラメータをモデルの設定ファイルに保存します。"
   },
   "Save Weights": {
     "key": "重みを保存",
@@ -385,15 +385,15 @@
   },
   "Save and Test Webhook": {
     "key": "Webフォークの保存とテスト",
-    "tooltip": "Save the currently entered webhook URL and send a test message to it."
+    "tooltip": "現在入力されているWebhookのURLを保存し、テストメッセージを送信します。"
   },
   "Save separate diffusers snapshots when saving during training.": {
-    "key": "Save separate diffusers snapshots when saving during training.",
-    "tooltip": "When enabled, a unique snapshot of the diffusion weights will be saved at each specified epoch interval. This uses more HDD space (A LOT), but allows resuming from training, including the optimizer state."
+    "key": "トレーニング中、ディフューザの重みのスナップショットを個別に保存する。",
+    "tooltip": "有効にすると、指定したエポック間隔ごとにディフューザーの重みのスナップショットが一つ保存されます。これはHDDの容量を(非常に) 多く使いますが、オプティマイザーの状態も含めて学習を再開することができます。"
   },
   "Save separate diffusers snapshots when training completes.": {
-    "key": "Save separate diffusers snapshots when training completes.",
-    "tooltip": "When enabled, a unique snapshot of the diffusion weights will be saved when training completes. This uses more HDD space, but allows resuming from training including the optimizer state."
+    "key": "トレーニング完了時に、ディフューザーのスナップショットを別々に保存する。",
+    "tooltip": "有効にすると、トレーニング完了時にディフューザーの重みのスナップショットが一つ保存されます。これはHDDの容量をより多く使いますが、オプティマイザーの状態も含めて学習を再開することができます。"
   },
   "Save separate diffusers snapshots when training is cancelled.": {
     "key": "Save separate diffusers snapshots when training is cancelled.",
@@ -480,7 +480,7 @@
     "tooltip": "Train multiple concepts from a JSON file or string."
   },
   "Use EMA": {
-    "key": "Use EMA",
+    "key": "EMAを使用",
     "tooltip": "Enabling this will provide better results and editability, but cost more VRAM."
   },
   "Use EMA Weights for Inference": {
