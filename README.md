@@ -24,23 +24,35 @@ Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんが�
 
 ## ディレクトリ構造 
 ```
-📦template
- ┣📂localizations
- ┃ ┗ 📜ja_JP.json
- ┣ 📂source
- ┃ ┣ 📂extensions
- ┃ ┃ ┣ 📂tooltips
- ┃ ┃ ┃ ┗ 📜tooltip.json
- ┃ ┃ ┗ 📜extension.json
- ┃ ┣ 📜ExtensionList.json
- ┃ ┗ 📜StableDiffusion.json
- ┗ 📂ja_JP
-   ┣ 📂extensions
-   ┃ ┣ 📂tooltips
-   ┃ ┃ ┗ 📜tooltip.json
-   ┃ ┗ 📜extension.json
-   ┣ 📜ExtensionList.json
-   ┗ 📜StableDiffusion.json
+📦 main branch
+├─ .github
+│  └─ workflows
+│     ├─ Merge.yaml
+│     ├─ translation_progress.yaml
+│     └─ update-source.yaml
+├─ .gitignore
+├─ LICENSE
+├─ README.md
+├─ crowdin.yml
+├─ images
+├─ javascript
+│  └─ bilingual_localization.js
+├─ localizations
+│  └─ ja_JP.json - 実際にWebUIで使用する言語ファイル
+├─ scripts
+│  └─ bilingual_localization_helper.py
+├─ template
+│  ├─ ja_JP - 翻訳の後のソースになる部分 マージすると/localizaions/ja_JP.jsonになる
+│  │  ├─ ExtensionList.json
+│  │  ├─ StableDiffusion.json
+│  │  └─ extensions
+│  │     └─ extension.json
+│  └─ source - 翻訳前のソースとなる部分
+│     ├─ ExtensionList.json
+│     ├─ StableDiffusion.json
+│     └─ extensions
+│        └─ extension.json
+└─ tools - いろいろなツール群
 ```
  - `/localizations/ja_JP.json` - 実際にWebUIで使用される言語ファイル `merge.yaml`を手動実行し、マージする  
  - `/template/source/`以下 - `update_source.yaml`で[翻訳ソース](https://github.com/harukaxxxx/stable-diffusion-webui-localization-source)から取得してきたファイル こちらには基本変更を加えません  
