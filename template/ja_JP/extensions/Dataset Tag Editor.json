@@ -1,5 +1,5 @@
 {
-    "Dataset Tag Editor": "Dataset Tag Editor",
+    "Dataset Tag Editor": "データ集合のタグエディタ",
     "hidden_idx_next": "hidden_idx_next",
     "hidden_idx_prev": "hidden_idx_prev",
     "hidden_s_or_n": "hidden_s_or_n",
@@ -52,7 +52,7 @@
     "Clear ALL filters": "すべてのフィルタをクリア",
     "Positive Filter": "正のフィルター",
     "Negative Filter": "負のフィルター",
-    "Search tags / Filter images by tags": "Search tags / Filter images by tags",
+    "Search tags / Filter images by tags": "タグ検索/タグによる画像フィルター",
     "(INCLUSIVE)": "(INCLUSIVE)",
     "Search Tags": "タグを検索する",
     "Prefix": "接頭辞",
