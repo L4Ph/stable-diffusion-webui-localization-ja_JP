@@ -38,7 +38,7 @@
     "Restarts noise scheduler, or linear": "Restarts noise scheduler, or linear",
     "Restarts noise scheduler every nth epoch": "Restarts noise scheduler every nth epoch",
     "Unload Optimizer when generating preview(hypernetwork)": "Unload Optimizer when generating preview(hypernetwork)",
-    "Prompt template file": "Prompt template file",
+    "Prompt template file": "プロンプトテンプレートファイル",
     "Standard deviation for sampling": "Standard deviation for sampling",
     "loss type": "loss type",
     "loss": "loss",
