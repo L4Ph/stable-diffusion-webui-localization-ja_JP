@@ -484,16 +484,16 @@
     "tooltip": "これを有効にすると、より良い結果と編集性が得られますが、より多くのVRAMを消費します。"
   },
   "Use EMA Weights for Inference": {
-    "key": "Use EMA Weights for Inference",
+    "key": "推論にEMA（指数移動平均）のウェイトを使用する",
     "tooltip": "これを有効にすると、EMAユニットの重みが「正常」モデルの重みとして保存され、通常のユニットの重みを無視します。"
   },
   "Use Epoch Values for Save Frequency": {
     "key": "頻度の保存にエポック値を使用する",
-    "tooltip": "When enabled, save frequencies below are based on number of epochs. When disabled, frequencies are based on number of training steps."
+    "tooltip": "有効にすると、以下の保存頻度はエポック数に基づきます。無効にすると、頻度はトレーニングステップ数に基づきます。"
   },
   "Use LORA": {
     "key": "LORAを使用",
-    "tooltip": "Uses Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning. Uses less VRAM, saves a .pt file instead of a full checkpoint"
+    "tooltip": "Text-to-Image DiffusionモデルのFine-tuningに、低ランクのAdaptationを使用します。VRAMの使用量を少なくし、full checkpointファイルではなく.ptファイルを保存します。"
   },
   "Use Lifetime Epochs When Saving": {
     "key": "保存時に有効中のエポックを使用する",
