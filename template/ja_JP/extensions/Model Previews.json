@@ -5,13 +5,13 @@
     "Model": "モデル",
     "Filter": "フィルター",
     "Notes": "備考",
-    "Model Preview XD": "Model Preview XD",
-    "Name matching rule for preview files": "Name matching rule for preview files",
-    "Loose": "Loose",
-    "Strict": "Strict",
+    "Model Preview XD": "モデルプレビュー",
+    "Name matching rule for preview files": "プレビューファイルのネームマッチング規則",
+    "Loose": "寛容",
+    "Strict": "厳格",
     "Folder": "フォルダー",
     "Index": "インデックス",
-    "Limit the height of preivews to the height of the browser window (.html preview files are always limited regardless of this setting)": "Limit the height of preivews to the height of the browser window (.html preview files are always limited regardless of this setting)",
+    "Limit the height of preivews to the height of the browser window (.html preview files are always limited regardless of this setting)": "プレビューの高さをブラウザウィンドウの高さまでに制限する (.html プレビューファイルはこの設定に関係なく常に制限されます)",
     "sd-model-preview-xd": "sd-model-preview-xd",
-    "No Preview Found": "No Preview Found"
+    "No Preview Found": "プレビューが見つかりませんでした"
 }
