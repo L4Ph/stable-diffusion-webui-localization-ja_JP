@@ -1,5 +1,5 @@
 {
-  "MultiDiffusion": "MultiDiffusion",
+  "MultiDiffusion": "MultiDiffusion機能",
   "Enable MultiDiffusion": "MultiDiffusionを有効にする",
   "Overwrite image size": "画像サイズを上書きする",
   "Keep input image size": "入力画像のサイズを維持する",
@@ -10,7 +10,7 @@
   "Latent tile overlap": "Latentタイルの重なり領域",
   "Latent tile batch size": "Latentタイル バッチサイズ",
   "Move ControlNet images to CPU (if applicable)": "ControlNet画像をCPUに移動 (該当する場合)",
-  "Tiled VAE": "Tiled VAE",
+  "Tiled VAE": "タイル状のVAE",
   "Enable": "有効化",
   "Move VAE to GPU": "VAEをGPUに移動",
   "Please use smaller tile size when see CUDA error: out of memory.": "以下のエラー時は小さいタイルタイズをご使用ください。CUDAエラー:メモリ不足。",
@@ -21,6 +21,6 @@
   "Fast Decoder": "高速デコーダ",
   "Fast Encoder may change colors; Can fix it with more RAM and lower speed.": "高速エンコーダは色を変更する可能性があります。より多くのメモリと低速エンコーダで色化けを修正できます。",
   "Encoder Color Fix": "エンコーダの色修正",
-  "multidiffusion-upscaler-for-automatic1111": "multidiffusion-upscaler-for-automatic1111",
+  "multidiffusion-upscaler-for-automatic1111": "automatic1111でMultiDiffusionのアップスケーラーを使う",
   "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111.git": "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111.git"
 }
