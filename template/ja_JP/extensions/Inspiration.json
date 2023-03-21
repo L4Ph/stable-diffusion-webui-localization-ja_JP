@@ -1,5 +1,5 @@
 {
-    "Inspiration": "Inspiration",
+    "Inspiration": "インスピレーション",
     "Create inspiration images": "Create inspiration images",
     "Artist or styles name list. '.txt' files with one name per line": "Artist or styles name list. '.txt' files with one name per line",
     "Prompt Placeholder, which can be used at the top of prompt input": "Prompt Placeholder, which can be used at the top of prompt input",
@@ -15,7 +15,7 @@
     "/extections/stable-diffusion-webui-inspiration": "/extections/stable-diffusion-webui-inspiration",
     "and restart webui, and enjoy the joy of creation!": "and restart webui, and enjoy the joy of creation!",
     "Maximum number of samples, used to determine which folders to skip when continue running the create script": "Maximum number of samples, used to determine which folders to skip when continue running the create script",
-    "Number of rows on the page": "Number of rows on the page",
-    "Minimum number of pages per load": "Minimum number of pages per load",
+    "Number of rows on the page": "ページ上の行数",
+    "Minimum number of pages per load": "ロードあたりの最小ページ数",
     "stable-diffusion-webui-inspiration": "stable-diffusion-webui-inspiration"
 }
