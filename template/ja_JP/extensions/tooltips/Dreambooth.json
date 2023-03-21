@@ -253,7 +253,7 @@
   },
   "Max Token Length": {
     "key": "最大トークンの長さ",
-    "tooltip": "Maximum token length to respect. You probably want to leave this at 75."
+    "tooltip": "最大トークン長を指定します。おそらく75のままにしておいたほうがよいでしょう。"
   },
   "Memory Attention": {
     "key": "メモリに注意",
@@ -281,7 +281,7 @@
   },
   "Number of Hard Resets": {
     "key": "ハードリセット数",
-    "tooltip": "Number of hard resets of the lr in cosine_with_restarts scheduler."
+    "tooltip": "リスタートスケジューラによるコスパの良いLRのハードリセット回数"
   },
   "Number of Samples to Generate": {
     "key": "生成するサンプル数",
@@ -304,8 +304,8 @@
     "tooltip": "VRAMの総量に応じたトレーニングパラメータの自動設定を試みます。まだ開発中です。"
   },
   "Polynomial Power": {
-    "key": "Polynomial Power",
-    "tooltip": "Power factor of the polynomial scheduler."
+    "key": "多項式累乗",
+    "tooltip": "多項スケジューラの力関係"
   },
   "Pretrained VAE Name or Path": {
     "key": "事前訓練済みのVAE名またはパス",
@@ -316,12 +316,12 @@
     "tooltip": "訓練に使用されるプロンプトデータの JSON 表現を生成します。"
   },
   "Prior Loss Weight": {
-    "key": "Prior Loss Weight",
-    "tooltip": "Prior loss weight."
+    "key": "前にロスしたウェイト量",
+    "tooltip": "前にロスしたウェイト量"
   },
   "Sample CFG Scale": {
     "key": "サンプルCFGスケール",
-    "tooltip": "The Classifier-Free Guidance Scale to use for preview images."
+    "tooltip": "分類子／正則化画像に使用する分類子無しのガイダンススケール。"
   },
   "Sample Image Prompt": {
     "key": "サンプル イメージ プロンプト:",
@@ -389,11 +389,11 @@
   },
   "Save separate diffusers snapshots when saving during training.": {
     "key": "トレーニング中に保存するときに別の差分スナップショットを保存します。",
-    "tooltip": "When enabled, a unique snapshot of the diffusion weights will be saved at each specified epoch interval. This uses more HDD space (A LOT), but allows resuming from training, including the optimizer state."
+    "tooltip": "有効にすると、指定したエポック間隔ごとにディフューザーの重みのスナップショットが一つ保存されます。これはHDDの容量を(非常に) 多く使いますが、オプティマイザーの状態も含めて学習を再開することができます。"
   },
   "Save separate diffusers snapshots when training completes.": {
-    "key": "Save separate diffusers snapshots when training completes.",
-    "tooltip": "When enabled, a unique snapshot of the diffusion weights will be saved when training completes. This uses more HDD space, but allows resuming from training including the optimizer state."
+    "key": "トレーニング完了時に、ディフューザーのスナップショットを別々に保存します。",
+    "tooltip": "有効にすると、トレーニング完了時にディフューザーの重みのスナップショットが一つ保存されます。これはHDDの容量をより多く使いますが、オプティマイザーの状態も含めて学習を再開することができます。"
   },
   "Save separate diffusers snapshots when training is cancelled.": {
     "key": "トレーニングのキャンセル時に別の差分スナップショットを保存します。",
@@ -432,7 +432,7 @@
     "tooltip": "The number of steps per image (Epoch) to train the text encoder for. Set 0.5 for 50% of the epochs"
   },
   "Strict Tokens": {
-    "key": "Strict Tokens",
+    "key": "厳密なトークン",
     "tooltip": "Parses instance prompts separated by the following characters [,;.!?], and prevents breaking up tokens when using the tokenizer. Useful if you have prompts separated by a lot of tags."
   },
   "Total Number of Class/Reg Images": {
