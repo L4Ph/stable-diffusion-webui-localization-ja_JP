@@ -1,11 +1,11 @@
 {
-  "Create aesthetic embedding": "Aesthetic embedding の作成",
+  "Create aesthetic embedding": "美的埋め込みの作成",
   "Open for Clip Aesthetic!": "Open for Clip Aesthetic!",
   "Aesthetic weight": "Aesthetic ウェイト",
   "Aesthetic steps": "Aesthetic ステップ数",
   "Aesthetic learning rate": "Aesthetic 学習率",
   "Slerp interpolation": "スラープ補間（補間）",
-  "Aesthetic imgs embedding": "Aesthetic Embeddingを使用する",
+  "Aesthetic imgs embedding": "美的埋め込みを使用する",
   "Aesthetic text for imgs": "Aesthetic text for imgs",
   "Slerp angle": "スラープ角度",
   "Is negative text": "ネガティブテキスト",
