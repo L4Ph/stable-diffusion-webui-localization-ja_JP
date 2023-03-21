@@ -81,27 +81,6 @@ Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんが�
 - [x] ![shift-attention translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [shift-attention](https://github.com/yownas/shift-attention)
 </details>
 
-## ディレクトリ構造について
-```
-📦template
- ┣📂localizations
- ┃ ┗ 📜ja_JP.json - 実際に拡張機能で使用されるファイル
- ┣ 📂source - 翻訳のソースとなるkeyを格納するディレクトリ
- ┃ ┣ 📂extensions
- ┃ ┃ ┣ 📂tooltips
- ┃ ┃ ┃ ┗ 📜tooltip.json
- ┃ ┃ ┗ 📜extension.json
- ┃ ┣ 📜ExtensionList.json
- ┃ ┗ 📜StableDiffusion.json
- ┗ 📂ja_JP - 翻訳後のkeyを格納するディレクトリ
-   ┣ 📂extensions
-   ┃ ┣ 📂tooltips
-   ┃ ┃ ┗ 📜tooltip.json
-   ┃ ┗ 📜extension.json
-   ┣ 📜ExtensionList.json
-   ┗ 📜StableDiffusion.json
-```
-
 # Getting Started
 ### 1. 公式の拡張機能リストからインストール(最も推奨)
 1. <kbd>Extensions</kbd>タブをクリックし、<kbd>Available</kbd>をクリックします。
