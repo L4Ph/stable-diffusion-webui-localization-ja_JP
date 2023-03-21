@@ -5,11 +5,11 @@
   },
   "AdamW Weight Decay": {
     "key": "AdamW Weight の減衰",
-    "tooltip": "The weight decay of the AdamW Optimizer. Values closer to 0 closely match your training dataset, and values closer to 1 generalize more and deviate from your training dataset. Default is 1e-2, values lower than 0.1 are recommended."
+    "tooltip": "AdamW Optimizerのウェイト減衰量。0に近い値はトレーニングデータセットと密接に一致し、1に近い値はより一般化し、トレーニングデータセットから逸脱します。デフォルトは1e-2で、0.1より低い値を推奨します。"
   },
   "Amount of time to pause between Epochs (s)": {
-    "key": "Amount of time to pause between Epochs (s)",
-    "tooltip": "When 'Pause After N Epochs' is greater than 0, this is the amount of time, in seconds, that training will be paused for"
+    "key": "エポック間で一時停止する時間(秒)",
+    "tooltip": "「Nエポック後に一時停止」の値が0より大きい場合、訓練は数秒で一時停止されます。"
   },
   "Apply Horizontal Flip": {
     "key": "水平フリップを適用",
@@ -17,7 +17,7 @@
   },
   "Batch Size": {
     "key": "バッチサイズ",
-    "tooltip": "How many images to process at once per training step?"
+    "tooltip": "訓練ステップごとに何枚の画像を処理しますか？"
   },
   "Cache Latents": {
     "key": "履歴のキャッシュ",
@@ -29,7 +29,7 @@
   },
   "Class Batch Size": {
     "key": "クラスのバッチサイズ",
-    "tooltip": "How many classifier/regularization images to generate at once."
+    "tooltip": "一度に生成する分類/正規化画像の枚数。"
   },
   "Class Images Per Instance Image": {
     "key": "インスタンスイメージごとのクラスイメージ",
@@ -37,15 +37,15 @@
   },
   "Class Prompt": {
     "key": "クラスプロンプト",
-    "tooltip": "A prompt for generating classification/regularization images. See the readme for more info."
+    "tooltip": "分類/規則化画像を生成するためのプロンプトです。詳細は readme を参照してください。"
   },
   "Class Token": {
     "key": "クラストークン",
-    "tooltip": "When using [filewords], this is the class identifier to use/find in existing prompts. Should be a single word."
+    "tooltip": "[filewords]を使用する場合、これは既存のプロンプトで使用/検索するクラス識別子です。単一の単語である必要があります。"
   },
   "Classification CFG Scale": {
     "key": "分類CFGスケール",
-    "tooltip": "The Classifier-Free Guidance Scale to use for classifier/regularization images."
+    "tooltip": "分類子／正則化画像に使用する分類子不要のガイダンススケールです。"
   },
   "Classification Dataset Directory": {
     "key": "分類データセットディレクトリ",
@@ -69,7 +69,7 @@
   },
   "Constant/Linear Starting Factor": {
     "key": "Constant/Linear Starting Factor",
-    "tooltip": "Sets the initial learning rate to the main_lr * this value. If you had a target LR of .000006 and set this to .5, the scheduler would start at .000003 and increase until it reached .000006."
+    "tooltip": "初期学習率をこの値に設定します。対象となるLRがある場合。 00006と0.5に設定すると、スケジューラは0.000006に達するまで.000003で起動し、増加します。"
   },
   "Create From Hub": {
     "key": "ハブから作成",
@@ -81,7 +81,7 @@
   },
   "Create": {
     "key": "作成",
-    "tooltip": "Create the danged model already."
+    "tooltip": "既にぶら下がっているモデルを作成します。"
   },
   "Custom Model Name": {
     "key": "カスタムモデル名",
@@ -92,7 +92,7 @@
     "tooltip": "学習用画像が格納されているディレクトリ"
   },
   "Debug Buckets": {
-    "key": "Debug Buckets",
+    "key": "デバッグバケット数",
     "tooltip": "インスタンスとクラス・イメージを調べて、対応するクラス・イメージのないインスタンスイメージを報告します。"
   },
   "Discord Webhook": {
@@ -101,7 +101,7 @@
   },
   "Existing Prompt Contents": {
     "key": "既存のプロンプトの内容",
-    "tooltip": "If using [filewords], this tells the string builder how the existing prompts are formatted."
+    "tooltip": "[filewords] を使用すると、既存のプロンプトのフォーマット方法を文字列ビルダに指示します。"
   },
   "Extract EMA Weights": {
     "key": "EMAウェイトを抽出",
@@ -109,7 +109,7 @@
   },
   "Freeze CLIP Normalization Layers": {
     "key": "CLIP正規化レイヤーを固定",
-    "tooltip": "Keep the normalization layers of CLIP frozen during training. Advanced usage, may increase model performance and editability."
+    "tooltip": "トレーニング中にCLIPの正規化層を凍結させたままにします。高度な使用により、モデルのパフォーマンスと編集性が向上する可能性があります。"
   },
   "Generate Ckpt": {
     "key": "Ckptを生成",
@@ -133,15 +133,15 @@
   },
   "Generate Sample Images": {
     "key": "サンプル画像を生成",
-    "tooltip": "Generate sample images using the currently saved diffusers model."
+    "tooltip": "現在保存されている差分モデルを使用してサンプル画像を生成します。"
   },
   "Generate Samples": {
     "key": "サンプルを生成",
-    "tooltip": "Trigger sample generation after the next training epoch."
+    "tooltip": "次のトレーニング時の後にサンプル生成をトリガーします。"
   },
   "Generate a .ckpt file when saving during training.": {
     "key": "トレーニング中に保存するときに .ckpt ファイルを生成します。",
-    "tooltip": "When enabled, a checkpoint will be generated at the specified epoch intervals while training is active. This also controls manual generation using the 'save weights' button while training is active."
+    "tooltip": "有効にすると、トレーニングがアクティブな間隔でチェックポイントが指定された時点で生成されます。 また、トレーニングがアクティブなときに「重みを保存」ボタンを使用して手動生成を制御します。"
   },
   "Generate a .ckpt file when training completes.": {
     "key": "トレーニングが完了したら.ckptファイルを生成します。",
@@ -152,48 +152,48 @@
     "tooltip": "有効にすると、ユーザーによってトレーニングがキャンセルされたときに、チェックポイントが生成されます。"
   },
   "Generate lora weights Generate lora weights for additional networks.": {
-    "key": "Generate lora weights Generate lora weights for additional networks.",
+    "key": "Lora ウェイトを生成する 追加のネットワークの lora ウェイトを生成します。",
     "tooltip": "有効にすると、追加ネットワークに対応したlora .safetensorsファイルがuiローラモデルディレクトリに生成されます。拡張ローラとは互換性がありません。"
   },
   "Generate lora weights when saving during training.": {
     "key": "トレーニング中に保存するときに Lora Weight を生成します。",
-    "tooltip": "When enabled, lora .pt files will be generated at each specified epoch interval during training. This also affects whether .pt files will be generated when manually clicking the 'Save Weights' button."
+    "tooltip": "有効にすると、トレーニング中に指定された時期ごとにlora .ptファイルが生成されます。 これは、「重みを保存」ボタンを手動でクリックしたときに.ptファイルを生成するかどうかにも影響します。"
   },
   "Generate lora weights when training completes.": {
     "key": "トレーニングが完了したらLora Weightを生成します。",
-    "tooltip": "When enabled, lora .pt files will be generated when training completes."
+    "tooltip": "有効にすると、トレーニング完了時にlora .ptファイルが生成されます。"
   },
   "Generate lora weights when training is canceled.": {
     "key": "トレーニングがキャンセルされた時にLora Weightを生成します。",
     "tooltip": "有効にすると、ユーザーによってトレーニングがキャンセルされたときに、Lora .ptファイルが生成されます。"
   },
   "Gradient Accumulation Steps": {
-    "key": "Gradient Accumulation Steps",
-    "tooltip": "Number of updates steps to accumulate before performing a backward/update pass. You should try to make this the same as your batch size."
+    "key": "勾配蓄積ステップ",
+    "tooltip": "後方/更新パスを実行する前に蓄積する更新ステップの数。バッチサイズと同じになるようにする必要があります。"
   },
   "Gradient Checkpointing": {
     "key": "チェックポイントの傾度",
-    "tooltip": "This is a technique to reduce memory usage by clearing activations of certain layers and recomputing them during a backward pass. Effectively, this trades extra computation time for reduced memory usage."
+    "tooltip": "これは、特定の層の活性化をクリアし、後方パスで再計算することで、メモリ使用量を削減する手法です。実質的に、余分な計算時間とメモリ使用量の削減をトレードすることになります。"
   },
   "Graph Smoothing Steps": {
     "key": "グラフスムージングのステップ",
-    "tooltip": "How many timesteps to smooth graph data over. A lower value means a more jagged graph with more information, higher value will make things prettier but slightly less accurate."
+    "tooltip": "データをスムーズに表示するタイムスタンプの数。 値が小さいほど、より多くの情報を持つギザギザのグラフが多くなります。値が大きいと、よりきれいになりますが、若干精度が低くなります。"
   },
   "Half Model": {
     "key": "ハーフモデル",
-    "tooltip": "Enable this to generate model with fp16 precision. Results in a smaller checkpoint with minimal loss in quality."
+    "tooltip": "これを有効にすると、fp16 精度のモデルが生成されます。品質損失を最小限に抑えながら、チェックポイントを小さくします。"
   },
   "HuggingFace Token": {
     "key": "HuggingFace Token",
     "tooltip": "ファイルのクローンに使用するhuggingfaceトークン。"
   },
   "Instance Prompt": {
-    "key": "Instance Prompt",
-    "tooltip": "A prompt describing the subject. Use [Filewords] to parse image filename/.txt to insert existing prompt here."
+    "key": "インスタンスプロンプト",
+    "tooltip": "対象を記述するプロンプトが表示されます。 [Filewords] を使用して画像のファイル名/.txt を解析し、ここに既存のプロンプトを挿入します。"
   },
   "Instance Token": {
     "key": "インスタンストークン",
-    "tooltip": "When using [filewords], this is the instance identifier that is unique to your subject. Should be a single word."
+    "tooltip": "[filewords] を使用する場合、これは件名に固有のインスタンス識別子です。単一の単語である必要があります。"
   },
   "Learning Rate Scheduler": {
     "key": "学習率スケジューラー",
@@ -217,7 +217,7 @@
   },
   "Lora Model": {
     "key": "Loraモデル",
-    "tooltip": "The Lora model to load for continued fine-tuning or checkpoint generation."
+    "tooltip": "Loraモデルは、継続的な微調整やチェックポイント生成のためにロードします。"
   },
   "Use Lora Extended": {
     "key": "Lora 拡張を使用",
@@ -264,7 +264,7 @@
     "tooltip": "時間の経過とともに減少する最小学習率。"
   },
   "Mixed Precision": {
-    "key": "Mixed Precision",
+    "key": "混合された精度",
     "tooltip": "FP16またはBF16(利用可能な場合) を使用すると、メモリ性能が向上します。\"xformers\"を使用する場合は必須です。"
   },
   "Model Path": {
@@ -285,18 +285,18 @@
   },
   "Number of Samples to Generate": {
     "key": "生成するサンプル数",
-    "tooltip": "How many samples to generate per subject."
+    "tooltip": "テーマごとに生成するサンプル数"
   },
   "Offset Noise": {
-    "key": "Offset Noise",
+    "key": "ノイズをオフセット",
     "tooltip": "トレーニング中の明るさとコントラストをより詳細に学習できるようにします。値は効果の強さをコントロールし、0はそれを無効にします。"
   },
   "Pad Tokens": {
     "key": "パッドトークン",
-    "tooltip": "Pad the input images token length to this amount. You probably want to do this."
+    "tooltip": "入力画像のトークンの長さをこの値にパッドします。おそらくこれを行いたいと思うでしょう。"
   },
   "Pause After N Epochs": {
-    "key": "Pause After N Epochs",
+    "key": "N エポック後に一時停止",
     "tooltip": "指定された時間にトレーニングが一時停止された後のエポックの数です。GPUに休憩を与えたい場合に便利です。"
   },
   "Performance Wizard (WIP)": {
@@ -308,12 +308,12 @@
     "tooltip": "Power factor of the polynomial scheduler."
   },
   "Pretrained VAE Name or Path": {
-    "key": "Pretrained VAE Name or Path",
+    "key": "事前訓練済みのVAE名またはパス",
     "tooltip": "代替VAEを使用するには、VAEを表すpytorch_model.binを含むディレクトリへのパスを指定できます。"
   },
   "Preview Prompts": {
     "key": "プロンプト プレビュー",
-    "tooltip": "Generate a JSON representation of prompt data used for training."
+    "tooltip": "訓練に使用されるプロンプトデータの JSON 表現を生成します。"
   },
   "Prior Loss Weight": {
     "key": "Prior Loss Weight",
@@ -333,7 +333,7 @@
   },
   "Sample Prompt Template File": {
     "key": "サンプルプロンプトテンプレートファイル",
-    "tooltip": "The path to a txt file to use for sample prompts. Use [filewords] or [name] to insert class token in sample prompts"
+    "tooltip": "サンプルプロンプトに使用する txt ファイルへのパス。サンプル プロンプトにクラス トークンを挿入するには、 [filewords] または [name] を使用してください。"
   },
   "Sample Prompt": {
     "key": "サンプルプロンプト:",
@@ -348,11 +348,11 @@
     "tooltip": "分類画像/規則画像を生成する際に使用するステップ数。"
   },
   "Sanity Sample Prompt": {
-    "key": "Sanity Sample Prompt",
+    "key": "正常性確認用サンプルプロンプト",
     "tooltip": "モデルの忠実度を検証するために他のサンプルと一緒に作成される「ベースライン」イメージの生成に使用されるプロンプト。"
   },
   "Sanity Sample Seed": {
-    "key": "Sanity Sample Seed",
+    "key": "正常性確認用サンプルシード値",
     "tooltip": "検証サンプル画像の生成時に使用するシード。-1 はサポートされていません。"
   },
   "Save Checkpoint to Subdirectory": {
@@ -364,31 +364,31 @@
     "tooltip": "N個のエポックごとにチェックポイントを保存する。"
   },
   "Save Model Frequency (Step)": {
-    "key": "Save Model Frequency (Step)",
-    "tooltip": "Save a checkpoint every N epochs. Must be divisible by batch number."
+    "key": "モデルの保存頻度 (ステップ)",
+    "tooltip": "Nエポックごとにチェックポイントを保存します。バッチ数で割り切れる必要があります。"
   },
   "Save Preview(s) Frequency (Epochs)": {
-    "key": "Save Preview(s) Frequency (Epochs)",
+    "key": "プレビュー保存頻度 (エポック)",
     "tooltip": "N エポックごとにプレビュー画像を生成します。"
   },
   "Save Preview(s) Frequency (Step)": {
-    "key": "Save Preview(s) Frequency (Step)",
-    "tooltip": "Generate preview images every N steps. Must be divisible by batch number."
+    "key": "プレビュー保存頻度 (ステップ)",
+    "tooltip": "プレビュー画像をNステップごとに生成します。バッチ数で割り切れる必要があります。"
   },
   "Save Settings": {
     "key": "設定を保存",
-    "tooltip": "Save the current training parameters to the model config file."
+    "tooltip": "現在のトレーニングパラメータをモデルの設定ファイルに保存します。"
   },
   "Save Weights": {
     "key": "重みを保存",
-    "tooltip": "Save weights/checkpoint/snapshot as specified in the saving section for saving 'during' training."
+    "tooltip": "「期間」トレーニングを保存するために保存セクションで指定された重み/チェックポイント/スナップショットを保存します。"
   },
   "Save and Test Webhook": {
     "key": "Webフォークの保存とテスト",
-    "tooltip": "Save the currently entered webhook URL and send a test message to it."
+    "tooltip": "現在入力されているWebhookのURLを保存し、テストメッセージを送信します。"
   },
   "Save separate diffusers snapshots when saving during training.": {
-    "key": "Save separate diffusers snapshots when saving during training.",
+    "key": "トレーニング中に保存するときに別の差分スナップショットを保存します。",
     "tooltip": "When enabled, a unique snapshot of the diffusion weights will be saved at each specified epoch interval. This uses more HDD space (A LOT), but allows resuming from training, including the optimizer state."
   },
   "Save separate diffusers snapshots when training completes.": {
@@ -396,7 +396,7 @@
     "tooltip": "When enabled, a unique snapshot of the diffusion weights will be saved when training completes. This uses more HDD space, but allows resuming from training including the optimizer state."
   },
   "Save separate diffusers snapshots when training is cancelled.": {
-    "key": "Save separate diffusers snapshots when training is cancelled.",
+    "key": "トレーニングのキャンセル時に別の差分スナップショットを保存します。",
     "tooltip": "When enabled, a unique snapshot of the diffusion weights will be saved when training is canceled. This uses more HDD space, but allows resuming from training including the optimizer state."
   },
   "Save EMA Weights to Generated Models": {
@@ -412,7 +412,7 @@
     "tooltip": "使用するモデルスケジューラーです。2.0以前のモデルにのみ適用されます。"
   },
   "Set Gradients to None When Zeroing": {
-    "key": "Set Gradients to None When Zeroing",
+    "key": "Zeroing 時に勾配を None に設定",
     "tooltip": "When performing the backwards pass, gradients will be set to none, instead of creating a new empty tensor. This will slightly improve VRAM."
   },
   "Shuffle After Epoch": {
