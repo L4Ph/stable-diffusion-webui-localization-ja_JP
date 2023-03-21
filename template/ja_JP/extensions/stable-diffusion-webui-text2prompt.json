@@ -15,7 +15,7 @@
   "Method to convert similarity into probability": "類似性を確率に変換する方法",
   "Cutoff and Power": "カットオフとパワー",
   "Softmax": "ソフトマックス",
-  "Power": "Power",
+  "Power": "パワー",
   "NONE": "なし",
   "Top-k": "Top-k",
   "Top-p (Nucleus)": "Top-p (Nucleus)",
