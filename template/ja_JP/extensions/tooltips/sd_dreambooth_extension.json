@@ -253,7 +253,7 @@
   },
   "Max Token Length": {
     "key": "最大トークンの長さ",
-    "tooltip": "Maximum token length to respect. You probably want to leave this at 75."
+    "tooltip": "最大トークン長を指定します。おそらく75のままにしておいたほうがよいでしょう。"
   },
   "Memory Attention": {
     "key": "メモリに注意",
@@ -264,7 +264,7 @@
     "tooltip": "時間の経過とともに減少する最小学習率。"
   },
   "Mixed Precision": {
-    "key": "Mixed Precision",
+    "key": "混合された精度",
     "tooltip": "FP16またはBF16(利用可能な場合) を使用すると、メモリ性能が向上します。\"xformers\"を使用する場合は必須です。"
   },
   "Model Path": {
@@ -281,7 +281,7 @@
   },
   "Number of Hard Resets": {
     "key": "ハードリセット数",
-    "tooltip": "Number of hard resets of the lr in cosine_with_restarts scheduler."
+    "tooltip": "リスタートスケジューラによるコスパの良いLRのハードリセット回数"
   },
   "Number of Samples to Generate": {
     "key": "生成するサンプル数",
@@ -304,8 +304,8 @@
     "tooltip": "VRAMの総量に応じたトレーニングパラメータの自動設定を試みます。まだ開発中です。"
   },
   "Polynomial Power": {
-    "key": "Polynomial Power",
-    "tooltip": "Power factor of the polynomial scheduler."
+    "key": "多項式累乗",
+    "tooltip": "多項スケジューラの力関係"
   },
   "Pretrained VAE Name or Path": {
     "key": "事前訓練済みのVAE名またはパス",
@@ -316,8 +316,8 @@
     "tooltip": "訓練に使用されるプロンプトデータの JSON 表現を生成する。"
   },
   "Prior Loss Weight": {
-    "key": "Prior Loss Weight",
-    "tooltip": "Prior loss weight."
+    "key": "正則化の損失の重み",
+    "tooltip": "前にロスしたウェイト量"
   },
   "Sample CFG Scale": {
     "key": "サンプルCFGスケール",
@@ -428,11 +428,11 @@
     "tooltip": "The source checkpoint to extract for training."
   },
   "Step Ratio of Text Encoder Training": {
-    "key": "Step Ratio of Text Encoder Training",
+    "key": "テキストエンコーダトレーニングのステップ比率",
     "tooltip": "The number of steps per image (Epoch) to train the text encoder for. Set 0.5 for 50% of the epochs"
   },
   "Strict Tokens": {
-    "key": "Strict Tokens",
+    "key": "厳密なトークン",
     "tooltip": "Parses instance prompts separated by the following characters [,;.!?], and prevents breaking up tokens when using the tokenizer. Useful if you have prompts separated by a lot of tags."
   },
   "Total Number of Class/Reg Images": {
@@ -460,7 +460,7 @@
     "tooltip": "Calculate training parameters for a non-human subject based on number of instance images and set larning rate. Disables prior preservation."
   },
   "Training Wizard (Person)": {
-    "key": "Training Wizard (Person)",
+    "key": "トレーニングウィザード (人)",
     "tooltip": "Calculate training parameters for a human subject based on number of instance images and set learning rate. Enables prior preservation."
   },
   "Unfreeze Model": {
@@ -476,7 +476,7 @@
     "tooltip": "Guess what - this will be incredibly slow, but it will work for < 8GB GPUs."
   },
   "Use Concepts List": {
-    "key": "Use Concepts List",
+    "key": "コンセプトリストを使用",
     "tooltip": "JSONファイルや文字列から複数の概念を学習させる。"
   },
   "Use EMA": {
