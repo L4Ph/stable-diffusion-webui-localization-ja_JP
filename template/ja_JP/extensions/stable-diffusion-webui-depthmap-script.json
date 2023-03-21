@@ -25,7 +25,7 @@
   "Generate 4 demo videos with 3D inpainted mesh.": "3Dインペイントメッシュで4つのデモビデオを生成します。",
   "Remove background": "背景を削除",
   "Save the foreground masks": "前面マスクを保存する",
-  "pre-depth background removal": "pre-depth background removal",
+  "pre-depth background removal": "プレデプス背景除去",
   "Rembg Model": "Rembgモデル",
   "Information, comment and share @": "情報、コメント、シェア @",
   "Input Mesh (.ply)": "Input Mesh (.ply)",

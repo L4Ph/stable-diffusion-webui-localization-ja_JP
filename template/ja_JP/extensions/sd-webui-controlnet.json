@@ -54,7 +54,7 @@
   "Apply transfer control when loading models": "モデルを読み込む際、Control の転送を適用する",
   "Do not append detectmap to output": "検出されたマップを出力に追加しない",
   "Allow detectmap auto saving": "検出されたマップの自動保存を許可",
-  "Use mid-control on highres pass (second pass)": "Use mid-control on highres pass (second pass)",
+  "Use mid-control on highres pass (second pass)": "高解像度パス（2番目のパス）に中間制御を使用する",
   "Allow other script to control this extension": "他のスクリプトにこの拡張機能の操作を許可する",
   "Skip img2img processing when using img2img initial image": "img2img の初期画像を使用時、img2img 処理をスキップする",
   "Enable optimized monocular depth estimation": "最適化された単眼深度推定を有効にする",
