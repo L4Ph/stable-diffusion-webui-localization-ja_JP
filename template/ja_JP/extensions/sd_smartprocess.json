@@ -6,7 +6,7 @@
   "Cropping": "クロッピング",
   "Output Size": "出力サイズ",
   "Pad Images": "Pad Images",
-  "Crop Images": "Crop Images",
+  "Crop Images": "画像のクロップ",
   "Captions": "キャプション",
   "Generate Captions": "キャプションを生成する",
   "Max Caption Length (0=unlimited)": "キャプションの最大長(0=無制限)",

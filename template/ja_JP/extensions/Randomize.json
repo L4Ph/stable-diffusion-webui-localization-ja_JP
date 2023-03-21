@@ -2,13 +2,13 @@
     "Randomize": "ランダムに生成",
     "Enable": "有効化",
     "Highres. percentage chance": "Highres. percentage chance",
-    "Highres. Denoising Strength": "Highres. Denoising Strength",
-    "Highres. Width": "Highres. Width",
-    "Highres. Height": "Highres. Height",
+    "Highres. Denoising Strength": "ハイレゾのノイズ除去の強度",
+    "Highres. Width": "高解像度補助",
+    "Highres. Height": "ハイレゾの高さ",
     "Stop at CLIP layers": "Stop at CLIP layers",
     "stable-diffusion-webui-randomize": "stable-diffusion-webui-randomize",
     "Comma separated list OR * for all": "Comma separated list OR * for all",
     "Range of stepped values (min, max, step)": "Range of stepped values (min, max, step)",
-    "Float value from 0 to 1": "Float value from 0 to 1",
-    "Loads weights from checkpoint before making images. You can either use hash or a part of filename (as seen in settings) for checkpoint name. Recommended to use with Y axis for less switching.": "Loads weights from checkpoint before making images. You can either use hash or a part of filename (as seen in settings) for checkpoint name. Recommended to use with Y axis for less switching."
+    "Float value from 0 to 1": "0 から 1 までの浮動小数点数の値",
+    "Loads weights from checkpoint before making images. You can either use hash or a part of filename (as seen in settings) for checkpoint name. Recommended to use with Y axis for less switching.": "画像を生成する前に、チェックポイントからweights重みを読み込みます。チェックポイント名には、ハッシュまたはファイル名の一部を使用できます(設定で表示)。切り替えを少なくするには、Y軸での利用を推奨します。"
 }

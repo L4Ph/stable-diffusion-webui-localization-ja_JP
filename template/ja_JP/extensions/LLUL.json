@@ -1,7 +1,7 @@
 {
   "LLuL": "LLuL",
   "Enabled": "有効",
-  "Multiplication (2^N)": "Multiplication (2^N)",
+  "Multiplication (2^N)": "倍率(2^N)",
   "Weight": "重み",
   "Force convert half to float on interpolation (for some platforms)": "Force convert half to float on interpolation (for some platforms)",
   "I know what I am doing.": "上級者向けオプション",

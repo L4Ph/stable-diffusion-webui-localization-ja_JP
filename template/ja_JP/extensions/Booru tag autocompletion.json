@@ -18,7 +18,7 @@
   "Search for wildcards": "ワイルドカードを検索",
   "Search for embeddings": "Embeddings を検索",
   "Search for hypernetworks": "ハイパーネットワークを検索",
-  "Search for Loras": "Lorasを検索",
+  "Search for Loras": "LoRAsを検索",
   "Show '?' next to tags, linking to its Danbooru or e621 wiki page (Warning: This is an external site and very likely contains NSFW examples!)": "タグの横に「?」 を表示し、Danbooru または e621 の wiki ページにリンクする (注意: これは外部のサイトであり、非常に NSFW が含まれる可能性が高いです)",
   "Replace underscores with spaces on insertion": "挿入時にアンダースコアを空白と置き換える",
   "Escape parentheses on insertion": "挿入時に括弧をエスケープする",
