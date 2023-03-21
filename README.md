@@ -22,6 +22,30 @@ Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんが�
 <a href=https://github.com/journey-ad/sd-webui-bilingual-localization><img src="https://github.com/journey-ad.png" alt="journey-ad" style="display: inline-block; width: 100px; height: 100px;">
 <a href=https://sp8999.com/stable-diffusion/2023/03/20/870/><img src="https://pbs.twimg.com/profile_images/1611351286477377538/86YeQooS.jpg" alt="sp8999" style="display: inline-block; width: 100px; height: 100px;">
 
+## ディレクトリ構造 
+```
+📦template
+ ┣📂localizations
+ ┃ ┗ 📜ja_JP.json
+ ┣ 📂source
+ ┃ ┣ 📂extensions
+ ┃ ┃ ┣ 📂tooltips
+ ┃ ┃ ┃ ┗ 📜tooltip.json
+ ┃ ┃ ┗ 📜extension.json
+ ┃ ┣ 📜ExtensionList.json
+ ┃ ┗ 📜StableDiffusion.json
+ ┗ 📂ja_JP
+   ┣ 📂extensions
+   ┃ ┣ 📂tooltips
+   ┃ ┃ ┗ 📜tooltip.json
+   ┃ ┗ 📜extension.json
+   ┣ 📜ExtensionList.json
+   ┗ 📜StableDiffusion.json
+```
+ - `/localizations/ja_JP.json` - 実際にWebUIで使用される言語ファイル `merge.yaml`を手動実行し、マージする  
+ - `/template/source/`以下 - `update_source.yaml`で[翻訳ソース](https://github.com/harukaxxxx/stable-diffusion-webui-localization-source)から取得してきたファイル こちらには基本変更を加えません  
+ - `/template/ja_JP/`以下 - Crowdinなどで翻訳後に出力されるファイル **もし直接翻訳のPRを出す場合はこちらになります**
+
 ## ローカライズの進捗
 
 <details>
