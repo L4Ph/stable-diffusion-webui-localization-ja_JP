@@ -51,7 +51,7 @@
 "./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "ロードあたりの最小ページ数".
 
 "Bilingual Localization"
-"./template/ja_JP/extensions/sd-webui-bilingual-localization.json" - "Bilingual Localization".
+"./template/ja_JP/extensions/sd-webui-bilingual-localization.json" - "二言語表示".
 
 "LLuL"
 "./template/ja_JP/extensions/sd-webui-llul.json" - "LLuL".
