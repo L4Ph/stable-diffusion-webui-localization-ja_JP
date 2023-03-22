@@ -117,6 +117,9 @@ Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんが�
 - [x] ![multidiffusion-upscaler-for-automatic1111 translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [multidiffusion-upscaler-for-automatic1111](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 - [x] ![stable-diffusion-webui-rembg translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)
 - [x] ![shift-attention translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [shift-attention](https://github.com/yownas/shift-attention)
+- [ ] ![sd-webui-aspect-ratio-helper translated 4%](https://geps.dev/progress/4?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [sd-webui-aspect-ratio-helper](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper)
+- [ ] ![stable-diffusion-webui-state translated 13%](https://geps.dev/progress/13?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-state](https://github.com/ilian6806/stable-diffusion-webui-state)
+- [ ] ![stable-diffusion-webui-wd14-tagger translated 32%](https://geps.dev/progress/32?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-wd14-tagger]()
 </details>
 
 # Getting Started
