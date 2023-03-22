@@ -119,7 +119,7 @@ Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんが�
 - [x] ![shift-attention translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [shift-attention](https://github.com/yownas/shift-attention)
 - [x] ![sd-webui-aspect-ratio-helper translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [sd-webui-aspect-ratio-helper](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper)
 - [x] ![stable-diffusion-webui-state translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-state](https://github.com/ilian6806/stable-diffusion-webui-state)
-- [ ] ![stable-diffusion-webui-wd14-tagger translated 93%](https://geps.dev/progress/93?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-wd14-tagger]()
+- [x] ![stable-diffusion-webui-wd14-tagger translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-wd14-tagger]()
 </details>
 
 # Getting Started
