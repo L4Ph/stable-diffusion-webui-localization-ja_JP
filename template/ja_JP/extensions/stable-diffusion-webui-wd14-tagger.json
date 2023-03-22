@@ -47,7 +47,7 @@
     "Escape brackets": "括弧をエスケープする",
     "Unload model after running": "実行後にモデルをアンロードする",
     "Tags": "タグ",
-    "Rating confidents": "信頼度",
+    "Rating confidents": "レーティングの信頼度",
     "Tag confidents": "タグの信頼度",
     "stable-diffusion-webui-wd14-tagger": "stable-diffusion-webui-wd14-tagger",
     "https://github.com/toriato/stable-diffusion-webui-wd14-tagger.git": "https://github.com/toriato/stable-diffusion-webui-wd14-tagger.git",
