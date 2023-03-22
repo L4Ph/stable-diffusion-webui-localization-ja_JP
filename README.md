@@ -1,5 +1,4 @@
 # SD web UI 日本語化プロジェクト
-[![Crowdin](https://badges.crowdin.net/stable-diffusion-webui-localization-ja_JP/localized.svg)](https://crowdin.com/project/stable-diffusion-webui-localization-ja_JP)
 
 ## これはなに
 日本語訳用の言語ファイルです。 [AUTOMATIC1111版Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
@@ -17,12 +16,6 @@
 分からないことがあれば[Disscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)へどうぞ!  
 Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんがまとめてくださいました! ありがとうございます!
 [コチラ](https://sp8999.com/stable-diffusion/2023/03/20/870/)からどうぞ!
-
-## Special Thanks!✨
-<a href=https://github.com/yuuki76/webui-localization-ja_JP><img src="https://github.com/yuuki76.png" alt="yuuki76" style="display: inline-block; width: 100px; height: 100px;">
-<a href=https://github.com/harukaxxxx/stable-diffusion-webui-localization-source><img src="https://github.com/harukaxxxx.png" alt="harukaxxxx" style="display: inline-block; width: 100px; height: 100px;">
-<a href=https://github.com/journey-ad/sd-webui-bilingual-localization><img src="https://github.com/journey-ad.png" alt="journey-ad" style="display: inline-block; width: 100px; height: 100px;">
-<a href=https://sp8999.com/stable-diffusion/2023/03/20/870/><img src="https://pbs.twimg.com/profile_images/1611351286477377538/86YeQooS.jpg" alt="sp8999" style="display: inline-block; width: 100px; height: 100px;">
 
 ## ディレクトリ構造 
 ```
@@ -188,3 +181,9 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ![](https://user-images.githubusercontent.com/60730393/202901412-26765c04-e69c-4beb-a56b-9e310ed273ca.png)
 2. ページ下部のオレンジ色のボタン(<kbd>Restart Gradio and Refresh components</kbd>)をクリックして、web UIを再起動します。
 ![](https://user-images.githubusercontent.com/60730393/202901401-de7d34e9-67c6-4f39-8f5f-b0c0c7a58b54.png)
+
+## Special Thanks!✨
+<a href=https://github.com/yuuki76/webui-localization-ja_JP><img src="https://github.com/yuuki76.png" alt="yuuki76" style="display: inline-block; width: 100px; height: 100px;">
+<a href=https://github.com/harukaxxxx/stable-diffusion-webui-localization-source><img src="https://github.com/harukaxxxx.png" alt="harukaxxxx" style="display: inline-block; width: 100px; height: 100px;">
+<a href=https://github.com/journey-ad/sd-webui-bilingual-localization><img src="https://github.com/journey-ad.png" alt="journey-ad" style="display: inline-block; width: 100px; height: 100px;">
+<a href=https://sp8999.com/stable-diffusion/2023/03/20/870/><img src="https://pbs.twimg.com/profile_images/1611351286477377538/86YeQooS.jpg" alt="sp8999" style="display: inline-block; width: 100px; height: 100px;">
