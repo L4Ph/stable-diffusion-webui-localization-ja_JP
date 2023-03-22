@@ -2,7 +2,7 @@
     "Tagger": "Tagger",
     "Single process": "単一処理",
     "Batch from directory": "ディレクトリから一括処理",
-    "Use recursive with glob pattern": "Use recursive with glob pattern",
+    "Use recursive with glob pattern": "Globパターンで再帰的に使用する",
     "Output filename format": "出力ファイルフォーマット",
     "Output filename formats": "出力ファイルフォーマット",
     "Related to original file": "Related to original file",
