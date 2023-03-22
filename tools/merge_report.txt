@@ -83,6 +83,7 @@
 
 "seed"
 "./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "シード値".
+"./template/ja_JP/extensions/stable-diffusion-webui-state.json" - "シード値".
 
 "Dynamic Prompts"
 "./template/ja_JP/extensions/sd-dynamic-prompts.json" - "Dynamic Prompts".
@@ -98,6 +99,9 @@
 "Description"
 "./template/ja_JP/extensions/sd-webui-additional-networks.json" - "説明".
 
+"Tags"
+"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "タグ".
+
 "Generate Info"
 "./template/ja_JP/extensions/sd-webui-additional-networks.json" - "生成時の情報".
 
@@ -106,6 +110,9 @@
 
 "path name"
 "./template/ja_JP/extensions/sd-webui-additional-networks.json" - "パス名".
+
+"Aspect Ratio Helper"
+"./template/ja_JP/extensions/sd-webui-aspect-ratio-helper.json" - "アスペクト比補助".
 
 "Deforum"
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "拡張機能「Deforum」".
@@ -119,6 +126,9 @@
 
 "The"
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "The".
+
+"Preset"
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "プリセット".
 
 "/"
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "/".
@@ -189,8 +199,17 @@
 "NONE"
 "./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "なし".
 
+"Interrogator"
+"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "インタロゲーター".
+
+"Interrogate"
+"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "インタロゲート".
+
 "Target"
 "./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "対象".
+
+"Reconstruct prompt from existing image and put it into the prompt field."
+"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "既存の画像からプロンプトを再構築し、プロンプトフィールドに入力します。".
 
 "ControlNet"
 "./template/ja_JP/extensions/sd-webui-controlnet.json" - "ControlNet".
@@ -206,6 +225,18 @@
 
 "sd-webui-controlnet"
 "./template/ja_JP/extensions/sd-webui-controlnet.json" - "sd-webui-controlnet".
+
+"width"
+"./template/ja_JP/extensions/stable-diffusion-webui-state.json" - "幅".
+
+"height"
+"./template/ja_JP/extensions/stable-diffusion-webui-state.json" - "高さ".
+
+"cfg_scale"
+"./template/ja_JP/extensions/stable-diffusion-webui-state.json" - "cfgスケール".
+
+"stable-diffusion-webui-state"
+"./template/ja_JP/extensions/stable-diffusion-webui-state.json" - "stable-diffusion-webui-state".
 
 "Booru tag autocompletion"
 "./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Booruタグの自動補完".
