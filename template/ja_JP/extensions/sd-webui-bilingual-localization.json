@@ -1,8 +1,8 @@
 {
   "Bilingual Localization": "Bilingual Localization",
-  "Enable Bilingual Localization": "バイリンガルを有効にする",
+  "Enable Bilingual Localization": "二言語表示機能を有効にする",
   "Localization file (Please leave `User interface` - `Localization` as None)": "言語ファイル(`User Interface` - `Localization` をNoneに変更してください)",
-  "Translation display order": "表示順",
+  "Translation display order": "翻訳表示順序",
   "Translation First": "ローカライズを優先",
   "Original First": "オリジナルを優先",
   "Localization dirs": "言語ファイルのディレクトリ",
