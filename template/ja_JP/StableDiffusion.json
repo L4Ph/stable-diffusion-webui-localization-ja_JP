@@ -4,7 +4,7 @@
   "Built with Gradio": "Gradioでビルドされました。",
   "Stable Diffusion checkpoint": "Stable Diffusionのcheckpoint",
   "txt2img": "テキストから画像に",
-  "img2img": "画像から画像に",
+  "img2img": "img2img",
   "Extras": "その他",
   "PNG Info": "PNG内の情報を表示",
   "Checkpoint Merger": "checkpointのマージ",
