@@ -23,6 +23,9 @@ jobs:
       - name: execute Merger.py
         run: python './tools/Merger.py'
 
+      - name: execute Merger-ks_JP.py
+        run: python './tools/Merger-ks_JP.py'
+
       - name: commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"

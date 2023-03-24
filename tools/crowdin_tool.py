@@ -69,7 +69,7 @@ with open('./README.md', 'r', encoding='utf-8') as file:
 
 # extract contents without progress section
 start_index = readme_content.find('## ローカライズの進捗')
-end_index = readme_content.find('# Getting Started')
+end_index = readme_content.find('## Special Thanks!✨')
 top_content = readme_content[0:start_index]
 bottom_content = readme_content[end_index:len(readme_content)]
 
