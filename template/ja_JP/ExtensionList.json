@@ -205,7 +205,7 @@
   "Seamless Image Fusion, along with vram efficient tiled vae script.": "シームレスな画像融合、Vram効率の良いタイル状のVAEスクリプトと共に",
   "3D Model Loader": "3Dモデルローダー",
   "Load your 3D model/animation inside webui, then send screenshot to txt2img or img2img to ControlNet.": "Webui内で3Dモデル/アニメーションを読み込み、スクリーンショットをtxt2imgまたはimg2imgにControlNetに送信します。",
-  "Corridor Crawler Outpainting": "コリドークローラー アウトペインティング",
+  "Corridor Crawler Outpainting": "Corridor Crawler Outpainting",
   "Generate hallways with the depth-to-image model at 512 resolution. It can be tweaked to work with other models/resolutions.": "解像度512の深度画像モデルで廊下を生成します。他のモデル/解像度で動作するように調整することができます。",
   "Panorama Viewer": "パノラマビューアー",
   "Provides a tab to display equirectangular images in interactive 3d-view.": "エクイレクタングラー形式の画像をインタラクティブな3dビューで表示するタブを提供します。",
