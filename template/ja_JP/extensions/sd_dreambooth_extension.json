@@ -224,13 +224,13 @@
   "Leave blank to use instance prompt. Optionally use [filewords] to base sample captions on instance images.": "インスタンスプロンプトを使用する場合は空白のままにしてください。必要に応じて、[filewords] を使用してインスタンス画像を基にしたサンプルキャプションを使用できます。",
   "Enter the path to a txt file containing sample prompts.": "サンプルプロンプトが含まれるtxtファイルへのパスを入力してください。",
   "Enter a model name for saving checkpoints and lora models.": "チェックポイントとloraモデルを保存するためのモデル名を入力してください。",
-  "Training Prompts": "Training Prompts",
-  "Sample Prompts": "Sample Prompts",
-  "Class Image Generation": "Class Image Generation",
-  "Sample Image Generation": "Sample Image Generation",
-  "Class Generation Schedulers": "Class Generation Schedulers",
-  "Image Generation Library": "Image Generation Library",
-  "Image Generation Scheduler": "Image Generation Scheduler",
-  "Experimental Settings": "Experimental Settings",
-  "Use EMA for prediction": "Use EMA for prediction"
+  "Training Prompts": "トレーニングに使用したプロンプト",
+  "Sample Prompts": "サンプルプロンプト",
+  "Class Image Generation": "クラス画像の生成",
+  "Sample Image Generation": "サンプル画像の生成",
+  "Class Generation Schedulers": "クラス生成スケジューラー",
+  "Image Generation Library": "画像生成ライブラリ",
+  "Image Generation Scheduler": "画像生成スケジューラー",
+  "Experimental Settings": "実験的な設定",
+  "Use EMA for prediction": "予測にEMAを使用する"
 }
