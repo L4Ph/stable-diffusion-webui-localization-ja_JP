@@ -62,7 +62,7 @@
   "Bilingual Localization": "バイリンガル翻訳",
   "Bilingual translation, no need to worry about how to find the original button. Compatible with language pack extensions, no need to re-import.": "バイリンガル翻訳, 元のボタンを見つける方法を心配する必要はありません. 言語パックの拡張機能と互換性, 再インポートする必要はありません.",
   "Dynamic Prompts": "Dynamic Prompts",
-  "Implements an expressive template language for random or combinatorial prompt generation along with features to support deep wildcard directory structures.": "ランダムまたは組み合わせによるプロンプト生成のための表現力豊かなテンプレート言語と、深いワイルドカードのディレクトリ構造をサポートする機能を実装しています。",
+  "Implements an expressive template language for random or combinatorial prompt generation along with features to support deep wildcard directory structures.": "表現力豊かなテンプレート言語を使って、ランダムまたは組み合わせ式のプロンプト生成を実現し、複雑なワイルドカードのディレクトリ構造にも対応できる機能を実装しています。",
   "Unprompted": "Unprompted",
   "Allows you to include various shortcodes in your prompts. You can pull text from files, set up your own variables, process text through conditional functions, and so much more - it's like wildcards on steroids. It now includes integrations like hard-prompts made easy, ControlNet, txt2img2img and txt2mask.": "さまざまなショートコードをプロンプトに含めることができます。 ファイルからテキストを取り出して、独自の変数を設定したり、条件付き関数を通じてテキストを処理したり、またそれ以上のことができます。いわば強化されたワイルドカードのようなものです。これは、hard-prompts made eary、ControlNet、txt2img2imgやtxt2maskの統合機能が含まれています。",
   "StylePile": "スタイルパイル",
