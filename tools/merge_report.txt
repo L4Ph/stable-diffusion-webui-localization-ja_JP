@@ -1,5 +1,8 @@
 重複したkeyがあります: 
 
+"Fusion"
+"./template/ja_JP/ExtensionList.json" - "フュージョン".
+
 "DreamArtist"
 "./template/ja_JP/extensions/DreamArtist-sd-webui-extension.json" - "「DreamArtist」機能".
 
@@ -88,6 +91,12 @@
 "Dynamic Prompts"
 "./template/ja_JP/extensions/sd-dynamic-prompts.json" - "Dynamic Prompts".
 
+"tab"
+"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "タブ".
+
+"Action"
+"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "実行".
+
 "OpenPose Editor"
 "./template/ja_JP/extensions/openpose-editor.json" - "OpenPoseエディタ".
 
@@ -124,6 +133,9 @@
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "出力".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "出力".
 
+"Override settings"
+"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "設定を上書き".
+
 "The"
 "./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "The".
 
@@ -159,6 +171,10 @@
 
 "Prompts"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "プロンプト".
+
+"Checkpoints"
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "チェックポイント".
+"./template/ja_JP/extensions/sd-model-preview-xd.json" - "チェックポイント".
 
 "Checkbox"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "チェックボックス".
@@ -249,9 +265,6 @@
 
 "Video"
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "動画".
-
-"Checkpoints"
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "チェックポイント".
 
 "Save results as video"
 "./template/ja_JP/extensions/seed_travel.json" - "結果を動画として保存".
