@@ -4,7 +4,7 @@ import glob
 import shutil
 from collections import defaultdict
 
-json_folder = './template/ja_JP'
+json_folder = './template/ks_JP'
 extensions_folder = './template/ks_JP/extensions'
 merged_file = './localizations/ks_JP.json'
 report_file = './tools/merge_report-ks_JP.txt'
