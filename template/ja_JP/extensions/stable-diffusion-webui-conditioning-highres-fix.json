@@ -1,6 +1,6 @@
 {
   "Conditioning Highres": "コンディショニングHighres.fix",
-  "Conditioning Highres.fix strength (for sd-v1-5-inpainting)": "コンディショニングHighres.fix強度(sd-v1-5インペイント用)",
+  "Conditioning Highres.fix strength (for sd-v1-5-inpainting)": "コンディショニングHighres.fix強度(sd-v1-5 inpaint用)",
   "Cond.fix: Disabled (none)": "Cond.fix: 無効 (無し)",
   "Cond.fix: Empty": "Cond.fix: なし",
   "Cond.fix: Lowest": "Cond.fix: 最低値",

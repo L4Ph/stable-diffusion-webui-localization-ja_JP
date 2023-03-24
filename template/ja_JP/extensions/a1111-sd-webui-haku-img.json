@@ -105,7 +105,7 @@
   "fill right": "右に拡張",
   "Resolution": "解像度",
   "haku_output": "プレビュー",
-  "Send to inpaint upload": "インペイントアップロードに転送",
+  "Send to inpaint upload": "Inpaint uploadに転送",
   "Total num of layers (reload required)": "レイヤーの数(反映にはUIの再起動が必要)",
   "Total num of point for curve (reload required)": "トーンカーブのポイント数(反映には再起動が必要)",
   "a1111-sd-webui-haku-img": "a1111-sd-webui-haku-img",
