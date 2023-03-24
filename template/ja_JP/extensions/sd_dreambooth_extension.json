@@ -36,7 +36,7 @@
   "Use LORA": "LORAを使う",
   "Use Lora Extended": "LoRA 拡張を使用",
   "Train Imagic Only": "画像のみでトレーニング",
-  "Train Inpainting Model": "インペイント用モデルの学習",
+  "Train Inpainting Model": "inpaint用モデルの学習",
   "Generate Classification Images Using txt2img": "txt2imgを使用して分類画像を生成する。",
   "Intervals": "間隔",
   "Training Steps Per Image (Epochs)": "1つの画像あたりのトレーニングステップ数（エポック数）",
