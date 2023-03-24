@@ -448,7 +448,7 @@
     "tooltip": "Enabling this will provide better results and editability, but cost more VRAM."
   },
   "Train": {
-    "key": "Train",
+    "key": "学習",
     "tooltip": "Start training."
   },
   "Training Steps Per Image (Epochs)": {
