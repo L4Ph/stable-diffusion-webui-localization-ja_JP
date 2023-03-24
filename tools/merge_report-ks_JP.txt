@@ -1,7 +1,7 @@
 重複したkeyがあります: 
 
 "Fusion"
-"./template/ja_JP/ExtensionList.json" - "フュージョン".
+"./template/ks_JP/ExtensionList.json" - "Fusion".
 
 "DreamArtist"
 "./template/ks_JP/extensions/DreamArtist-sd-webui-extension.json" - "DreamArtist".
