@@ -191,7 +191,7 @@
   "img2img alternative test": "img2img alternative test（元画像の維持度を調整）",
   "Loopback": "ループバック",
   "Outpainting mk2": "Outpainting mk2",
-  "Poor man's outpainting": "簡易アウトペインティング",
+  "Poor man's outpainting": "簡易的なoutpaint",
   "SD upscale": "SDアップスケール",
   "should be 2 or lower.": "2以下にすること",
   "Override `Sampling method` to Euler?(this method is built for it)": "サンプリングアルゴリズムをEulerに上書き(そうすることを前提に設計されています)",
