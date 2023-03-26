@@ -1,0 +1,10 @@
+{
+  "VRAM Estimator": "crwdns43321:0crwdne43321:0",
+  "Plot": "crwdns43323:0crwdne43323:0",
+  "Max Image Size": "crwdns43325:0crwdne43325:0",
+  "Max Batch Count": "crwdns43327:0crwdne43327:0",
+  "Run benchmark": "crwdns43329:0crwdne43329:0",
+  "Load results": "crwdns43331:0crwdne43331:0",
+  "a1111-stable-diffusion-webui-vram-estimator": "crwdns43333:0crwdne43333:0",
+  "https://github.com/space-nuko/a1111-stable-diffusion-webui-vram-estimator.git": "crwdns43335:0crwdne43335:0"
+}
