@@ -1,0 +1,16 @@
+{
+  "OpenPose Editor": "crwdns44491:0crwdne44491:0",
+  "width": "crwdns44493:0crwdne44493:0",
+  "height": "crwdns44495:0crwdne44495:0",
+  "Add": "crwdns44497:0crwdne44497:0",
+  "Reset": "crwdns44499:0crwdne44499:0",
+  "Load from JSON": "crwdns44501:0crwdne44501:0",
+  "Detect from image": "crwdns44503:0crwdne44503:0",
+  "Add Background image": "crwdns44505:0crwdne44505:0",
+  "json": "crwdns44507:0crwdne44507:0",
+  "Save JSON": "crwdns44509:0crwdne44509:0",
+  "Save PNG": "crwdns44511:0crwdne44511:0",
+  "Send to": "crwdns44513:0crwdne44513:0",
+  "openpose-editor": "crwdns44515:0crwdne44515:0",
+  "https://github.com/fkunn1326/openpose-editor.git": "crwdns44517:0crwdne44517:0"
+}
