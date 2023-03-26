@@ -1,0 +1,15 @@
+{
+  "Embedding Editor": "crwdns46661:0crwdne46661:0",
+  "Vector": "crwdns46663:0crwdne46663:0",
+  "Refresh Embeddings": "crwdns46665:0crwdne46665:0",
+  "Save Embedding": "crwdns46667:0crwdne46667:0",
+  "Enter words and color hexes to mark weights on the sliders for guidance. Hint: Use the txt2img prompt token counter or": "crwdns46669:0crwdne46669:0",
+  "webui-tokenizer": "crwdns46671:0crwdne46671:0",
+  "to see which words are constructed using multiple sub-words, e.g. 'computer' doesn't exist in stable diffusion's CLIP dictionary and instead 'compu' and 'ter' are used (1 word but 2 embedding vectors). Currently buggy and needs a moment to process before pressing the button. If it doesn't work after a moment, try adding a random space to refresh it.": "crwdns46673:0crwdne46673:0",
+  "Sampling Steps": "crwdns46675:0crwdne46675:0",
+  "Generate Preview": "crwdns46677:0crwdne46677:0",
+  "stable-diffusion-webui-embedding-editor": "crwdns46679:0crwdne46679:0",
+  "https://github.com/CodeExplode/stable-diffusion-webui-embedding-editor.git": "crwdns46681:0crwdne46681:0",
+  "symbol:color-hex, symbol:color-hex, ...": "crwdns46683:0crwdne46683:0",
+  "e.g. A portrait photo of embedding_name": "crwdns46685:0crwdne46685:0"
+}
