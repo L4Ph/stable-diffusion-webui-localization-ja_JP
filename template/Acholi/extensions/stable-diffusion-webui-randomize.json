@@ -1,0 +1,15 @@
+{
+  "Randomize": "crwdns46971:0crwdne46971:0",
+  "Enable": "crwdns46973:0crwdne46973:0",
+  "Highres. percentage chance": "crwdns46975:0crwdne46975:0",
+  "Highres. Denoising Strength": "crwdns46977:0crwdne46977:0",
+  "Highres. Width": "crwdns46979:0crwdne46979:0",
+  "Highres. Height": "crwdns46981:0crwdne46981:0",
+  "Stop at CLIP layers": "crwdns46983:0crwdne46983:0",
+  "stable-diffusion-webui-randomize": "crwdns46985:0crwdne46985:0",
+  "https://github.com/innightwolfsleep/stable-diffusion-webui-randomize.git": "crwdns46987:0crwdne46987:0",
+  "Comma separated list OR * for all": "crwdns46989:0crwdne46989:0",
+  "Range of stepped values (min, max, step)": "crwdns46991:0crwdne46991:0",
+  "Float value from 0 to 1": "crwdns46993:0crwdne46993:0",
+  "Loads weights from checkpoint before making images. You can either use hash or a part of filename (as seen in settings) for checkpoint name. Recommended to use with Y axis for less switching.": "crwdns46995:0crwdne46995:0"
+}
