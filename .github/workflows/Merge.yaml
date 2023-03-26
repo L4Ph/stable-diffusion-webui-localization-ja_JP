@@ -1,4 +1,4 @@
-name: Merge Translates
+name: Merge i18n/l10n & Update README📃
 
 on:
   workflow_dispatch:
@@ -38,7 +38,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Merge Translation & Update README📃" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Merge i18n/l10n & Update README📃" --allow-empty)
 
       - name: push changes
         uses: ad-m/github-push-action@master
