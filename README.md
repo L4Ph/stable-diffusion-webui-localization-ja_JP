@@ -11,7 +11,7 @@
 ![Snipaste_2023-02-28_00-23-45](https://user-images.githubusercontent.com/16256221/221622328-a4e46b1c-f202-4a41-9a56-3df96c823f42.png)
 
 ## 翻訳がおかしい/翻訳を手伝う📘
-### [Crowdin](https://crwd.in/stable-diffusion-webui-localization-ja_JP)から翻訳ができます!
+### [Crowdin](https://crowdin.com/project/stable-diffusion-webui-localization-ja_JP/invite?h=cb87e52376d1e1f2ba920b1a8bcccebe1650449)から翻訳ができます!
 気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues)を投げましょう!  
 分からないことがあれば[Disscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)へどうぞ!  
 Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんがまとめてくださいました! ありがとうございます!
