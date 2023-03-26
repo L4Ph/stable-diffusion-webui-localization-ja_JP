@@ -5,17 +5,18 @@
 
 ## 2ヶ国語同時表示対応について
 以下のように2ヶ国語同時表示を可能にする[Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)拡張機能との併用を推奨します。    
-**現在はバイリンガル対応の拡張機能を標準で組み込んでおり、有効化すればすぐに使えます!**  
+**バイリンガル対応の拡張機能を標準で組み込んでおり、有効化すればすぐに使えます!**  
 詳しくは[Bilingual-Localizationの利用方法](#Bilingual-Localizationの利用方法)をご覧ください
-
 ![Snipaste_2023-02-28_00-23-45](https://user-images.githubusercontent.com/16256221/221622328-a4e46b1c-f202-4a41-9a56-3df96c823f42.png)
 
 ## 翻訳がおかしい/翻訳を手伝う📘
-### [Crowdin](https://crowdin.com/project/stable-diffusion-webui-localization-ja_JP/invite?h=cb87e52376d1e1f2ba920b1a8bcccebe1650449)から翻訳ができます!
-気軽に[issue](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/issues)を投げましょう!  
-分からないことがあれば[Disscussions](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/discussions)へどうぞ!  
-Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんがまとめてくださいました! ありがとうございます!
-[コチラ](https://sp8999.com/stable-diffusion/2023/03/20/870/)からどうぞ!
+### [Crowdin](https://crowdin.com/project/stable-diffusion-webui-localization-ja_JP/invite?h=cb87e52376d1e1f2ba920b1a8bcccebe1650449)から翻訳ができます!  
+Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんがまとめてくださいました!  
+[コチラの記事](https://sp8999.com/stable-diffusion/2023/03/20/870/)からどうぞ!
+
+翻訳のソースは[stable-diffusion-webui-localization-source](https://github.com/harukaxxxx/stable-diffusion-webui-localization-source)からお借りしています  
+
+また、ご自身で翻訳を始めたいという方へ向けて[テンプレート](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-template)を公開しています!
 
 # Getting Started
 ## インストール
