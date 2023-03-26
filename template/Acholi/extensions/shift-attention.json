@@ -1,0 +1,10 @@
+{
+  "Shift attention": "crwdns48923:0crwdne48923:0",
+  "Show generated images in ui": "crwdns48925:0crwdne48925:0",
+  "Save results as video": "crwdns48927:0crwdne48927:0",
+  "Frames per second": "crwdns48929:0crwdne48929:0",
+  "Number of frames for lead in/out": "crwdns48931:0crwdne48931:0",
+  "Upscale ratio": "crwdns48933:0crwdne48933:0",
+  "shift-attention": "crwdns48935:0crwdne48935:0",
+  "https://github.com/yownas/shift-attention.git": "crwdns48937:0crwdne48937:0"
+}
