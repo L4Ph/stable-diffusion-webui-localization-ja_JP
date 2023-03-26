@@ -1,0 +1,11 @@
+{
+  "Bilingual Localization": "crwdns45093:0crwdne45093:0",
+  "Enable Bilingual Localization": "crwdns45095:0crwdne45095:0",
+  "Localization file (Please leave `User interface` - `Localization` as None)": "crwdns45097:0crwdne45097:0",
+  "Translation display order": "crwdns45099:0crwdne45099:0",
+  "Translation First": "crwdns45101:0crwdne45101:0",
+  "Original First": "crwdns45103:0crwdne45103:0",
+  "Localization dirs": "crwdns45105:0crwdne45105:0",
+  "sd-webui-bilingual-localization": "crwdns45107:0crwdne45107:0",
+  "https://github.com/journey-ad/sd-webui-bilingual-localization.git": "crwdns45109:0crwdne45109:0"
+}
