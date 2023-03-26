@@ -18,20 +18,27 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10.6"
-
+          python-version: "3.10"
+          cache: 'pip' # caching pip dependencies
+      - run: pip install -r './tools/requirements.txt'
+      
       - name: execute Merger.py
         run: python './tools/Merger.py'
 
       - name: execute Merger-ks_JP.py
         run: python './tools/Merger-ks_JP.py'
 
+      - name: run crowdin tool.py
+        env:
+          crowdin_api_token : ${{ secrets.CROWDIN_PROGRESS_CHECKER_API_KEY }}
+        run: python './tools/crowdin_tool.py'
+
       - name: commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Merge ja_JP.json" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Merge Translation & Update README📃" --allow-empty)
 
       - name: push changes
         uses: ad-m/github-push-action@master
