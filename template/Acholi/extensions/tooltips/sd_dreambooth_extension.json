@@ -1,0 +1,506 @@
+{
+  "API Key": {
+    "key": "crwdns47599:0crwdne47599:0",
+    "tooltip": "crwdns47601:0crwdne47601:0"
+  },
+  "AdamW Weight Decay": {
+    "key": "crwdns47603:0crwdne47603:0",
+    "tooltip": "crwdns47605:0crwdne47605:0"
+  },
+  "Amount of time to pause between Epochs (s)": {
+    "key": "crwdns47607:0crwdne47607:0",
+    "tooltip": "crwdns47609:0crwdne47609:0"
+  },
+  "Apply Horizontal Flip": {
+    "key": "crwdns47611:0crwdne47611:0",
+    "tooltip": "crwdns47613:0crwdne47613:0"
+  },
+  "Batch Size": {
+    "key": "crwdns47615:0crwdne47615:0",
+    "tooltip": "crwdns47617:0crwdne47617:0"
+  },
+  "Cache Latents": {
+    "key": "crwdns47619:0crwdne47619:0",
+    "tooltip": "crwdns47621:0crwdne47621:0"
+  },
+  "Cancel": {
+    "key": "crwdns47623:0crwdne47623:0",
+    "tooltip": "crwdns47625:0crwdne47625:0"
+  },
+  "Class Batch Size": {
+    "key": "crwdns47627:0crwdne47627:0",
+    "tooltip": "crwdns47629:0crwdne47629:0"
+  },
+  "Class Images Per Instance Image": {
+    "key": "crwdns47631:0crwdne47631:0",
+    "tooltip": "crwdns47633:0crwdne47633:0"
+  },
+  "Class Prompt": {
+    "key": "crwdns47635:0crwdne47635:0",
+    "tooltip": "crwdns47637:0crwdne47637:0"
+  },
+  "Class Token": {
+    "key": "crwdns47639:0crwdne47639:0",
+    "tooltip": "crwdns47641:0[filewords]crwdne47641:0"
+  },
+  "Classification CFG Scale": {
+    "key": "crwdns47643:0crwdne47643:0",
+    "tooltip": "crwdns47645:0crwdne47645:0"
+  },
+  "Classification Dataset Directory": {
+    "key": "crwdns47647:0crwdne47647:0",
+    "tooltip": "crwdns47649:0crwdne47649:0"
+  },
+  "Classification Image Negative Prompt": {
+    "key": "crwdns47651:0crwdne47651:0",
+    "tooltip": "crwdns47653:0crwdne47653:0"
+  },
+  "Classification Steps": {
+    "key": "crwdns47655:0crwdne47655:0",
+    "tooltip": "crwdns47657:0crwdne47657:0"
+  },
+  "Clip Skip": {
+    "key": "crwdns47659:0crwdne47659:0",
+    "tooltip": "crwdns47661:0crwdne47661:0"
+  },
+  "Concepts List": {
+    "key": "crwdns47663:0crwdne47663:0",
+    "tooltip": "crwdns47665:0crwdne47665:0"
+  },
+  "Constant/Linear Starting Factor": {
+    "key": "crwdns47667:0crwdne47667:0",
+    "tooltip": "crwdns47669:0crwdne47669:0"
+  },
+  "Create From Hub": {
+    "key": "crwdns47671:0crwdne47671:0",
+    "tooltip": "crwdns47673:0crwdne47673:0"
+  },
+  "Create Model": {
+    "key": "crwdns47675:0crwdne47675:0",
+    "tooltip": "crwdns47677:0crwdne47677:0"
+  },
+  "Create": {
+    "key": "crwdns47679:0crwdne47679:0",
+    "tooltip": "crwdns47681:0crwdne47681:0"
+  },
+  "Custom Model Name": {
+    "key": "crwdns47683:0crwdne47683:0",
+    "tooltip": "crwdns47685:0crwdne47685:0"
+  },
+  "Dataset Directory": {
+    "key": "crwdns47687:0crwdne47687:0",
+    "tooltip": "crwdns47689:0crwdne47689:0"
+  },
+  "Debug Buckets": {
+    "key": "crwdns47691:0crwdne47691:0",
+    "tooltip": "crwdns47693:0crwdne47693:0"
+  },
+  "Discord Webhook": {
+    "key": "crwdns47695:0crwdne47695:0",
+    "tooltip": "crwdns47697:0crwdne47697:0"
+  },
+  "Existing Prompt Contents": {
+    "key": "crwdns47699:0crwdne47699:0",
+    "tooltip": "crwdns47701:0[filewords]crwdne47701:0"
+  },
+  "Extract EMA Weights": {
+    "key": "crwdns47703:0crwdne47703:0",
+    "tooltip": "crwdns47705:0crwdne47705:0"
+  },
+  "Freeze CLIP Normalization Layers": {
+    "key": "crwdns47707:0crwdne47707:0",
+    "tooltip": "crwdns47709:0crwdne47709:0"
+  },
+  "Generate Ckpt": {
+    "key": "crwdns47711:0crwdne47711:0",
+    "tooltip": "crwdns47713:0crwdne47713:0"
+  },
+  "Generate Class Images": {
+    "key": "crwdns47715:0crwdne47715:0",
+    "tooltip": "crwdns47717:0crwdne47717:0"
+  },
+  "Generate Classification Images Using txt2img": {
+    "key": "crwdns47719:0crwdne47719:0",
+    "tooltip": "crwdns47721:0crwdne47721:0"
+  },
+  "Generate Classification Images to match Instance Resolutions": {
+    "key": "crwdns47723:0crwdne47723:0",
+    "tooltip": "crwdns47725:0crwdne47725:0"
+  },
+  "Generate Graph": {
+    "key": "crwdns47727:0crwdne47727:0",
+    "tooltip": "crwdns47729:0crwdne47729:0"
+  },
+  "Generate Sample Images": {
+    "key": "crwdns47731:0crwdne47731:0",
+    "tooltip": "crwdns47733:0crwdne47733:0"
+  },
+  "Generate Samples": {
+    "key": "crwdns47735:0crwdne47735:0",
+    "tooltip": "crwdns47737:0crwdne47737:0"
+  },
+  "Generate a .ckpt file when saving during training.": {
+    "key": "crwdns47739:0crwdne47739:0",
+    "tooltip": "crwdns47741:0crwdne47741:0"
+  },
+  "Generate a .ckpt file when training completes.": {
+    "key": "crwdns47743:0crwdne47743:0",
+    "tooltip": "crwdns47745:0crwdne47745:0"
+  },
+  "Generate a .ckpt file when training is cancelled.": {
+    "key": "crwdns47747:0crwdne47747:0",
+    "tooltip": "crwdns47749:0crwdne47749:0"
+  },
+  "Generate lora weights Generate lora weights for additional networks.": {
+    "key": "crwdns47751:0crwdne47751:0",
+    "tooltip": "crwdns47753:0crwdne47753:0"
+  },
+  "Generate lora weights when saving during training.": {
+    "key": "crwdns47755:0crwdne47755:0",
+    "tooltip": "crwdns47757:0crwdne47757:0"
+  },
+  "Generate lora weights when training completes.": {
+    "key": "crwdns47759:0crwdne47759:0",
+    "tooltip": "crwdns47761:0crwdne47761:0"
+  },
+  "Generate lora weights when training is canceled.": {
+    "key": "crwdns47763:0crwdne47763:0",
+    "tooltip": "crwdns47765:0crwdne47765:0"
+  },
+  "Gradient Accumulation Steps": {
+    "key": "crwdns47767:0crwdne47767:0",
+    "tooltip": "crwdns47769:0crwdne47769:0"
+  },
+  "Gradient Checkpointing": {
+    "key": "crwdns47771:0crwdne47771:0",
+    "tooltip": "crwdns47773:0crwdne47773:0"
+  },
+  "Graph Smoothing Steps": {
+    "key": "crwdns47775:0crwdne47775:0",
+    "tooltip": "crwdns47777:0crwdne47777:0"
+  },
+  "Half Model": {
+    "key": "crwdns47779:0crwdne47779:0",
+    "tooltip": "crwdns47781:0crwdne47781:0"
+  },
+  "HuggingFace Token": {
+    "key": "crwdns47783:0crwdne47783:0",
+    "tooltip": "crwdns47785:0crwdne47785:0"
+  },
+  "Instance Prompt": {
+    "key": "crwdns47787:0crwdne47787:0",
+    "tooltip": "crwdns47789:0[Filewords]crwdne47789:0"
+  },
+  "Instance Token": {
+    "key": "crwdns47791:0crwdne47791:0",
+    "tooltip": "crwdns47793:0[filewords]crwdne47793:0"
+  },
+  "Learning Rate Scheduler": {
+    "key": "crwdns47795:0crwdne47795:0",
+    "tooltip": "crwdns47797:0crwdne47797:0"
+  },
+  "Learning Rate Warmup Steps": {
+    "key": "crwdns47799:0crwdne47799:0",
+    "tooltip": "crwdns47801:0crwdne47801:0"
+  },
+  "Learning Rate": {
+    "key": "crwdns47803:0crwdne47803:0",
+    "tooltip": "crwdns47805:0crwdne47805:0"
+  },
+  "Load Settings": {
+    "key": "crwdns47807:0crwdne47807:0",
+    "tooltip": "crwdns47809:0crwdne47809:0"
+  },
+  "Log Memory": {
+    "key": "crwdns47811:0crwdne47811:0",
+    "tooltip": "crwdns47813:0crwdne47813:0"
+  },
+  "Lora Model": {
+    "key": "crwdns47815:0crwdne47815:0",
+    "tooltip": "crwdns47817:0crwdne47817:0"
+  },
+  "Use Lora Extended": {
+    "key": "crwdns47819:0crwdne47819:0",
+    "tooltip": "crwdns47821:0crwdne47821:0"
+  },
+  "Lora UNET Rank": {
+    "key": "crwdns47823:0crwdne47823:0",
+    "tooltip": "crwdns47825:0crwdne47825:0"
+  },
+  "Lora Text Encoder Rank": {
+    "key": "crwdns47827:0crwdne47827:0",
+    "tooltip": "crwdns47829:0crwdne47829:0"
+  },
+  "Lora Text Learning Rate": {
+    "key": "crwdns47831:0crwdne47831:0",
+    "tooltip": "crwdns47833:0crwdne47833:0"
+  },
+  "Lora Text Weight": {
+    "key": "crwdns47835:0crwdne47835:0",
+    "tooltip": "crwdns47837:0crwdne47837:0"
+  },
+  "Lora UNET Learning Rate": {
+    "key": "crwdns47839:0crwdne47839:0",
+    "tooltip": "crwdns47841:0crwdne47841:0"
+  },
+  "Lora Weight": {
+    "key": "crwdns47843:0crwdne47843:0",
+    "tooltip": "crwdns47845:0crwdne47845:0"
+  },
+  "Max Resolution": {
+    "key": "crwdns47847:0crwdne47847:0",
+    "tooltip": "crwdns47849:0crwdne47849:0"
+  },
+  "Max Token Length": {
+    "key": "crwdns47851:0crwdne47851:0",
+    "tooltip": "crwdns47853:0crwdne47853:0"
+  },
+  "Memory Attention": {
+    "key": "crwdns47855:0crwdne47855:0",
+    "tooltip": "crwdns47857:0crwdne47857:0"
+  },
+  "Min Learning Rate": {
+    "key": "crwdns47859:0crwdne47859:0",
+    "tooltip": "crwdns47861:0crwdne47861:0"
+  },
+  "Mixed Precision": {
+    "key": "crwdns47863:0crwdne47863:0",
+    "tooltip": "crwdns47865:0crwdne47865:0"
+  },
+  "Model Path": {
+    "key": "crwdns47867:0crwdne47867:0",
+    "tooltip": "crwdns47869:0crwdne47869:0"
+  },
+  "Model": {
+    "key": "crwdns47871:0crwdne47871:0",
+    "tooltip": "crwdns47873:0crwdne47873:0"
+  },
+  "Name": {
+    "key": "crwdns47875:0crwdne47875:0",
+    "tooltip": "crwdns47877:0crwdne47877:0"
+  },
+  "Number of Hard Resets": {
+    "key": "crwdns47879:0crwdne47879:0",
+    "tooltip": "crwdns47881:0crwdne47881:0"
+  },
+  "Number of Samples to Generate": {
+    "key": "crwdns47883:0crwdne47883:0",
+    "tooltip": "crwdns47885:0crwdne47885:0"
+  },
+  "Offset Noise": {
+    "key": "crwdns47887:0crwdne47887:0",
+    "tooltip": "crwdns47889:0crwdne47889:0"
+  },
+  "Pad Tokens": {
+    "key": "crwdns47891:0crwdne47891:0",
+    "tooltip": "crwdns47893:0crwdne47893:0"
+  },
+  "Pause After N Epochs": {
+    "key": "crwdns47895:0crwdne47895:0",
+    "tooltip": "crwdns47897:0crwdne47897:0"
+  },
+  "Performance Wizard (WIP)": {
+    "key": "crwdns47899:0crwdne47899:0",
+    "tooltip": "crwdns47901:0crwdne47901:0"
+  },
+  "Polynomial Power": {
+    "key": "crwdns47903:0crwdne47903:0",
+    "tooltip": "crwdns47905:0crwdne47905:0"
+  },
+  "Pretrained VAE Name or Path": {
+    "key": "crwdns47907:0crwdne47907:0",
+    "tooltip": "crwdns47909:0crwdne47909:0"
+  },
+  "Preview Prompts": {
+    "key": "crwdns47911:0crwdne47911:0",
+    "tooltip": "crwdns47913:0crwdne47913:0"
+  },
+  "Prior Loss Weight": {
+    "key": "crwdns47915:0crwdne47915:0",
+    "tooltip": "crwdns47917:0crwdne47917:0"
+  },
+  "Sample CFG Scale": {
+    "key": "crwdns47919:0crwdne47919:0",
+    "tooltip": "crwdns47921:0crwdne47921:0"
+  },
+  "Sample Image Prompt": {
+    "key": "crwdns47923:0crwdne47923:0",
+    "tooltip": "crwdns47925:0crwdne47925:0"
+  },
+  "Sample Negative Prompt": {
+    "key": "crwdns47927:0crwdne47927:0",
+    "tooltip": "crwdns47929:0crwdne47929:0"
+  },
+  "Sample Prompt Template File": {
+    "key": "crwdns47931:0crwdne47931:0",
+    "tooltip": "crwdns47933:0[filewords]crwdnd47933:0[name]crwdne47933:0"
+  },
+  "Sample Prompt": {
+    "key": "crwdns47935:0crwdne47935:0",
+    "tooltip": "crwdns47937:0crwdne47937:0"
+  },
+  "Sample Seed": {
+    "key": "crwdns47939:0crwdne47939:0",
+    "tooltip": "crwdns47941:0crwdne47941:0"
+  },
+  "Sample Steps": {
+    "key": "crwdns47943:0crwdne47943:0",
+    "tooltip": "crwdns47945:0crwdne47945:0"
+  },
+  "Sanity Sample Prompt": {
+    "key": "crwdns47947:0crwdne47947:0",
+    "tooltip": "crwdns47949:0crwdne47949:0"
+  },
+  "Sanity Sample Seed": {
+    "key": "crwdns47951:0crwdne47951:0",
+    "tooltip": "crwdns47953:0crwdne47953:0"
+  },
+  "Save Checkpoint to Subdirectory": {
+    "key": "crwdns47955:0crwdne47955:0",
+    "tooltip": "crwdns47957:0crwdne47957:0"
+  },
+  "Save Model Frequency (Epochs)": {
+    "key": "crwdns47959:0crwdne47959:0",
+    "tooltip": "crwdns47961:0crwdne47961:0"
+  },
+  "Save Model Frequency (Step)": {
+    "key": "crwdns47963:0crwdne47963:0",
+    "tooltip": "crwdns47965:0crwdne47965:0"
+  },
+  "Save Preview(s) Frequency (Epochs)": {
+    "key": "crwdns47967:0crwdne47967:0",
+    "tooltip": "crwdns47969:0crwdne47969:0"
+  },
+  "Save Preview(s) Frequency (Step)": {
+    "key": "crwdns47971:0crwdne47971:0",
+    "tooltip": "crwdns47973:0crwdne47973:0"
+  },
+  "Save Settings": {
+    "key": "crwdns47975:0crwdne47975:0",
+    "tooltip": "crwdns47977:0crwdne47977:0"
+  },
+  "Save Weights": {
+    "key": "crwdns47979:0crwdne47979:0",
+    "tooltip": "crwdns47981:0crwdne47981:0"
+  },
+  "Save and Test Webhook": {
+    "key": "crwdns47983:0crwdne47983:0",
+    "tooltip": "crwdns47985:0crwdne47985:0"
+  },
+  "Save separate diffusers snapshots when saving during training.": {
+    "key": "crwdns47987:0crwdne47987:0",
+    "tooltip": "crwdns47989:0crwdne47989:0"
+  },
+  "Save separate diffusers snapshots when training completes.": {
+    "key": "crwdns47991:0crwdne47991:0",
+    "tooltip": "crwdns47993:0crwdne47993:0"
+  },
+  "Save separate diffusers snapshots when training is cancelled.": {
+    "key": "crwdns47995:0crwdne47995:0",
+    "tooltip": "crwdns47997:0crwdne47997:0"
+  },
+  "Save EMA Weights to Generated Models": {
+    "key": "crwdns47999:0crwdne47999:0",
+    "tooltip": "crwdns48001:0crwdne48001:0"
+  },
+  "Scale Position": {
+    "key": "crwdns48003:0crwdne48003:0",
+    "tooltip": "crwdns48005:0crwdne48005:0"
+  },
+  "Scheduler": {
+    "key": "crwdns48007:0crwdne48007:0",
+    "tooltip": "crwdns48009:0crwdne48009:0"
+  },
+  "Set Gradients to None When Zeroing": {
+    "key": "crwdns48011:0crwdne48011:0",
+    "tooltip": "crwdns48013:0crwdne48013:0"
+  },
+  "Shuffle After Epoch": {
+    "key": "crwdns48015:0crwdne48015:0",
+    "tooltip": "crwdns48017:0crwdne48017:0"
+  },
+  "Shuffle Tags": {
+    "key": "crwdns48019:0crwdne48019:0",
+    "tooltip": "crwdns48021:0crwdne48021:0"
+  },
+  "Source Checkpoint": {
+    "key": "crwdns48023:0crwdne48023:0",
+    "tooltip": "crwdns48025:0crwdne48025:0"
+  },
+  "Step Ratio of Text Encoder Training": {
+    "key": "crwdns48027:0crwdne48027:0",
+    "tooltip": "crwdns48029:0crwdne48029:0"
+  },
+  "Strict Tokens": {
+    "key": "crwdns48031:0crwdne48031:0",
+    "tooltip": "crwdns48033:0crwdne48033:0"
+  },
+  "Total Number of Class/Reg Images": {
+    "key": "crwdns48035:0crwdne48035:0",
+    "tooltip": "crwdns48037:0crwdne48037:0"
+  },
+  "Train Imagic Only": {
+    "key": "crwdns48039:0crwdne48039:0",
+    "tooltip": "crwdns48041:0crwdne48041:0"
+  },
+  "Train Text Encoder": {
+    "key": "crwdns48043:0crwdne48043:0",
+    "tooltip": "crwdns48045:0crwdne48045:0"
+  },
+  "Train": {
+    "key": "crwdns48047:0crwdne48047:0",
+    "tooltip": "crwdns48049:0crwdne48049:0"
+  },
+  "Training Steps Per Image (Epochs)": {
+    "key": "crwdns48051:0crwdne48051:0",
+    "tooltip": "crwdns48053:0crwdne48053:0"
+  },
+  "Training Wizard (Object/Style)": {
+    "key": "crwdns48055:0crwdne48055:0",
+    "tooltip": "crwdns48057:0crwdne48057:0"
+  },
+  "Training Wizard (Person)": {
+    "key": "crwdns48059:0crwdne48059:0",
+    "tooltip": "crwdns48061:0crwdne48061:0"
+  },
+  "Unfreeze Model": {
+    "key": "crwdns48063:0crwdne48063:0",
+    "tooltip": "crwdns48065:0crwdne48065:0"
+  },
+  "Use 8bit Adam": {
+    "key": "crwdns48067:0crwdne48067:0",
+    "tooltip": "crwdns48069:0crwdne48069:0"
+  },
+  "Use CPU Only (SLOW)": {
+    "key": "crwdns48071:0crwdne48071:0",
+    "tooltip": "crwdns48073:0crwdne48073:0"
+  },
+  "Use Concepts List": {
+    "key": "crwdns48075:0crwdne48075:0",
+    "tooltip": "crwdns48077:0crwdne48077:0"
+  },
+  "Use EMA": {
+    "key": "crwdns48079:0crwdne48079:0",
+    "tooltip": "crwdns48081:0crwdne48081:0"
+  },
+  "Use EMA Weights for Inference": {
+    "key": "crwdns48083:0crwdne48083:0",
+    "tooltip": "crwdns48085:0crwdne48085:0"
+  },
+  "Use Epoch Values for Save Frequency": {
+    "key": "crwdns48087:0crwdne48087:0",
+    "tooltip": "crwdns48089:0crwdne48089:0"
+  },
+  "Use LORA": {
+    "key": "crwdns48091:0crwdne48091:0",
+    "tooltip": "crwdns48093:0crwdne48093:0"
+  },
+  "Use Lifetime Epochs When Saving": {
+    "key": "crwdns48095:0crwdne48095:0",
+    "tooltip": "crwdns48097:0crwdne48097:0"
+  },
+  "Use Lifetime Steps When Saving": {
+    "key": "crwdns48099:0crwdne48099:0",
+    "tooltip": "crwdns48101:0crwdne48101:0"
+  }
+}
