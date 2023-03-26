@@ -1,0 +1,17 @@
+{
+  "Create aesthetic embedding": "crwdns45961:0crwdne45961:0",
+  "Open for Clip Aesthetic!": "crwdns45963:0crwdne45963:0",
+  "Aesthetic weight": "crwdns45965:0crwdne45965:0",
+  "Aesthetic steps": "crwdns45967:0crwdne45967:0",
+  "Aesthetic learning rate": "crwdns45969:0crwdne45969:0",
+  "Slerp interpolation": "crwdns45971:0crwdne45971:0",
+  "Aesthetic imgs embedding": "crwdns45973:0crwdne45973:0",
+  "Aesthetic text for imgs": "crwdns45975:0crwdne45975:0",
+  "Slerp angle": "crwdns45977:0crwdne45977:0",
+  "Is negative text": "crwdns45979:0crwdne45979:0",
+  "Create an aesthetic embedding out of any number of images": "crwdns45981:0crwdne45981:0",
+  "Create images embedding": "crwdns45983:0crwdne45983:0",
+  "stable-diffusion-webui-aesthetic-gradients": "crwdns45985:0crwdne45985:0",
+  "This text is used to rotate the feature space of the imgs embs": "crwdns45987:0crwdne45987:0",
+  "https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients.git": "crwdns45989:0crwdne45989:0"
+}
