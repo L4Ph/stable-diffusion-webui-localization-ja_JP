@@ -1,0 +1,18 @@
+{
+  "Attention Heatmap": "crwdns46227:0crwdne46227:0",
+  "Attention texts for visualization. (comma separated)": "crwdns46229:0crwdne46229:0",
+  "Hide heatmap images": "crwdns46231:0crwdne46231:0",
+  "Do not save heatmap images": "crwdns46233:0crwdne46233:0",
+  "Hide caption": "crwdns46235:0crwdne46235:0",
+  "Use grid (output to grid dir)": "crwdns46237:0crwdne46237:0",
+  "Grid layout": "crwdns46239:0crwdne46239:0",
+  "Auto": "crwdns46241:0crwdne46241:0",
+  "Prevent Empty Spot": "crwdns46243:0crwdne46243:0",
+  "Batch Length As Row": "crwdns46245:0crwdne46245:0",
+  "Heatmap blend alpha": "crwdns46247:0crwdne46247:0",
+  "Heatmap image scale": "crwdns46249:0crwdne46249:0",
+  "Trace each layers": "crwdns46251:0crwdne46251:0",
+  "Use layers as row instead of Batch Length": "crwdns46253:0crwdne46253:0",
+  "stable-diffusion-webui-daam": "crwdns46255:0crwdne46255:0",
+  "https://github.com/toriato/stable-diffusion-webui-daam.git": "crwdns46257:0crwdne46257:0"
+}
