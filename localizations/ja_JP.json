@@ -946,7 +946,7 @@
     "zh_Hans Localization": "繁体字中国語の翻訳",
     "Simplified Chinese localization.": "簡体字中国語の翻訳",
     "Auto Translate": "Auto Translate",
-    "Language extension allows users to write prompts in their native language and automatically translate UI, without the need to manually download configuration files. New plugins can also be translated.": "言語の拡張機能により、設定ファイルを手動でダウンロードすることなく、母国語でプロンプトを記述し、UIの自動翻訳ができます。新しいプラグインも翻訳できます。",
+    "Language extension allows users to write prompts in their native language and automatically translate UI, without the need to manually download configuration files. New plugins can also be translated.": "言語の拡張機能により、設定ファイルを手動でダウンロードすることなく、母国語でプロンプトを記述し、UIを自動的に翻訳することができます。新しいプラグインも翻訳できます。",
     "old localizations": "古い翻訳",
     "Old unmaintained localizations that used to be a part of main repository": "メインリポジトリの一部だった古いメンテナンスされていない翻訳",
     "sd-webui-depth-lib": "sd-webui-depth-lib",
