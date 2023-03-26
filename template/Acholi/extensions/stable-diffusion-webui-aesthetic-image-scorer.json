@@ -1,0 +1,16 @@
+{
+  "Aesthetic Image Scorer": "crwdns45991:0crwdne45991:0",
+  "Save score as EXIF or PNG Info Chunk": "crwdns45993:0crwdne45993:0",
+  "aesthetic_score": "crwdns45995:0crwdne45995:0",
+  "sampler": "crwdns45997:0crwdne45997:0",
+  "cfg_scale": "crwdns45999:0crwdne45999:0",
+  "sd_model_hash": "crwdns46001:0crwdne46001:0",
+  "seed": "crwdns46003:0crwdne46003:0",
+  "hash": "crwdns46005:0crwdne46005:0",
+  "Save tags (Windows only)": "crwdns46007:0crwdne46007:0",
+  "Save category (Windows only)": "crwdns46009:0crwdne46009:0",
+  "Save generation params text": "crwdns46011:0crwdne46011:0",
+  "Force CPU (Requires Custom Script Reload)": "crwdns46013:0crwdne46013:0",
+  "stable-diffusion-webui-aesthetic-image-scorer": "crwdns46015:0crwdne46015:0",
+  "https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer.git": "crwdns46017:0crwdne46017:0"
+}
