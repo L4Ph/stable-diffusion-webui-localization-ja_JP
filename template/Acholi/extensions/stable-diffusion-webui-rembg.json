@@ -1,0 +1,15 @@
+{
+  "Remove background": "crwdns48847:0crwdne48847:0",
+  "u2net": "crwdns48849:0crwdne48849:0",
+  "u2netp": "crwdns48851:0crwdne48851:0",
+  "u2net_human_seg": "crwdns48853:0crwdne48853:0",
+  "u2net_cloth_seg": "crwdns48855:0crwdne48855:0",
+  "silueta": "crwdns48857:0crwdne48857:0",
+  "Return mask": "crwdns48859:0crwdne48859:0",
+  "Alpha matting": "crwdns48861:0crwdne48861:0",
+  "Erode size": "crwdns48863:0crwdne48863:0",
+  "Foreground threshold": "crwdns48865:0crwdne48865:0",
+  "Background threshold": "crwdns48867:0crwdne48867:0",
+  "stable-diffusion-webui-rembg": "crwdns48869:0crwdne48869:0",
+  "https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg.git": "crwdns48871:0crwdne48871:0"
+}
