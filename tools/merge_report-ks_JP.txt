@@ -41,6 +41,11 @@
 "novelai-2-local-prompt"
 "./template/ks_JP/extensions/novelai-2-local-prompt.json" - "novelai-2-local-prompt".
 
+"Enabled"
+"./template/ks_JP/extensions/sd-webui-cutoff.json" - "Enabled".
+"./template/ks_JP/extensions/sd-webui-llul.json" - "Enabled".
+"./template/ks_JP/extensions/unprompted.json" - "Enabled".
+
 "Inspiration"
 "./template/ks_JP/extensions/stable-diffusion-webui-inspiration.json" - "Inspiration".
 
@@ -59,9 +64,15 @@
 "LLuL"
 "./template/ks_JP/extensions/sd-webui-llul.json" - "LLuL".
 
-"Enabled"
-"./template/ks_JP/extensions/sd-webui-llul.json" - "Enabled".
-"./template/ks_JP/extensions/unprompted.json" - "Enabled".
+"Weight"
+"./template/ks_JP/extensions/sd-webui-llul.json" - "Weight".
+"./template/ks_JP/extensions/sd-webui-controlnet.json" - "Weight".
+
+"Lerp"
+"./template/ks_JP/extensions/sd-webui-llul.json" - "Lerp".
+
+"SLerp"
+"./template/ks_JP/extensions/sd-webui-llul.json" - "SLerp".
 
 "Prompt template file"
 "./template/ks_JP/extensions/Hypernetwork-Monkeypatch-Extension.json" - "Prompt template file".
@@ -166,18 +177,20 @@
 "./template/ks_JP/extensions/sd-webui-controlnet.json" - "Model".
 "./template/ks_JP/extensions/sd-model-preview-xd.json" - "Model".
 
+"Name"
+"./template/ks_JP/extensions/sd_dreambooth_extension.json" - "Name".
+
+"linear"
+"./template/ks_JP/extensions/sd_dreambooth_extension.json" - "linear".
+
 "Directories"
 "./template/ks_JP/extensions/sd_dreambooth_extension.json" - "Directories".
 
-"Prompts"
-"./template/ks_JP/extensions/sd_dreambooth_extension.json" - "Prompts".
-
-"Checkpoints"
-"./template/ks_JP/extensions/sd_dreambooth_extension.json" - "Checkpoints".
-"./template/ks_JP/extensions/sd-model-preview-xd.json" - "Checkpoints".
-
 "Checkbox"
 "./template/ks_JP/extensions/sd_dreambooth_extension.json" - "Checkbox".
+
+"Path to directory with input images"
+"./template/ks_JP/extensions/sd_dreambooth_extension.json" - "Path to directory with input images".
 
 "Blend"
 "./template/ks_JP/extensions/a1111-sd-webui-haku-img.json" - "Blend".
@@ -227,11 +240,17 @@
 "Reconstruct prompt from existing image and put it into the prompt field."
 "./template/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Reconstruct prompt from existing image and put it into the prompt field.".
 
+"Auto Translate"
+"./template/ks_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "Auto Translate".
+
+"Text"
+"./template/ks_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "Text".
+
+"no"
+"./template/ks_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "no".
+
 "ControlNet"
 "./template/ks_JP/extensions/sd-webui-controlnet.json" - "ControlNet".
-
-"Weight"
-"./template/ks_JP/extensions/sd-webui-controlnet.json" - "Weight".
 
 "Canvas Width"
 "./template/ks_JP/extensions/sd-webui-controlnet.json" - "Canvas Width".
@@ -265,6 +284,9 @@
 
 "Video"
 "./template/ks_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "Video".
+
+"Checkpoints"
+"./template/ks_JP/extensions/sd-model-preview-xd.json" - "Checkpoints".
 
 "Save results as video"
 "./template/ks_JP/extensions/seed_travel.json" - "Save results as video".

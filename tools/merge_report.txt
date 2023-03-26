@@ -41,6 +41,11 @@
 "novelai-2-local-prompt"
 "./template/ja_JP/extensions/novelai-2-local-prompt.json" - "novelai-2-local-prompt".
 
+"Enabled"
+"./template/ja_JP/extensions/sd-webui-cutoff.json" - "有効化".
+"./template/ja_JP/extensions/sd-webui-llul.json" - "有効化".
+"./template/ja_JP/extensions/unprompted.json" - "有効化".
+
 "Inspiration"
 "./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "インスピレーション".
 
@@ -59,9 +64,15 @@
 "LLuL"
 "./template/ja_JP/extensions/sd-webui-llul.json" - "LLuL".
 
-"Enabled"
-"./template/ja_JP/extensions/sd-webui-llul.json" - "有効化".
-"./template/ja_JP/extensions/unprompted.json" - "有効化".
+"Weight"
+"./template/ja_JP/extensions/sd-webui-llul.json" - "重み".
+"./template/ja_JP/extensions/sd-webui-controlnet.json" - "重み".
+
+"Lerp"
+"./template/ja_JP/extensions/sd-webui-llul.json" - "線形補間".
+
+"SLerp"
+"./template/ja_JP/extensions/sd-webui-llul.json" - "球面線形補間".
 
 "Prompt template file"
 "./template/ja_JP/extensions/Hypernetwork-Monkeypatch-Extension.json" - "プロンプトテンプレートファイル".
@@ -166,18 +177,20 @@
 "./template/ja_JP/extensions/sd-webui-controlnet.json" - "モデル".
 "./template/ja_JP/extensions/sd-model-preview-xd.json" - "モデル".
 
+"Name"
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "名前".
+
+"linear"
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "linear".
+
 "Directories"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "ディレクトリ".
 
-"Prompts"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "プロンプト".
-
-"Checkpoints"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "チェックポイント".
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "チェックポイント".
-
 "Checkbox"
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "チェックボックス".
+
+"Path to directory with input images"
+"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "入力画像のあるディレクトリへのパス".
 
 "Blend"
 "./template/ja_JP/extensions/a1111-sd-webui-haku-img.json" - "Layerで合成".
@@ -227,11 +240,17 @@
 "Reconstruct prompt from existing image and put it into the prompt field."
 "./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "既存の画像からプロンプトを再構築し、プロンプトフィールドに入力します。".
 
+"Auto Translate"
+"./template/ja_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "Auto Translate".
+
+"Text"
+"./template/ja_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "文字列".
+
+"no"
+"./template/ja_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "no".
+
 "ControlNet"
 "./template/ja_JP/extensions/sd-webui-controlnet.json" - "ControlNet".
-
-"Weight"
-"./template/ja_JP/extensions/sd-webui-controlnet.json" - "重み".
 
 "Canvas Width"
 "./template/ja_JP/extensions/sd-webui-controlnet.json" - "キャンバスの幅".
@@ -265,6 +284,9 @@
 
 "Video"
 "./template/ja_JP/extensions/stable-diffusion-webui-depthmap-script.json" - "動画".
+
+"Checkpoints"
+"./template/ja_JP/extensions/sd-model-preview-xd.json" - "チェックポイント".
 
 "Save results as video"
 "./template/ja_JP/extensions/seed_travel.json" - "結果を動画として保存".
