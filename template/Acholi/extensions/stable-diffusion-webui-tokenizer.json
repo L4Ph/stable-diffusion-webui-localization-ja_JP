@@ -1,0 +1,13 @@
+{
+  "Tokenizer": "crwdns47049:0crwdne47049:0",
+  "Before your text is sent to the neural network, it gets turned into numbers in a process called tokenization. These tokens are how the neural network reads and interprets text. Thanks to our great friends at Shousetsu愛 for inspiration for this feature.": "crwdns47051:0crwdne47051:0",
+  "Text input": "crwdns47053:0crwdne47053:0",
+  "ID input": "crwdns47055:0crwdne47055:0",
+  "Tokenize": "crwdns47057:0crwdne47057:0",
+  "Text": "crwdns47059:0crwdne47059:0",
+  "Tokens": "crwdns47061:0crwdne47061:0",
+  "stable-diffusion-webui-tokenizer": "crwdns47063:0crwdne47063:0",
+  "Prompt for tokenization": "crwdns47065:0crwdne47065:0",
+  "Ids for tokenization (example: 9061, 631, 736)": "crwdns47067:0crwdne47067:0",
+  "https://github.com/AUTOMATIC1111/stable-diffusion-webui-tokenizer.git": "crwdns47069:0crwdne47069:0"
+}
