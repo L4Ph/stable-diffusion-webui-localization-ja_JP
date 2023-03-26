@@ -19,14 +19,12 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
-          cache: 'pip' # caching pip dependencies
       - run: pip install -r './tools/requirements.txt'
       
-      - name: execute Merger.py
-        run: python './tools/Merger.py'
-
-      - name: execute Merger-ks_JP.py
-        run: python './tools/Merger-ks_JP.py'
+      - name: merge translation
+        run: |
+          python './tools/Merger.py'
+          python './tools/Merger-ks_JP.py'
 
       - name: run crowdin tool.py
         env:
