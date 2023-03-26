@@ -253,6 +253,8 @@
   "Finnish localization": "フィンランド語翻訳",
   "zh_Hans Localization": "繁体字中国語の翻訳",
   "Simplified Chinese localization.": "簡体字中国語の翻訳",
+  "Auto Translate": "Auto Translate",
+  "Language extension allows users to write prompts in their native language and automatically translate UI, without the need to manually download configuration files. New plugins can also be translated.": "Language extension allows users to write prompts in their native language and automatically translate UI, without the need to manually download configuration files. New plugins can also be translated.",
   "old localizations": "古い翻訳",
   "Old unmaintained localizations that used to be a part of main repository": "メインリポジトリの一部だった古いメンテナンスされていない翻訳"
 }
