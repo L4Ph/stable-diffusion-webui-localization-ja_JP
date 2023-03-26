@@ -1,0 +1,14 @@
+{
+  "Conditioning Highres": "crwdns46203:0crwdne46203:0",
+  "Conditioning Highres.fix strength (for sd-v1-5-inpainting)": "crwdns46205:0crwdne46205:0",
+  "Cond.fix: Disabled (none)": "crwdns46207:0crwdne46207:0",
+  "Cond.fix: Empty": "crwdns46209:0crwdne46209:0",
+  "Cond.fix: Lowest": "crwdns46211:0crwdne46211:0",
+  "Cond.fix: Low": "crwdns46213:0crwdne46213:0",
+  "Cond.fix: Medium": "crwdns46215:0crwdne46215:0",
+  "Cond.fix: High (recommended)": "crwdns46217:0crwdne46217:0",
+  "Cond.fix: Highest": "crwdns46219:0crwdne46219:0",
+  "Cond.fix: Full": "crwdns46221:0crwdne46221:0",
+  "stable-diffusion-webui-conditioning-highres-fix": "crwdns46223:0crwdne46223:0",
+  "https://github.com/klimaleksus/stable-diffusion-webui-conditioning-highres-fix.git": "crwdns46225:0crwdne46225:0"
+}
