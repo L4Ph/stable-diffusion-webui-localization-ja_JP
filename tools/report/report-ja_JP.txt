@@ -55,7 +55,7 @@
 "./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Single".
 
 "Image Directory"
-"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Image Directory".
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "画像のディレクトリ".
 
 "Output Directory"
 "./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Output Directory".
