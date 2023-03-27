@@ -11,7 +11,7 @@
   "Is negative text": "ネガティブテキスト",
   "Create an aesthetic embedding out of any number of images": "任意の数の画像からAesthetic embeddingを作成します",
   "Create images embedding": "埋め込み画像を作成",
-  "stable-diffusion-webui-aesthetic-gradients": "stable-diffusion-webui-stable-gradients",
+  "stable-diffusion-webui-aesthetic-gradients": "stable-diffusion-webui-aesthetic-gradients",
   "This text is used to rotate the feature space of the imgs embs": "このテキストは、Embedding画像の特徴空間を回転させるために使用されます",
   "https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients.git": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients.git"
 }
