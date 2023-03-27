@@ -53,18 +53,9 @@ for name, files in file_scope.items():
         file_progress = get_crowdin_progress(client, project_id, file_id)
         check_box = '[ ]' if file_progress < 100 else '[x]'
         extension_url = get_extension_url(file_name, file_path)
-        progress_list.append(f"- {check_box} ![{file_name} translated {file_progress}%](https://geps.dev/progress/{file_progress}?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [{file_name}]({extension_url})")
+        progress_list.append(f"- {check_box} ![{file_name} translated {file_progress}%](https://geps.dev/progress/{file_progress}?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [{file_name}]({extension_url})\n")
     progress_list.append('</details>\n\n')
 
 # update README.md with new progress markdown strings
 with open('./README.md', 'r', encoding='utf-8') as file:
-    readme_content = file.read()
-
-start_index = readme_content.find('## ローカライズの進捗')
-end_index = readme_content.find('## Special Thanks!✨')
-top_content = readme_content[0:start_index]
-bottom_content = readme_content[end_index:len(readme_content)]
-new_content = top_content + ''.join(progress_list) + bottom_content
-
-with open('./README.md', 'w', encoding='utf-8') as f:
-    f.write(new_content)
+    readme_content
