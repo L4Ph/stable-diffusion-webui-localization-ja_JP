@@ -96,7 +96,7 @@
     "tooltip": "インスタンスとクラス・イメージを調べて、対応するクラス・イメージのないインスタンスイメージを報告します。"
   },
   "Discord Webhook": {
-    "key": "DiscordをWebフォーク",
+    "key": "Discord Webhook",
     "tooltip": "生成後にトレーニングサンプルをDiscordチャンネルに送信する"
   },
   "Existing Prompt Contents": {
