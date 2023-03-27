@@ -41,6 +41,8 @@ jobs:
             git config --local user.name "github-actions[bot]"
             git add -A
             git commit -m "Merge i18n/l10n & Update README📃"
+          fi
+
 
       - name: push changes
         uses: ad-m/github-push-action@master
