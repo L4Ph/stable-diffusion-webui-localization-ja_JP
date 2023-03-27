@@ -6,7 +6,7 @@ from collections import defaultdict
 JSON_FOLDER = './template/ja_JP'
 EXTENSIONS_FOLDER = './template/ja_JP/extensions'
 MERGED_FILE = './localizations/ja_JP.json'
-REPORT_FILE = './tools/merge_report.txt'
+REPORT_FILE = './tools/report/report-ja_JP.txt'
 
 
 def merge_json_files():

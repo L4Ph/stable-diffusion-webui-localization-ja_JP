@@ -33,10 +33,14 @@ jobs:
 
       - name: commit files
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Merge i18n/l10n & Update README📃" --allow-empty)
+          if git diff-index --quiet HEAD --; then
+            echo "No changes detected"
+            exit 0
+          else
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add -A
+            git commit -m "Merge i18n/l10n & Update README📃"
 
       - name: push changes
         uses: ad-m/github-push-action@master
