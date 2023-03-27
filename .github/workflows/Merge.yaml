@@ -22,29 +22,41 @@ jobs:
       - run: pip install -r './tools/requirements.txt'
       
       - name: merge translation
-        run: |
-          chmod +x ./tools/run_merger.sh
-          ./tools/run_merger.sh
+        run: python './tools/merge.py'
 
       - name: run crowdin tool.py
         env:
           crowdin_api_token : ${{ secrets.CROWDIN_PROGRESS_CHECKER_API_KEY }}
         run: python './tools/crowdin_tool.py'
 
-      - name: commit files
+      - name: check if changes exist
         run: |
           if git diff-index --quiet HEAD --; then
             echo "No changes detected"
             exit 0
-          else
-            git config --local user.email "github-actions[bot]@users.noreply.github.com"
-            git config --local user.name "github-actions[bot]"
-            git add -A
-            git commit -m "Merge i18n/l10n & Update README📃"
           fi
 
+      - name: commit changes
+        run: |
+          commit_msg=""
+          if [ -n "$(git diff --cached --exit-code)" ]; then
+            if [ -n "$(git diff --name-only | grep 'tools/merge.py')" ]; then
+              commit_msg="Merge Translation📜"
+            fi
+            if [ -n "$(git diff --name-only | grep 'tools/crowdin_tool.py')" ]; then
+              if [ -n "$commit_msg" ]; then
+                commit_msg="$commit_msg & Update README📃"
+              else
+                commit_msg="Update README📃"
+              fi
+            fi
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git commit -m "$commit_msg"
+          fi
 
       - name: push changes
+        if: success()
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
