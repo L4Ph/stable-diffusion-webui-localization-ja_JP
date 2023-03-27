@@ -23,6 +23,7 @@ jobs:
       
       - name: merge translation
         run: |
+          python './tools/Merger-test.py'
           python './tools/Merger.py'
           python './tools/Merger-ks_JP.py'
 
