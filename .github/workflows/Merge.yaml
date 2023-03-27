@@ -22,7 +22,9 @@ jobs:
       - run: pip install -r './tools/requirements.txt'
       
       - name: merge translation
-        run: ./tools/run_merger.sh
+        run: |
+          chmod +x ./tools/run_mergers.sh
+          ./tools/run_merger.sh
 
       - name: run crowdin tool.py
         env:
