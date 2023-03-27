@@ -23,7 +23,7 @@ jobs:
       
       - name: merge translation
         run: |
-          chmod +x ./tools/run_mergers.sh
+          chmod +x ./tools/run_merger.sh
           ./tools/run_merger.sh
 
       - name: run crowdin tool.py
