@@ -574,7 +574,7 @@
   "Error": "エラー",
   "unknown": "不明",
   "ScuNET": "ScuNET",
-  "prompt-bracket-checker": "プロンプト括弧チェッカー",
+  "prompt-bracket-checker": "prompt-bracket-checker",
   "Load from:": "読込",
   "Extension index URL": "拡張機能リストのURL",
   "Hide extensions with tags": "タグで拡張機能を隠す",
