@@ -188,7 +188,7 @@
   "Inpaint area": "inpaintを行う領域",
   "Whole picture": "画像全体",
   "Only masked": "マスクのみ",
-  "Only masked padding, pixels": "\"マスクのみ\"外側の余白(ピクセル)",
+  "Only masked padding, pixels": "\"マスクのみ\"外側の余白 (px)",
   "Image CFG Scale": "画像CFGスケール",
   "img2img alternative test": "img2img alternative test（元画像の維持度を調整）",
   "Loopback": "ループバック",
