@@ -5,7 +5,7 @@ from collections import defaultdict
 
 JSON_FOLDER = './template/ja_JP'
 EXTENSIONS_FOLDER = './template/ja_JP/extensions'
-MERGED_FILE = './localizations/test-ja_JP.json'
+MERGED_FILE = './localizations/test.json'
 REPORT_FILE = './tools/merge_report-test.txt'
 
 

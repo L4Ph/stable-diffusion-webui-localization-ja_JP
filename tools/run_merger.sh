@@ -11,6 +11,10 @@ fi
 
 for file in $MERGER_FILES
 do
-    echo "Executing $file"
-    python "$file"
+    if [ "$file" = "./tools/Merger-test.py" ]; then
+        echo "Skipping $file"
+    else
+        echo "Executing $file"
+        python "$file"
+    fi
 done
