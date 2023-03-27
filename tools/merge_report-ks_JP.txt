@@ -9,6 +9,8 @@
 "Image"
 "./template/ks_JP/extensions/DreamArtist-sd-webui-extension.json" - "Image".
 "./template/ks_JP/extensions/training-picker.json" - "Image".
+"./template/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "Image".
+"./template/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Image".
 "./template/ks_JP/extensions/sd_dreambooth_extension.json" - "Image".
 "./template/ks_JP/extensions/a1111-sd-webui-haku-img.json" - "Image".
 "./template/ks_JP/extensions/sd-webui-controlnet.json" - "Image".
@@ -35,11 +37,37 @@
 "Latent Couple"
 "./template/ks_JP/extensions/stable-diffusion-webui-two-shot.json" - "Latent Couple".
 
+"Interrogate"
+"./template/ks_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "Interrogate".
+"./template/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Interrogate".
+
+"Reconstruct prompt from existing image and put it into the prompt field."
+"./template/ks_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "Reconstruct prompt from existing image and put it into the prompt field.".
+"./template/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Reconstruct prompt from existing image and put it into the prompt field.".
+
 "posex"
 "./template/ks_JP/extensions/posex.json" - "posex".
 
 "novelai-2-local-prompt"
 "./template/ks_JP/extensions/novelai-2-local-prompt.json" - "novelai-2-local-prompt".
+
+"Single"
+"./template/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Single".
+
+"Image Directory"
+"./template/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Image Directory".
+
+"Output Directory"
+"./template/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Output Directory".
+
+"Status"
+"./template/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Status".
+
+"Idle"
+"./template/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Idle".
+
+"path/to/output"
+"./template/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "path/to/output".
 
 "Enabled"
 "./template/ks_JP/extensions/sd-webui-cutoff.json" - "Enabled".
@@ -104,6 +132,9 @@
 
 "tab"
 "./template/ks_JP/extensions/sd-dynamic-prompts.json" - "tab".
+
+"artists"
+"./template/ks_JP/extensions/sd-dynamic-prompts.json" - "artists".
 
 "Action"
 "./template/ks_JP/extensions/sd-dynamic-prompts.json" - "Action".
@@ -231,14 +262,11 @@
 "Interrogator"
 "./template/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Interrogator".
 
-"Interrogate"
-"./template/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Interrogate".
-
 "Target"
 "./template/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Target".
 
-"Reconstruct prompt from existing image and put it into the prompt field."
-"./template/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Reconstruct prompt from existing image and put it into the prompt field.".
+"txt"
+"./template/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "txt".
 
 "Auto Translate"
 "./template/ks_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "Auto Translate".
