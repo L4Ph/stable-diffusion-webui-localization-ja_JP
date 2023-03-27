@@ -176,13 +176,13 @@
   "https://github.com/hyd998877/stable-diffusion-webui-auto-translate-language": "https://github.com/hyd998877/stable-diffusion-webui-auto-translate-language",
   "your select language": "あなたの選択した言語",
   "english": "english",
-  "translate prompt.": "translate prompt.",
+  "translate prompt.": "プロンプトを翻訳",
   "en2": "en2",
-  "translate negative prompt.": "translate negative prompt.",
+  "translate negative prompt.": "ネガティブプロンプトを翻訳",
   "N2": "N2",
   "ui text": "ui text",
   "translated text": "翻訳された文字列",
   "load": "読み込み",
-  "translate": "translate",
+  "translate": "翻訳",
   "save": "保存"
 }
