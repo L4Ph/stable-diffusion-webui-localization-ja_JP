@@ -57,5 +57,19 @@ for name, files in file_scope.items():
     progress_list.append('</details>\n\n')
 
 # update README.md with new progress markdown strings
-with open('./README.md', 'r', encoding='utf-8') as file:
-    readme_content
+readme_file = './README.md'
+if not os.path.exists(readme_file):
+    print(f"File not found: '{readme_file}'")
+    exit(1)
+
+with open(readme_file, 'r', encoding='utf-8') as file:
+    readme_content = file.read()
+
+start_index = readme_content.find('## ローカライズの進捗')
+end_index = readme_content.find('## Special Thanks!✨')
+top_content = readme_content[0:start_index]
+bottom_content = readme_content[end_index:len(readme_content)]
+new_content = top_content + ''.join(progress_list) + bottom_content
+
+with open(readme_file, 'w', encoding='utf-8') as f:
+    f.write(new_content)
