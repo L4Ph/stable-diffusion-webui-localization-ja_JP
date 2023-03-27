@@ -1,12 +1,12 @@
 {
-  "Auto Translate": "Auto Translate",
-  "The untranslated characters will be translated automatically and will not affect the old translations. Use the function in the lower right corner to easily check and quickly modify the current translation.1,Save the setting;2,Click start button;3,Reload your browser.": "The untranslated characters will be translated automatically and will not affect the old translations. Use the function in the lower right corner to easily check and quickly modify the current translation.1,Save the setting;2,Click start button;3,Reload your browser.",
+  "Auto Translate": "自動翻訳",
+  "The untranslated characters will be translated automatically and will not affect the old translations. Use the function in the lower right corner to easily check and quickly modify the current translation.1,Save the setting;2,Click start button;3,Reload your browser.": "未翻訳の文字は自動的に翻訳され、古い翻訳に影響を与えることはありません。右下の機能を使うと、現在の翻訳を簡単に確認し、素早く修正することができます。1.設定を保存します。2.開始ボタンをクリックします。3.ブラウザを再読み込みします。",
   "Translated Status": "Translated Status",
   "Start Auto Translate": "Start Auto Translate",
   "Text": "文字列",
   "-->": "-->",
   "<--": "<--",
-  "Translated Text": "Translated Text",
+  "Translated Text": "翻訳された文字列",
   "To Language": "To Language",
   "zh-CN": "zh-CN",
   "af": "af",
@@ -181,8 +181,8 @@
   "translate negative prompt.": "translate negative prompt.",
   "N2": "N2",
   "ui text": "ui text",
-  "translated text": "translated text",
-  "load": "load",
+  "translated text": "翻訳された文字列",
+  "load": "読み込み",
   "translate": "translate",
-  "save": "save"
+  "save": "保存"
 }
