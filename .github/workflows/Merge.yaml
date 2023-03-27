@@ -22,9 +22,8 @@ jobs:
       - run: pip install -r './tools/requirements.txt'
       
       - name: merge translation
-        run: |
-          chmod +x ./tools/run_merger.sh
-          ./tools/run_merger.sh
+        run: python './tools/merge.py'
+        
       - name: run crowdin tool.py
         env:
           crowdin_api_token : ${{ secrets.CROWDIN_PROGRESS_CHECKER_API_KEY }}
