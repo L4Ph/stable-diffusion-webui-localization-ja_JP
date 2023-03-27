@@ -9,6 +9,8 @@
 "Image"
 "./template/ja_JP/extensions/DreamArtist-sd-webui-extension.json" - "画像".
 "./template/ja_JP/extensions/training-picker.json" - "画像".
+"./template/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "画像".
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "画像".
 "./template/ja_JP/extensions/sd_dreambooth_extension.json" - "画像".
 "./template/ja_JP/extensions/a1111-sd-webui-haku-img.json" - "Image".
 "./template/ja_JP/extensions/sd-webui-controlnet.json" - "画像".
@@ -35,11 +37,37 @@
 "Latent Couple"
 "./template/ja_JP/extensions/stable-diffusion-webui-two-shot.json" - "Latent Couple".
 
+"Interrogate"
+"./template/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "インタロゲート".
+"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "インタロゲート".
+
+"Reconstruct prompt from existing image and put it into the prompt field."
+"./template/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "既存の画像からプロンプトを再構築し、プロンプトフィールドに入力します。".
+"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "既存の画像からプロンプトを再構築し、プロンプトフィールドに入力します。".
+
 "posex"
 "./template/ja_JP/extensions/posex.json" - "posex".
 
 "novelai-2-local-prompt"
 "./template/ja_JP/extensions/novelai-2-local-prompt.json" - "novelai-2-local-prompt".
+
+"Single"
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Single".
+
+"Image Directory"
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Image Directory".
+
+"Output Directory"
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Output Directory".
+
+"Status"
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Status".
+
+"Idle"
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Idle".
+
+"path/to/output"
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "path/to/output".
 
 "Enabled"
 "./template/ja_JP/extensions/sd-webui-cutoff.json" - "有効化".
@@ -104,6 +132,9 @@
 
 "tab"
 "./template/ja_JP/extensions/sd-dynamic-prompts.json" - "タブ".
+
+"artists"
+"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "アーティスト".
 
 "Action"
 "./template/ja_JP/extensions/sd-dynamic-prompts.json" - "実行".
@@ -231,14 +262,11 @@
 "Interrogator"
 "./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "インタロゲーター".
 
-"Interrogate"
-"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "インタロゲート".
-
 "Target"
 "./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "対象".
 
-"Reconstruct prompt from existing image and put it into the prompt field."
-"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "既存の画像からプロンプトを再構築し、プロンプトフィールドに入力します。".
+"txt"
+"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "txt".
 
 "Auto Translate"
 "./template/ja_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "Auto Translate".
