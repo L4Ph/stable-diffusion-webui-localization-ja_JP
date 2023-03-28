@@ -96,7 +96,7 @@
     "tooltip": "インスタンスとクラス・イメージを調べて、対応するクラス・イメージのないインスタンスイメージを報告します。"
   },
   "Discord Webhook": {
-    "key": "DiscordをWebフォーク",
+    "key": "Discord Webhook",
     "tooltip": "生成後にトレーニングサンプルをDiscordチャンネルに送信する"
   },
   "Existing Prompt Contents": {
@@ -384,7 +384,7 @@
     "tooltip": "学習中の保存のために、保存セクションで指定されたように重み/チェックポイント/スナップショットを保存する。"
   },
   "Save and Test Webhook": {
-    "key": "Webフォークの保存とテスト",
+    "key": "保存してWebhookをテスト",
     "tooltip": "現在入力されているWebhookのURLを保存し、テストメッセージを送信します。"
   },
   "Save separate diffusers snapshots when saving during training.": {
