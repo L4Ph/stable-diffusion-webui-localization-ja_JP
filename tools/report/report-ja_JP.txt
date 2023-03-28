@@ -1,7 +1,7 @@
 重複したkeyがあります: 
 
 "Fusion"
-"./template/ja_JP/ExtensionList.json" - "フュージョン".
+"./template/ja_JP/ExtensionList.json" - "Fusion".
 
 "DreamArtist"
 "./template/ja_JP/extensions/DreamArtist-sd-webui-extension.json" - "「DreamArtist」機能".
@@ -269,7 +269,7 @@
 "./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "txt".
 
 "Auto Translate"
-"./template/ja_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "Auto Translate".
+"./template/ja_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "自動翻訳".
 
 "Text"
 "./template/ja_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "文字列".
