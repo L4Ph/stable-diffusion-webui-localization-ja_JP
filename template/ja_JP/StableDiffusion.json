@@ -538,7 +538,7 @@
   "sigma tmin": "sigma tmin",
   "sigma noise": "sigma noise",
   "Eta noise seed delta": "Eta noise seed delta",
-  "Always discard next-to-last sigma": "次から最後のシグマを破棄する",
+  "Always discard next-to-last sigma": "常に最後から一つ手前のsigmaを破棄する",
   "UniPC variant": "UniPC ソルバーの種類",
   "bh1": "bh1",
   "bh2": "bh2",
