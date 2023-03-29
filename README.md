@@ -128,7 +128,7 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 <details>
 <summary>WebUI</summary>
 
-- [x] ![ExtensionList translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [ExtensionList](https://raw.githubusercontent.com/wiki/AUTOMATIC1111/stable-diffusion-webui/Extensions-index.md)
+- [ ] ![ExtensionList translated 98%](https://geps.dev/progress/98?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [ExtensionList](https://raw.githubusercontent.com/wiki/AUTOMATIC1111/stable-diffusion-webui/Extensions-index.md)
 - [x] ![StableDiffusion translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 </details>
 
