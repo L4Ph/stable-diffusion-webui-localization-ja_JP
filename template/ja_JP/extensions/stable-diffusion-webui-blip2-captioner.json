@@ -9,7 +9,7 @@
     "Output Caption Extension": "Output Caption Extension",
     "Unload models": "Unload models",
     "Status": "Status",
-    "Idle": "Idle",
+    "Idle": "待機中",
     "Nucleus": "Nucleus",
     "Top-K": "Top-K",
     "Number of beams (0 = no beam search)": "Number of beams (0 = no beam search)",
