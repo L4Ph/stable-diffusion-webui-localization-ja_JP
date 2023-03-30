@@ -11,7 +11,7 @@
   "Lerp": "線形補間",
   "SLerp": "球面線形補間",
   "Debug log": "デバッグログ",
-  "Cutoff Enabled": "Cutoff Enabled",
+  "Cutoff Enabled": "Cutoff 有効化",
   "Cutoff Targets": "Cutoff Targets",
   "Cutoff Weight": "Cutoff Weight",
   "Cutoff Disable for Negative Prompt": "Cutoff Disable for Negative Prompt",
