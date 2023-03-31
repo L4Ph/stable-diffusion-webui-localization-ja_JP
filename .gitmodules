@@ -1,0 +1,3 @@
+[submodule "bilingual"]
+	path = bilingual
+	url = https://github.com/journey-ad/sd-webui-bilingual-localization
