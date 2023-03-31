@@ -52,19 +52,19 @@
 "./template/ja_JP/extensions/novelai-2-local-prompt.json" - "novelai-2-local-prompt".
 
 "Single"
-"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Single".
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "単一".
 
 "Image Directory"
-"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "画像のディレクトリ".
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "画像ディレクトリ".
 
 "Output Directory"
-"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Output Directory".
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "出力ディレクトリ".
 
 "Status"
-"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Status".
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "ステータス".
 
 "Idle"
-"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Idle".
+"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "待機中".
 
 "path/to/output"
 "./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "path/to/output".
@@ -228,9 +228,6 @@
 
 "All"
 "./template/ja_JP/extensions/a1111-sd-webui-haku-img.json" - "All".
-
-"3D Model Loader"
-"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "3Dモデル読み込み".
 
 "Reset"
 "./template/ja_JP/extensions/sd-3dmodel-loader.json" - "リセット".

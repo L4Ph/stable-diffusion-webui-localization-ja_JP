@@ -229,9 +229,6 @@
 "All"
 "./template/ks_JP/extensions/a1111-sd-webui-haku-img.json" - "All".
 
-"3D Model Loader"
-"./template/ks_JP/extensions/sd-3dmodel-loader.json" - "3D Model Loader".
-
 "Reset"
 "./template/ks_JP/extensions/sd-3dmodel-loader.json" - "Reset".
 
