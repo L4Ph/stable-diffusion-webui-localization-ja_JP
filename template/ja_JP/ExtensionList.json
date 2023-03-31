@@ -205,7 +205,7 @@
   "MultiDiffusion with Tiled VAE": "MultiDiffusion with Tiled VAE",
   "Seamless Image Fusion, along with vram efficient tiled vae script.": "シームレスな画像融合、Vram効率の良いタイル状のVAEスクリプトと共に",
   "3D Model&Pose Loader": "3D Model&Pose Loader",
-  "Load your 3D model/animation inside webui, or edit model pose as well, then send screenshot to txt2img or img2img to ControlNet.": "web UI内に3Dモデル/アニメーションを読み込んだり、モデルのポーズを編集してから、スクリーンショットをControlNet用にtxt2imgまたはimg2imgに送信します。",
+  "Load your 3D model/animation inside webui, or edit model pose as well, then send screenshot to txt2img or img2img to ControlNet.": "web UI内に3Dモデル/アニメーションを読み込んだり、モデルのポーズを編集して、スクリーンショットをControlNet用にtxt2imgまたはimg2imgに送信できます。",
   "Corridor Crawler Outpainting": "Corridor Crawler Outpainting",
   "Generate hallways with the depth-to-image model at 512 resolution. It can be tweaked to work with other models/resolutions.": "解像度512の深度画像モデルで廊下を生成します。他のモデル/解像度で動作するように調整することができます。",
   "Panorama Viewer": "Panorama Viewer",
