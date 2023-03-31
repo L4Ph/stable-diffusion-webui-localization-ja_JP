@@ -74,6 +74,9 @@
 "./template/ks_JP/extensions/sd-webui-llul.json" - "Enabled".
 "./template/ks_JP/extensions/unprompted.json" - "Enabled".
 
+"Prompt template file"
+"./template/ks_JP/extensions/Hypernetwork-MonkeyPatch-Extension.json" - "Prompt template file".
+
 "Inspiration"
 "./template/ks_JP/extensions/stable-diffusion-webui-inspiration.json" - "Inspiration".
 
@@ -101,9 +104,6 @@
 
 "SLerp"
 "./template/ks_JP/extensions/sd-webui-llul.json" - "SLerp".
-
-"Prompt template file"
-"./template/ks_JP/extensions/Hypernetwork-Monkeypatch-Extension.json" - "Prompt template file".
 
 "Unprompted"
 "./template/ks_JP/extensions/unprompted.json" - "Unprompted".

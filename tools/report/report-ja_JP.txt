@@ -74,6 +74,9 @@
 "./template/ja_JP/extensions/sd-webui-llul.json" - "有効化".
 "./template/ja_JP/extensions/unprompted.json" - "有効化".
 
+"Prompt template file"
+"./template/ja_JP/extensions/Hypernetwork-MonkeyPatch-Extension.json" - "プロンプトテンプレートファイル".
+
 "Inspiration"
 "./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "インスピレーション".
 
@@ -101,9 +104,6 @@
 
 "SLerp"
 "./template/ja_JP/extensions/sd-webui-llul.json" - "球面線形補間".
-
-"Prompt template file"
-"./template/ja_JP/extensions/Hypernetwork-Monkeypatch-Extension.json" - "プロンプトテンプレートファイル".
 
 "Unprompted"
 "./template/ja_JP/extensions/unprompted.json" - "Unprompted".

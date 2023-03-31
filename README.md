@@ -136,7 +136,7 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 <summary>拡張機能</summary>
 
 - [x] ![DreamArtist-sd-webui-extension translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [DreamArtist-sd-webui-extension](https://github.com/7eu7d7/DreamArtist-sd-webui-extension)
-- [x] ![Hypernetwork-Monkeypatch-Extension translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [Hypernetwork-Monkeypatch-Extension](https://github.com/aria1th/Hypernetwork-MonkeyPatch-Extension)
+- [x] ![Hypernetwork-Monkeypatch-Extension translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [Hypernetwork-Monkeypatch-Extension](https://github.com/7eu7d7/DreamArtist-sd-webui-extension)
 - [x] ![SD-latent-mirroring translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [SD-latent-mirroring](https://github.com/dfaker/SD-latent-mirroring)
 - [x] ![a1111-sd-webui-haku-img translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [a1111-sd-webui-haku-img](https://github.com/KohakuBlueleaf/a1111-sd-webui-haku-img)
 - [x] ![a1111-sd-webui-tagcomplete translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
