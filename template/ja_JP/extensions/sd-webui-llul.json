@@ -21,7 +21,7 @@
   "Pooling Max": "最大ポーリング",
   "Pooling Avg": "平均ポーリング",
   "Enable AA for Downscaling.": "ダウンスケーリングにAAを有効化します。",
-  "interpolation method": "混合方式",
+  "interpolation method": "補間法",
   "Lerp": "線形補間",
   "SLerp": "球面線形補間",
   "LLuL Enabled": "LLuLを有効化",
