@@ -4,7 +4,7 @@
   "Target tokens (comma separated)": "対象となるトークン (カンマ区切り)",
   "Weight": "重み",
   "Details": "詳細",
-  "Disable for Negative prompt.": "ネガティブプロンプトでは無効化する",
+  "Disable for Negative prompt.": "ネガティブプロンプトでは無効化",
   "Cutoff strongly.": "強く遮断する",
   "Padding token (ID or single token)": "詰め替えるトークン (IDまたは単一のトークン)",
   "Interpolation method": "補間法",
