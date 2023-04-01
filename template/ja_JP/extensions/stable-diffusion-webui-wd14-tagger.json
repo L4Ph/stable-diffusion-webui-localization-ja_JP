@@ -54,6 +54,6 @@
     "/path/to/images or /path/to/images/**/*": "/path/to/images または /path/to/images/**/*",
     "Leave blank to save images to the same path.": "空欄で同じパスへ画像を保存",
     "Leave blank to use same filename as original.": "空白のままの場合、元のファイルと同じファイル名を使用",
-    "Reconstruct prompt from existing image and put it into the prompt field.": "既存の画像からプロンプトを再構築し、プロンプトフィールドに入力します。",
+    "Reconstruct prompt from existing image and put it into the prompt field.": "既存の画像からプロンプトを再構築し、プロンプト欄に反映します。",
     "Found tags": "見つかったタグ"
 }
