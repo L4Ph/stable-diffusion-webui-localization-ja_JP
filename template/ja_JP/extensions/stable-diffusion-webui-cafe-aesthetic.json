@@ -16,7 +16,7 @@
     "Basis": "基準",
     "Relative": "相対値",
     "Absolute": "絶対値",
-    "Threshold (Use only when basis is absolute)": "閾値 (基準が絶対値の場合のみ使用)",
+    "Threshold (Use only when basis is absolute)": "しきい値 (基準が絶対値の場合のみ使用)",
     "Start": "開始",
     "Status": "ステータス",
     "Idle": "待機中",
