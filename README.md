@@ -3,11 +3,6 @@
 ## これはなに
 日本語訳用の言語ファイルです。 [AUTOMATIC1111版Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)で使用します。
 
-## 2ヶ国語同時表示対応について
-以下のように2ヶ国語同時表示を可能にする[Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization/blob/main/README_JA.md)拡張機能との併用を推奨します。    
-**バイリンガル対応の拡張機能を標準で組み込んでおり、有効化すればすぐに使えます!**  
-詳しくは[Bilingual-Localizationの利用方法](#Bilingual-Localizationの利用方法)をご覧ください
-![Snipaste_2023-02-28_00-23-45](https://user-images.githubusercontent.com/16256221/221622328-a4e46b1c-f202-4a41-9a56-3df96c823f42.png)
 
 ## 翻訳がおかしい/翻訳を手伝う📘
 ### [Crowdin](https://crowdin.com/project/stable-diffusion-webui-localization-ja_JP/invite?h=cb87e52376d1e1f2ba920b1a8bcccebe1650449)から翻訳ができます!  
@@ -17,6 +12,16 @@ Crowdinの使い方に関して、[sp8999](https://twitter.com/sp8999)さんが�
 翻訳のソースは[stable-diffusion-webui-localization-source](https://github.com/harukaxxxx/stable-diffusion-webui-localization-source)からお借りしています  
 
 また、ご自身で翻訳を始めたいという方へ向けて[テンプレート](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-template)を公開しています!
+
+## 2ヶ国語同時表示対応について
+以下のように2ヶ国語同時表示を可能にする[Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization)拡張機能との併用を推奨します。    
+**バイリンガル対応の拡張機能を標準で組み込んでおり、有効化すればすぐに使えます!** ([9d2551d](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/9d2551d593a683d3bd3344cf708df85648210e1c)以降)  
+詳しくは[Bilingual-Localizationの利用方法](#Bilingual-Localizationの利用方法)をご覧ください  
+![Snipaste_2023-02-28_00-23-45](https://user-images.githubusercontent.com/16256221/221622328-a4e46b1c-f202-4a41-9a56-3df96c823f42.png)
+### バイリンガル拡張機能が動作しない!
+webuiの[9d2551d](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit/9d2551d593a683d3bd3344cf708df85648210e1c)のコミットから`git submodule`がサポートされました。  
+これにより、古いバージョンでのバイリンガル拡張機能の組み込みは機能しません。  
+継続してご利用されたい方は、webui側のアップデートを行う、もしくはご自身で[Bilingual Localization](https://github.com/journey-ad/sd-webui-bilingual-localization)のインストールを行ってください。
 
 # Getting Started
 ## インストール
