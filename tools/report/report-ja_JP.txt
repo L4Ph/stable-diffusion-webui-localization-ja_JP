@@ -42,7 +42,7 @@
 "./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "インタロゲート".
 
 "Reconstruct prompt from existing image and put it into the prompt field."
-"./template/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "既存の画像からプロンプトを再構築し、プロンプトフィールドに入力します。".
+"./template/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "既存の画像からプロンプトを再構築し、プロンプト欄に反映します。".
 "./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "既存の画像からプロンプトを再構築し、プロンプトフィールドに入力します。".
 
 "posex"
