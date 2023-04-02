@@ -134,7 +134,7 @@
 "./template/ja_JP/extensions/sd-dynamic-prompts.json" - "タブ".
 
 "artists"
-"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "アーティスト".
+"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "artists".
 
 "Action"
 "./template/ja_JP/extensions/sd-dynamic-prompts.json" - "実行".
