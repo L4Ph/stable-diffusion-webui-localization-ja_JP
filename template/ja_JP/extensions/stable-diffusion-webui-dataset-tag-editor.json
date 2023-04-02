@@ -160,7 +160,7 @@
   "DELETE File(s)": "ファイルを削除",
   "Number of columns on image gallery": "画像ギャラリーの列数",
   "Force image gallery to use temporary files": "画像ギャラリーで一時ファイルを使用するよう強制する",
-  "Use raw CLIP token to calculate token count (without emphasis or embeddings)": "Use raw CLIP token to calculate token count (without emphasis or embeddings)",
+  "Use raw CLIP token to calculate token count (without emphasis or embeddings)": "未加工のCLIPトークンを使用してトークン数を算出する (強調やembeddingの区別なし)",
   "stable-diffusion-webui-dataset-tag-editor": "stable-diffusion-webui-dataset-tag-editor",
   "https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor": "https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor",
   "C:\\path\\to\\metadata.json": "C:\\path\\to\\metadata.json",
