@@ -13,7 +13,7 @@
   "Tiled VAE": "タイル状のVAE",
   "Enable": "有効化",
   "Move VAE to GPU": "VAEをGPUに移動",
-  "Please use smaller tile size when see CUDA error: out of memory.": "以下のエラー時は小さいタイルタイズをご使用ください。CUDAエラー:メモリ不足。",
+  "Please use smaller tile size when see CUDA error: out of memory.": "CUDA error: out of memoryが発生した場合は、タイルサイズを小さくしてください。",
   "Encoder Tile Size": "エンコーダタイルサイズ",
   "Decoder Tile Size": "デコーダーのタイルサイズ",
   "Reset Tile Size": "タイルサイズをリセット。",
