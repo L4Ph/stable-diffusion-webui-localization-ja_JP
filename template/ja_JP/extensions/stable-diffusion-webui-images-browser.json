@@ -101,5 +101,5 @@
   "Minimum number of pages per load": "ロードあたりの最小ページ数",
   "stable-diffusion-webui-images-browser": "stable-diffusion-webui-images-browser",
   "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git": "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git",
-  "Input images directory": "画像ディレクトリを入力"
+  "Input images directory": "入力画像のディレクトリ"
 }
