@@ -62,7 +62,7 @@
   "cosine": "コサイン",
   "cosine_annealing": "cosine_annealing",
   "cosine_annealing_with_restarts": "cosine_annealing_with_restarts",
-  "cosine_with_restarts": "cosine_with_restart",
+  "cosine_with_restarts": "cosine_with_restarts",
   "polynomial": "多項式",
   "constant": "定数",
   "constant_with_warmup": "constant_with_warmup",
