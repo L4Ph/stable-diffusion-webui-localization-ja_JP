@@ -13,7 +13,7 @@
   "Tiled VAE": "タイル状のVAE",
   "Enable": "有効化",
   "Move VAE to GPU": "VAEをGPUに移動",
-  "Please use smaller tile size when see CUDA error: out of memory.": "以下のエラー時は小さいタイルタイズをご使用ください。CUDAエラー:メモリ不足。",
+  "Please use smaller tile size when see CUDA error: out of memory.": "CUDA error: out of memoryが発生した場合は、タイルサイズを小さくしてください。",
   "Encoder Tile Size": "エンコーダタイルサイズ",
   "Decoder Tile Size": "デコーダーのタイルサイズ",
   "Reset Tile Size": "タイルサイズをリセット。",
@@ -21,6 +21,6 @@
   "Fast Decoder": "高速デコーダ",
   "Fast Encoder may change colors; Can fix it with more RAM and lower speed.": "高速エンコーダは色が変わる可能性があります。メモリを増やしたり低速にする事で色化けは改善できます。",
   "Encoder Color Fix": "エンコーダの色修正",
-  "multidiffusion-upscaler-for-automatic1111": "automatic1111でMultiDiffusionのアップスケーラーを使う",
+  "multidiffusion-upscaler-for-automatic1111": "multidiffusion-upscaler-for-automatic1111",
   "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111.git": "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111.git"
 }
