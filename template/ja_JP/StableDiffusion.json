@@ -419,7 +419,7 @@
   "Do not add watermark to images": "電子透かしを画像に追加しない",
   "Directory for temporary images; leave empty for default": "一時的なイメージのためのディレクトリ、デフォルトでは空",
   "Cleanup non-default temporary directory when starting webui": "webui起動時にデフォルト以外のテンポラリディレクトリをクリーンアップする。",
-  "Output directory for images; if empty, defaults to three directories below": "画像の出力ディレクトリ(空欄の場合、以下の2つのディレクトリが規定の保存先になります)",
+  "Output directory for images; if empty, defaults to three directories below": "画像の出力ディレクトリ(空欄の場合、以下の3つのディレクトリが規定の保存先になります)",
   "Output directory for txt2img images": "txt2img画像の出力ディレクトリ",
   "Output directory for img2img images": "img2img画像の出力ディレクトリ",
   "Output directory for images from extras tab": "その他タブからの画像の出力ディレクトリ",
