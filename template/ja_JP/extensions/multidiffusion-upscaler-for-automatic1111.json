@@ -21,6 +21,6 @@
   "Fast Decoder": "高速デコーダ",
   "Fast Encoder may change colors; Can fix it with more RAM and lower speed.": "高速エンコーダは色が変わる可能性があります。メモリを増やしたり低速にする事で色化けは改善できます。",
   "Encoder Color Fix": "エンコーダの色修正",
-  "multidiffusion-upscaler-for-automatic1111": "automatic1111でMultiDiffusionのアップスケーラーを使う",
+  "multidiffusion-upscaler-for-automatic1111": "multidiffusion-upscaler-for-automatic1111",
   "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111.git": "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111.git"
 }
