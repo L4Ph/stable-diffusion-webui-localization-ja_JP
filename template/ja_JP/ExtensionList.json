@@ -1,6 +1,6 @@
 {
   "Negative Prompt Weight": "Negative Prompt Weight",
-  "Allows users to set a global weight for the negative prompt.": "Allows users to set a global weight for the negative prompt.",
+  "Allows users to set a global weight for the negative prompt.": "ネガティブプロンプト全体の重みを設定できるようにします。",
   "Prompt Translator": "Prompt Translator",
   "Allows users to generate images based on prompts written in 50 different languages. It translates the prompts to english from a selected source language before generating the image.": "50 種類の言語で書かれたプロンプトをもとに、画像を生成できます。 画像を生成する前に、選択した元の言語から英語にプロンプトを翻訳します。",
   "Aesthetic Gradients": "Aesthetic Gradients",
@@ -265,5 +265,5 @@
   "old localizations": "old localizations",
   "Old unmaintained localizations that used to be a part of main repository": "メインリポジトリの一部だった古いメンテナンスされていない翻訳",
   "Abysz LAB": "Abysz LAB",
-  "Temporal Coherence Tools": "Temporal Coherence Tools"
+  "Temporal Coherence Tools": "時間的な一貫性ツール"
 }
