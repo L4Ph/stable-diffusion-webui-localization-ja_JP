@@ -1,7 +1,7 @@
 {
   "Negative Prompt Weight": "ネガティブプロンプトの重み",
   "✕": "✕",
-  "[NPW] Weight": "[NPW] Weight",
+  "[NPW] Weight": "[NPW] 重み",
   "stable-diffusion-NPW": "stable-diffusion-NPW",
   "https://github.com/muerrilla/stable-diffusion-NPW": "https://github.com/muerrilla/stable-diffusion-NPW"
 }
