@@ -134,7 +134,7 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 <summary>WebUI</summary>
 
 - [ ] ![ExtensionList translated 99%](https://geps.dev/progress/99?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [ExtensionList](https://raw.githubusercontent.com/wiki/AUTOMATIC1111/stable-diffusion-webui/Extensions-index.md)
-- [ ] ![StableDiffusion translated 95%](https://geps.dev/progress/95?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [x] ![StableDiffusion translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 </details>
 
 <details>
@@ -193,7 +193,7 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 - [x] ![stable-diffusion-webui-cafe-aesthetic translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-cafe-aesthetic]()
 - [ ] ![Abysz-LAB-Ext translated 0%](https://geps.dev/progress/0?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [Abysz-LAB-Ext]()
 - [ ] ![sd-webui-regional-prompter translated 10%](https://geps.dev/progress/10?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [sd-webui-regional-prompter]()
-- [ ] ![stable-diffusion-NPW translated 42%](https://geps.dev/progress/42?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-NPW]()
+- [x] ![stable-diffusion-NPW translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-NPW]()
 </details>
 
 ## Special Thanks!✨
