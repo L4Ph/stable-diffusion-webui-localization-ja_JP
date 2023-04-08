@@ -16,7 +16,7 @@
   "Enable optimized monocular depth estimation": "最適化された単眼深度推定を有効にする",
   "Only use mid-control when inference": "推論時に mid-control のみを使用する",
   "Enable CFG-Based guidance": "CFG 基準のガイダンスを有効にする",
-  "Passing ControlNet parameters with \"Send to img2img\"": "Passing ControlNet parameters with \"Send to img2img\"",
+  "Passing ControlNet parameters with \"Send to img2img\"": "「img2imgに転送」でControlNetのパラメータを渡す",
   "sd-webui-controlnet": "sd-webui-controlnet",
   "https://github.com/Mikubill/sd-webui-controlnet.git": "https://github.com/Mikubill/sd-webui-controlnet.git",
   "Image": "画像",
