@@ -60,7 +60,7 @@
   "fake_scribble": "fake_scribble",
   "segmentation": "segmentation",
   "binary": "binary",
-  "[ControlNet] Enabled": "[ControlNet] Enabled",
+  "[ControlNet] Enabled": "[ControlNet] 有効化",
   "[ControlNet] Model": "[ControlNet] モデル",
   "[ControlNet] Weight": "[ControlNet] 重み",
   "[ControlNet] Guidance Start": "[ControlNet] Guidance Start",
