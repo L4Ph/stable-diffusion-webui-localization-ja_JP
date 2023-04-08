@@ -225,7 +225,7 @@
   "stable-diffusion-webui-state": "stable-diffusion-webui-state",
   "Preserves the UI state after reload/restart.": "リロード/再起動後にUI状態を保持します。",
   "text2video": "text2video",
-  "Implementation of text2video diffusion models, such as ModelScope or VideoCrafter, using only Auto1111 webui dependencies.": "Implementation of text2video diffusion models, such as ModelScope or VideoCrafter, using only Auto1111 webui dependencies.",
+  "Implementation of text2video diffusion models, such as ModelScope or VideoCrafter, using only Auto1111 webui dependencies.": "ModelScopeやVideoCrafterなどのtext2video拡散モデルの実装では、Auto1111 webuiの依存関係のみを使用しています。",
   "Aspect Ratio Helper": "Aspect Ratio Helper",
   "Easily scale dimensions while retaining the same aspect ratio.": "同じアスペクト比を維持しながら簡単に拡大できます。",
   "Canvas Zoom": "Canvas Zoom",
