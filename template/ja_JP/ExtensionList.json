@@ -1,4 +1,6 @@
 {
+  "Discord - Dynamic Rich Presence": "Discord - Dynamic Rich Presence",
+  "Will show your current sd model selected. Also showing if you are idle, or generating something - in that case, total image/s being generated.": "Will show your current sd model selected. Also showing if you are idle, or generating something - in that case, total image/s being generated.",
   "Negative Prompt Weight": "Negative Prompt Weight",
   "Allows users to set a global weight for the negative prompt.": "ネガティブプロンプト全体の重みを設定できるようにします。",
   "Prompt Translator": "Prompt Translator",
@@ -225,7 +227,7 @@
   "stable-diffusion-webui-state": "stable-diffusion-webui-state",
   "Preserves the UI state after reload/restart.": "リロード/再起動後にUI状態を保持します。",
   "text2video": "text2video",
-  "Implementation of text2video diffusion models, such as ModelScope or VideoCrafter, using only Auto1111 webui dependencies.": "Implementation of text2video diffusion models, such as ModelScope or VideoCrafter, using only Auto1111 webui dependencies.",
+  "Implementation of text2video diffusion models, such as ModelScope or VideoCrafter, using only Auto1111 webui dependencies.": "ModelScopeやVideoCrafterなどのtext2video拡散モデルの実装では、Auto1111 webuiの依存関係のみを使用しています。",
   "Aspect Ratio Helper": "Aspect Ratio Helper",
   "Easily scale dimensions while retaining the same aspect ratio.": "同じアスペクト比を維持しながら簡単に拡大できます。",
   "Canvas Zoom": "Canvas Zoom",
@@ -265,5 +267,7 @@
   "old localizations": "old localizations",
   "Old unmaintained localizations that used to be a part of main repository": "メインリポジトリの一部だった古いメンテナンスされていない翻訳",
   "Abysz LAB": "Abysz LAB",
-  "Temporal Coherence Tools": "時間的な一貫性ツール"
+  "Temporal Coherence Tools": "時間的な一貫性ツール",
+  "PBRemTools": "PBRemTools",
+  "PBRemTools(Precise background remover tools) is a collection of tools to crop backgrounds from a single picture with high accuracy.": "PBRemTools(Precise background remover tools) is a collection of tools to crop backgrounds from a single picture with high accuracy."
 }
