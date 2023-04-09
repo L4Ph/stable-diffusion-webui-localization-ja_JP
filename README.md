@@ -133,7 +133,7 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 <details>
 <summary>WebUI</summary>
 
-- [ ] ![ExtensionList translated 97%](https://geps.dev/progress/97?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [ExtensionList](https://raw.githubusercontent.com/wiki/AUTOMATIC1111/stable-diffusion-webui/Extensions-index.md)
+- [x] ![ExtensionList translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [ExtensionList](https://raw.githubusercontent.com/wiki/AUTOMATIC1111/stable-diffusion-webui/Extensions-index.md)
 - [x] ![StableDiffusion translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [StableDiffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 </details>
 
@@ -191,8 +191,8 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 - [x] ![stable-diffusion-webui-auto-translate-language translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-auto-translate-language]()
 - [x] ![stable-diffusion-webui-blip2-captioner translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-blip2-captioner]()
 - [x] ![stable-diffusion-webui-cafe-aesthetic translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-webui-cafe-aesthetic]()
-- [ ] ![Abysz-LAB-Ext translated 0%](https://geps.dev/progress/0?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [Abysz-LAB-Ext]()
-- [ ] ![sd-webui-regional-prompter translated 17%](https://geps.dev/progress/17?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [sd-webui-regional-prompter]()
+- [ ] ![Abysz-LAB-Ext translated 31%](https://geps.dev/progress/31?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [Abysz-LAB-Ext]()
+- [x] ![sd-webui-regional-prompter translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [sd-webui-regional-prompter]()
 - [x] ![stable-diffusion-NPW translated 100%](https://geps.dev/progress/100?dangerColor=c9f2dc&warningColor=6cc570&successColor=00ff7f) [stable-diffusion-NPW]()
 </details>
 
