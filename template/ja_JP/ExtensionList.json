@@ -1,6 +1,6 @@
 {
   "Discord - Dynamic Rich Presence": "Discord - Dynamic Rich Presence",
-  "Will show your current sd model selected. Also showing if you are idle, or generating something - in that case, total image/s being generated.": "Will show your current sd model selected. Also showing if you are idle, or generating something - in that case, total image/s being generated.",
+  "Will show your current sd model selected. Also showing if you are idle, or generating something - in that case, total image/s being generated.": "ステータスに、現在選択されているsdのモデルが表示されます。また、アイドル状態であるか、何かを生成しているか（その場合、秒あたりの生成枚数）も表示されます。",
   "Negative Prompt Weight": "Negative Prompt Weight",
   "Allows users to set a global weight for the negative prompt.": "ネガティブプロンプト全体の重みを設定できるようにします。",
   "Prompt Translator": "Prompt Translator",
