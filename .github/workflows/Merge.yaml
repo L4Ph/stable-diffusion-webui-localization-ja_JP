@@ -39,11 +39,10 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-   
-jobs:
+
   progress_update:
     runs-on: ubuntu-latest
-      steps:
+    steps:
       - name: checkout repo content
         uses: actions/checkout@v3
 
