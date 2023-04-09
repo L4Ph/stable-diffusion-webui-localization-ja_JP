@@ -1,4 +1,6 @@
 {
+  "Discord - Dynamic Rich Presence": "Discord - Dynamic Rich Presence",
+  "Will show your current sd model selected. Also showing if you are idle, or generating something - in that case, total image/s being generated.": "Will show your current sd model selected. Also showing if you are idle, or generating something - in that case, total image/s being generated.",
   "Negative Prompt Weight": "Negative Prompt Weight",
   "Allows users to set a global weight for the negative prompt.": "Allows users to set a global weight for the negative prompt.",
   "Prompt Translator": "Prompt Translator",
@@ -265,5 +267,7 @@
   "old localizations": "old localizations",
   "Old unmaintained localizations that used to be a part of main repository": "Old unmaintained localizations that used to be a part of main repository",
   "Abysz LAB": "Abysz LAB",
-  "Temporal Coherence Tools": "Temporal Coherence Tools"
+  "Temporal Coherence Tools": "Temporal Coherence Tools",
+  "PBRemTools": "PBRemTools",
+  "PBRemTools(Precise background remover tools) is a collection of tools to crop backgrounds from a single picture with high accuracy.": "PBRemTools(Precise background remover tools) is a collection of tools to crop backgrounds from a single picture with high accuracy."
 }
