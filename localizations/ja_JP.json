@@ -482,7 +482,7 @@
     "Show grid in results for web": "WebUI上でグリッド表示",
     "For inpainting, include the greyscale mask in results for web": "inpaintingで、WebUI上の結果にグレースケールマスクを表示する",
     "For inpainting, include masked composite in results for web": "inpaintingで、WebUI上の結果にマスクされた合成箇所を表示する",
-    "Do not show any images in results for web": "WebUI上で一切画像を表示しない",
+    "Do not show any images in results for web": "WebUIの結果画面に画像を表示しない",
     "Add model hash to generation information": "モデルのハッシュ値を生成情報に追加",
     "Add model name to generation information": "モデルの名称を生成情報に追加",
     "When reading generation parameters from text into UI (from PNG info or pasted text), do not change the selected model/checkpoint.": "テキストからUIに生成パラメータを読み込む場合(PNG情報または貼り付けられたテキストから)、選択されたモデル/チェックポイントは変更しない。",
