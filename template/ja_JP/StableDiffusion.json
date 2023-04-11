@@ -643,7 +643,7 @@
   "Resizes image to this width. If 0, width is inferred from either of two nearby sliders.": "画像をこの幅にリサイズする。0 の場合、幅は近くにある２つのスライダーのいずれかから推定される。",
   "Resizes image to this height. If 0, height is inferred from either of two nearby sliders.": "画像をこの高さにリサイズする。0 の場合、高さは近くにある２つのスライダーのいずれかから推定される。",
   "How many batches of images to create (has no impact on generation performance or VRAM usage)": "作成する画像のバッチ数 (生成パフォーマンスやVRAMの使用に影響を与えません)",
-  "How many image to create in a single batch (increases generation performance at cost of higher VRAM usage)": "一回のバッチで生成する画像の数 (VRAM使用量が増えると生成性能が向上)",
+  "How many image to create in a single batch (increases generation performance at cost of higher VRAM usage)": "一回のバッチで生成する画像の数 (VRAM使用量が増加して生成性能が向上)",
   "Classifier Free Guidance Scale - how strongly the image should conform to prompt - lower values produce more creative results": "Classifier Free Guidance Scale - 画像がプロンプトに従う度合い。値を低くするほど、より創造的な結果が得られます。",
   "A value that determines the output of random number generator - if you create an image with same parameters and seed as another image, you'll get the same result": "乱数生成器の出力を決定する値。同じパラメーターとシードで画像を生成すると、同じ結果が得られます。",
   "Set seed to -1, which will cause a new random number to be used every time": "シードを-1に設定し、毎回新しい乱数を使用します。",
