@@ -29,7 +29,7 @@ webuiの[9d2551d](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit
 2. `Extension index URL`が以下のURLであることを確認したら<kbd>Load From:</kbd>をクリックします。
 ![](./images/official-extensions-list1.png)
 ```
-https://raw.githubusercontent.com/wiki/AUTOMATIC1111/stable-diffusion-webui/Extensions-index.md
+https://raw.githubusercontent.com/AUTOMATIC1111/stable-diffusion-webui-extensions/master/index.json
 ```
 or
 ```
