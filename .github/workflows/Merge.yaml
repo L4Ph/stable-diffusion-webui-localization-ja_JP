@@ -14,10 +14,9 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v3
-        with:
-          repository: Katsuyuki-Karasawa/sd.webui-i18n-source
-          path: template
-          token: ${{ secrets.OTHER_REPO_TOKEN }}
+        
+      - name: clone i18n-source
+        run: git clone https://github.com/Katsuyuki-Karasawa/sd.webui-i18n-source.git template
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -26,6 +25,10 @@ jobs:
 
       - name: merge translation
         run: python './tools/merge.py'
+        
+      - name: delete ./template
+        run: rm -rf template
+        
       - name: commit files
         run: |
           if git diff-index --quiet HEAD --; then
