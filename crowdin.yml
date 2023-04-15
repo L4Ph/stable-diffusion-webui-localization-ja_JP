@@ -1,5 +1,0 @@
-files:
-  - source: /template/source/**/**
-    ignore:
-      - /template/%language%
-    translation: /template/%language%/**/%original_file_name%
