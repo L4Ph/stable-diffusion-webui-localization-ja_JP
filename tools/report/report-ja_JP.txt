@@ -1,356 +1,356 @@
 重複したkeyがあります: 
 
 "Fusion"
-"./template/ja_JP/ExtensionList.json" - "Fusion".
+"./template/i18n/ja_JP/ExtensionList.json" - "Fusion".
 
 "DreamArtist"
-"./template/ja_JP/extensions/DreamArtist-sd-webui-extension.json" - "「DreamArtist」機能".
+"./template/i18n/ja_JP/extensions/DreamArtist-sd-webui-extension.json" - "「DreamArtist」機能".
 
 "Image"
-"./template/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "画像".
-"./template/ja_JP/extensions/sd-webui-controlnet.json" - "画像".
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "画像".
-"./template/ja_JP/extensions/training-picker.json" - "画像".
-"./template/ja_JP/extensions/a1111-sd-webui-haku-img.json" - "Image".
-"./template/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "画像".
-"./template/ja_JP/extensions/sd-webui-regional-prompter.json" - "画像".
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "画像".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "画像".
+"./template/i18n/ja_JP/extensions/sd-webui-controlnet.json" - "画像".
+"./template/i18n/ja_JP/extensions/sd_dreambooth_extension.json" - "画像".
+"./template/i18n/ja_JP/extensions/training-picker.json" - "画像".
+"./template/i18n/ja_JP/extensions/a1111-sd-webui-haku-img.json" - "Image".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "画像".
+"./template/i18n/ja_JP/extensions/sd-webui-regional-prompter.json" - "画像".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "画像".
 
 "sd-webui-controlnet"
-"./template/ja_JP/extensions/sd-webui-controlnet.json" - "sd-webui-controlnet".
+"./template/i18n/ja_JP/extensions/sd-webui-controlnet.json" - "sd-webui-controlnet".
 
 "Randomize"
-"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "ランダム".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "ランダム".
 
 "Enable"
-"./template/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "有効化".
-"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "有効化".
-"./template/ja_JP/extensions/multidiffusion-upscaler-for-automatic1111.json" - "有効化".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-randomize.json" - "有効化".
+"./template/i18n/ja_JP/extensions/sd-webui-additional-networks.json" - "有効化".
+"./template/i18n/ja_JP/extensions/multidiffusion-upscaler-for-automatic1111.json" - "有効化".
 
 "Unprompted"
-"./template/ja_JP/extensions/unprompted.json" - "Unprompted".
+"./template/i18n/ja_JP/extensions/unprompted.json" - "Unprompted".
 
 "img2img"
-"./template/ja_JP/extensions/unprompted.json" - "画像から画像に".
+"./template/i18n/ja_JP/extensions/unprompted.json" - "画像から画像に".
 
 "LLuL"
-"./template/ja_JP/extensions/sd-webui-llul.json" - "LLuL".
+"./template/i18n/ja_JP/extensions/sd-webui-llul.json" - "LLuL".
 
 "Enabled"
-"./template/ja_JP/extensions/sd-webui-llul.json" - "有効化".
-"./template/ja_JP/extensions/sd-webui-cutoff.json" - "有効化".
-"./template/ja_JP/extensions/stable-diffusion-webui-two-shot.json" - "有効化".
+"./template/i18n/ja_JP/extensions/sd-webui-llul.json" - "有効化".
+"./template/i18n/ja_JP/extensions/sd-webui-cutoff.json" - "有効化".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-two-shot.json" - "有効化".
 
 "Weight"
-"./template/ja_JP/extensions/sd-webui-llul.json" - "重み".
-"./template/ja_JP/extensions/sd-webui-cutoff.json" - "重み".
+"./template/i18n/ja_JP/extensions/sd-webui-llul.json" - "重み".
+"./template/i18n/ja_JP/extensions/sd-webui-cutoff.json" - "重み".
 
 "Negative Prompt Weight"
-"./template/ja_JP/extensions/stable-diffusion-NPW.json" - "ネガティブプロンプトの重み".
+"./template/i18n/ja_JP/extensions/stable-diffusion-NPW.json" - "ネガティブプロンプトの重み".
 
 "Dreambooth"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "Dreambooth".
+"./template/i18n/ja_JP/extensions/sd_dreambooth_extension.json" - "Dreambooth".
 
 "Model"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "モデル".
-"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "モデル".
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "モデル".
-"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "モデル".
+"./template/i18n/ja_JP/extensions/sd_dreambooth_extension.json" - "モデル".
+"./template/i18n/ja_JP/extensions/sd-webui-additional-networks.json" - "モデル".
+"./template/i18n/ja_JP/extensions/sd-model-preview-xd.json" - "モデル".
+"./template/i18n/ja_JP/extensions/sd-3dmodel-loader.json" - "モデル".
 
 "Name"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "名前".
+"./template/i18n/ja_JP/extensions/sd_dreambooth_extension.json" - "名前".
 
 "linear"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "linear".
+"./template/i18n/ja_JP/extensions/sd_dreambooth_extension.json" - "linear".
 
 "Path to directory with input images"
-"./template/ja_JP/extensions/sd_dreambooth_extension.json" - "入力画像のあるディレクトリへのパス".
+"./template/i18n/ja_JP/extensions/sd_dreambooth_extension.json" - "入力画像のあるディレクトリへのパス".
 
 "stable-diffusion-webui-state"
-"./template/ja_JP/extensions/stable-diffusion-webui-state.json" - "stable-diffusion-webui-state".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-state.json" - "stable-diffusion-webui-state".
 
 "Dataset Tag Editor"
-"./template/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "データセットタグエディタ".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "データセットタグエディタ".
 
 "shift-attention"
-"./template/ja_JP/extensions/shift-attention.json" - "shift-attention".
+"./template/i18n/ja_JP/extensions/shift-attention.json" - "shift-attention".
 
 "Aspect Ratio Helper"
-"./template/ja_JP/extensions/sd-webui-aspect-ratio-helper.json" - "アスペクト比補助".
+"./template/i18n/ja_JP/extensions/sd-webui-aspect-ratio-helper.json" - "アスペクト比補助".
 
 "sd-webui-tunnels"
-"./template/ja_JP/extensions/sd-webui-tunnels.json" - "sd-webui-tunnels".
+"./template/i18n/ja_JP/extensions/sd-webui-tunnels.json" - "sd-webui-tunnels".
 
 "Description"
-"./template/ja_JP/extensions/sd-webui-additional-networks.json" - "説明".
+"./template/i18n/ja_JP/extensions/sd-webui-additional-networks.json" - "説明".
 
 "Booru tag autocompletion"
-"./template/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Booruタグの自動補完".
+"./template/i18n/ja_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Booruタグの自動補完".
 
 "Process"
-"./template/ja_JP/extensions/training-picker.json" - "プロセス".
+"./template/i18n/ja_JP/extensions/training-picker.json" - "プロセス".
 
 "Number"
-"./template/ja_JP/extensions/training-picker.json" - "Number".
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "Number".
+"./template/i18n/ja_JP/extensions/training-picker.json" - "Number".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "Number".
 
 "training-picker"
-"./template/ja_JP/extensions/training-picker.json" - "training picker".
+"./template/i18n/ja_JP/extensions/training-picker.json" - "training picker".
 
 "Prompt template file"
-"./template/ja_JP/extensions/Hypernetwork-MonkeyPatch-Extension.json" - "プロンプトテンプレートファイル".
+"./template/i18n/ja_JP/extensions/Hypernetwork-MonkeyPatch-Extension.json" - "プロンプトテンプレートファイル".
 
 "Linear"
-"./template/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "線型".
-"./template/ja_JP/extensions/seed_travel.json" - "Linear".
+"./template/i18n/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "線型".
+"./template/i18n/ja_JP/extensions/seed_travel.json" - "Linear".
 
 "Bilingual Localization"
-"./template/ja_JP/extensions/sd-webui-bilingual-localization.json" - "二言語表示".
+"./template/i18n/ja_JP/extensions/sd-webui-bilingual-localization.json" - "二言語表示".
 
 "Inspiration"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "インスピレーション".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "インスピレーション".
 
 "Source"
-"./template/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "入力".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-inspiration.json" - "入力".
 
 "Remove background"
-"./template/ja_JP/extensions/stable-diffusion-webui-rembg.json" - "背景を削除".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-rembg.json" - "背景を削除".
 
 "stable-diffusion-webui-rembg"
-"./template/ja_JP/extensions/stable-diffusion-webui-rembg.json" - "stable-diffusion-webui-rembg".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-rembg.json" - "stable-diffusion-webui-rembg".
 
 "Directories"
-"./template/ja_JP/extensions/sd_smartprocess.json" - "ディレクトリ".
+"./template/i18n/ja_JP/extensions/sd_smartprocess.json" - "ディレクトリ".
 
 "Cancel"
-"./template/ja_JP/extensions/sd_smartprocess.json" - "取消".
+"./template/i18n/ja_JP/extensions/sd_smartprocess.json" - "取消".
 
 "Lerp"
-"./template/ja_JP/extensions/sd-webui-cutoff.json" - "線形補間".
+"./template/i18n/ja_JP/extensions/sd-webui-cutoff.json" - "線形補間".
 
 "SLerp"
-"./template/ja_JP/extensions/sd-webui-cutoff.json" - "球面線形補間".
+"./template/i18n/ja_JP/extensions/sd-webui-cutoff.json" - "球面線形補間".
 
 "Aesthetic Image Scorer"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "審美的な画像スコア".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "審美的な画像スコア".
 
 "cfg_scale"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "cfgスケール".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "cfgスケール".
 
 "seed"
-"./template/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "シード値".
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "シード値".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "シード値".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "シード値".
 
 "novelai-2-local-prompt"
-"./template/ja_JP/extensions/novelai-2-local-prompt.json" - "novelai-2-local-prompt".
+"./template/i18n/ja_JP/extensions/novelai-2-local-prompt.json" - "novelai-2-local-prompt".
 
 "Single"
-"./template/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "単一".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "単一".
 
 "Interrogate"
-"./template/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "インタロゲート".
-"./template/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "インタロゲート".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "インタロゲート".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "インタロゲート".
 
 "Image Directory"
-"./template/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "画像ディレクトリ".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "画像ディレクトリ".
 
 "Output Directory"
-"./template/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "出力ディレクトリ".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "出力ディレクトリ".
 
 "Status"
-"./template/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "ステータス".
-"./template/ja_JP/extensions/Abysz-LAB-Ext.json" - "ステータス".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "ステータス".
+"./template/i18n/ja_JP/extensions/Abysz-LAB-Ext.json" - "ステータス".
 
 "Idle"
-"./template/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "待機中".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "待機中".
 
 "Reconstruct prompt from existing image and put it into the prompt field."
-"./template/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "既存の画像からプロンプトを再構築し、プロンプト欄に反映します。".
-"./template/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "既存の画像からプロンプトを再構築し、プロンプト欄に反映します。".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "既存の画像からプロンプトを再構築し、プロンプト欄に反映します。".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "既存の画像からプロンプトを再構築し、プロンプト欄に反映します。".
 
 "path/to/output"
-"./template/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "path/to/output".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "path/to/output".
 
 "txt"
-"./template/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "txt".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "txt".
 
 "Latent Couple"
-"./template/ja_JP/extensions/stable-diffusion-webui-two-shot.json" - "Latent Couple".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-two-shot.json" - "Latent Couple".
 
 "Regional Prompter"
-"./template/ja_JP/extensions/sd-webui-regional-prompter.json" - "Regional Prompter".
+"./template/i18n/ja_JP/extensions/sd-webui-regional-prompter.json" - "Regional Prompter".
 
 "Horizontal"
-"./template/ja_JP/extensions/sd-webui-regional-prompter.json" - "水平方向".
+"./template/i18n/ja_JP/extensions/sd-webui-regional-prompter.json" - "水平方向".
 
 "Vertical"
-"./template/ja_JP/extensions/sd-webui-regional-prompter.json" - "垂直方向".
+"./template/i18n/ja_JP/extensions/sd-webui-regional-prompter.json" - "垂直方向".
 
 "Save results as video"
-"./template/ja_JP/extensions/seed_travel.json" - "結果を動画として保存".
+"./template/i18n/ja_JP/extensions/seed_travel.json" - "結果を動画として保存".
 
 "Frames per second"
-"./template/ja_JP/extensions/seed_travel.json" - "フレーム/秒".
+"./template/i18n/ja_JP/extensions/seed_travel.json" - "フレーム/秒".
 
 "Number of frames for lead in/out"
-"./template/ja_JP/extensions/seed_travel.json" - "リードイン/アウトのフレーム数".
+"./template/i18n/ja_JP/extensions/seed_travel.json" - "リードイン/アウトのフレーム数".
 
 "Upscale ratio"
-"./template/ja_JP/extensions/seed_travel.json" - "アップスケール比".
+"./template/i18n/ja_JP/extensions/seed_travel.json" - "アップスケール比".
 
 "Show generated images in ui"
-"./template/ja_JP/extensions/seed_travel.json" - "生成された画像を Ui で表示する".
+"./template/i18n/ja_JP/extensions/seed_travel.json" - "生成された画像を Ui で表示する".
 
 "Output"
-"./template/ja_JP/extensions/stable-diffusion-webui-text2prompt.json" - "出力".
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "出力".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-text2prompt.json" - "出力".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "出力".
 
 "NONE"
-"./template/ja_JP/extensions/stable-diffusion-webui-text2prompt.json" - "なし".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-text2prompt.json" - "なし".
 
 "Checkpoints"
-"./template/ja_JP/extensions/sd-model-preview-xd.json" - "チェックポイント".
+"./template/i18n/ja_JP/extensions/sd-model-preview-xd.json" - "Checkpoints".
 
 "for"
-"./template/ja_JP/extensions/auto-sd-paint-ext.json" - "for".
+"./template/i18n/ja_JP/extensions/auto-sd-paint-ext.json" - "for".
 
 "auto-sd-paint-ext"
-"./template/ja_JP/extensions/auto-sd-paint-ext.json" - "auto-sd-paint-ext".
+"./template/i18n/ja_JP/extensions/auto-sd-paint-ext.json" - "auto-sd-paint-ext".
 
 "Auto Translate"
-"./template/ja_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "自動翻訳".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "自動翻訳".
 
 "no"
-"./template/ja_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "no".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "no".
 
 "Sort by"
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "ソート".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "ソート".
 
 "path name"
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "パス名".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "パス名".
 
 "date"
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "日付".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "日付".
 
 "aesthetic_score"
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "美的スコア".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "美的スコア".
 
 "sampler"
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "サンプラー".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "サンプラー".
 
 "No"
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "No".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "No".
 
 "All"
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "All".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "All".
 
 "Generate Info"
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "生成時の情報".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "生成時の情報".
 
 "Checkbox"
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "チェックボックス".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "チェックボックス".
 
 "Number of rows on the page"
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "ページ上の行数".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "ページ上の行数".
 
 "Minimum number of pages per load"
-"./template/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "ロードあたりの最小ページ数".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-images-browser.json" - "ロードあたりの最小ページ数".
 
 "Deforum"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "拡張機能「Deforum」".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "拡張機能「Deforum」".
 
 "!"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "!".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "!".
 
 "ControlNet"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "ControlNet".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "ControlNet".
 
 "Override settings"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "設定を上書き".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "設定を上書き".
 
 "The"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "The".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "The".
 
 "Blend"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Layerで合成".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "Layerで合成".
 
 "Video"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "動画".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "動画".
 
 "/"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "/".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "/".
 
 "Image path"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "画像のパス".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "画像のパス".
 
 "Save Settings"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "設定を保存".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "設定を保存".
 
 "Load Settings"
-"./template/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "設定の読み込み".
+"./template/i18n/ja_JP/extensions/deforum-for-automatic1111-webui.json" - "設定の読み込み".
 
 "Latent Mirroring"
-"./template/ja_JP/extensions/SD-latent-mirroring.json" - "鏡映化".
+"./template/i18n/ja_JP/extensions/SD-latent-mirroring.json" - "鏡映化".
 
 "VRAM Estimator"
-"./template/ja_JP/extensions/a1111-stable-diffusion-webui-vram-estimator.json" - "VRAM推定使用量チェック".
+"./template/i18n/ja_JP/extensions/a1111-stable-diffusion-webui-vram-estimator.json" - "VRAM推定使用量チェック".
 
 "posex"
-"./template/ja_JP/extensions/posex.json" - "posex".
+"./template/i18n/ja_JP/extensions/posex.json" - "posex".
 
 "OpenPose Editor"
-"./template/ja_JP/extensions/openpose-editor.json" - "OpenPoseエディタ".
+"./template/i18n/ja_JP/extensions/openpose-editor.json" - "OpenPoseエディタ".
 
 "width"
-"./template/ja_JP/extensions/openpose-editor.json" - "幅".
+"./template/i18n/ja_JP/extensions/openpose-editor.json" - "幅".
 
 "height"
-"./template/ja_JP/extensions/openpose-editor.json" - "高さ".
+"./template/i18n/ja_JP/extensions/openpose-editor.json" - "高さ".
 
 "Preset"
-"./template/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "プリセット".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "プリセット".
 
 "Interrogator"
-"./template/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "インタロゲーター".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "インタロゲーター".
 
 "Tags"
-"./template/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "タグ".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "タグ".
 
 "Abysz LAB"
-"./template/ja_JP/extensions/Abysz-LAB-Ext.json" - "Abysz LAB".
+"./template/i18n/ja_JP/extensions/Abysz-LAB-Ext.json" - "Abysz LAB".
 
 "Advanced"
-"./template/ja_JP/extensions/Abysz-LAB-Ext.json" - "高度な設定".
+"./template/i18n/ja_JP/extensions/Abysz-LAB-Ext.json" - "高度な設定".
 
 "|"
-"./template/ja_JP/extensions/Abysz-LAB-Ext.json" - "|".
+"./template/i18n/ja_JP/extensions/Abysz-LAB-Ext.json" - "|".
 
 "Text"
-"./template/ja_JP/extensions/stable-diffusion-webui-tokenizer.json" - "文字列".
+"./template/i18n/ja_JP/extensions/stable-diffusion-webui-tokenizer.json" - "文字列".
 
 "Target"
-"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "ターゲット".
+"./template/i18n/ja_JP/extensions/sd-3dmodel-loader.json" - "ターゲット".
 
 "Reset"
-"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "リセット".
+"./template/i18n/ja_JP/extensions/sd-3dmodel-loader.json" - "リセット".
 
 "Send to"
-"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "転送する".
+"./template/i18n/ja_JP/extensions/sd-3dmodel-loader.json" - "転送する".
 
 "Canvas Width"
-"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "キャンバスの幅".
+"./template/i18n/ja_JP/extensions/sd-3dmodel-loader.json" - "キャンバスの幅".
 
 "Canvas Height"
-"./template/ja_JP/extensions/sd-3dmodel-loader.json" - "キャンバスの高さ".
+"./template/i18n/ja_JP/extensions/sd-3dmodel-loader.json" - "キャンバスの高さ".
 
 "Dynamic Prompts"
-"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "Dynamic Prompts".
+"./template/i18n/ja_JP/extensions/sd-dynamic-prompts.json" - "Dynamic Prompts".
 
 "tab"
-"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "タブ".
+"./template/i18n/ja_JP/extensions/sd-dynamic-prompts.json" - "タブ".
 
 "artists"
-"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "artists".
+"./template/i18n/ja_JP/extensions/sd-dynamic-prompts.json" - "artists".
 
 "Action"
-"./template/ja_JP/extensions/sd-dynamic-prompts.json" - "実行".
+"./template/i18n/ja_JP/extensions/sd-dynamic-prompts.json" - "実行".
