@@ -3,7 +3,7 @@ import os
 import glob
 from collections import defaultdict
 
-TEMPLATE_FOLDER = './template'
+TEMPLATE_FOLDER = './template/i18n'
 LOCALIZATIONS_FOLDER = './localizations'
 REPORT_FILE = os.path.join(os.getcwd(), 'tools', 'report', 'report.txt')
 
