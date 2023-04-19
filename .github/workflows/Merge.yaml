@@ -14,6 +14,11 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v3
+        with:
+          submodules: recursive
+          
+      - name: Update submodules
+        run: git submodule update --recursive --remote
         
       - name: clone i18n-source
         run: git clone https://github.com/Katsuyuki-Karasawa/sd.webui-i18n-source.git template
