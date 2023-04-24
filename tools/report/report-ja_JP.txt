@@ -101,7 +101,7 @@
 "./template/i18n/ja_JP/extensions/Hypernetwork-MonkeyPatch-Extension.json" - "プロンプトテンプレートファイル".
 
 "Linear"
-"./template/i18n/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "線型".
+"./template/i18n/ja_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Linear".
 "./template/i18n/ja_JP/extensions/seed_travel.json" - "Linear".
 
 "Bilingual Localization"
