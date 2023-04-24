@@ -27,7 +27,7 @@ webuiの[9d2551d](https://github.com/AUTOMATIC1111/stable-diffusion-webui/commit
 ## インストール
 1. <kbd>Extensions</kbd>タブをクリックし、<kbd>Available</kbd>をクリックします。
 2. `Extension index URL`が以下のURLであることを確認したら<kbd>Load From:</kbd>をクリックします。
-![](./images/official-extensions-list1.png)
+![](./images/official-extensions-list1.avif)
 ```
 https://raw.githubusercontent.com/AUTOMATIC1111/stable-diffusion-webui-extensions/master/index.json
 ```
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/Katsuyuki-Karasawa/sd.webui-Extension-ja_JP/ma
 
 3. 読込まれたことが確認できたら、`Hide extensions with tags`を<kbd>localization</kbd>**以外**にチェックマークを付けます。(<kbd>localization</kbd>にはつけません)
 4. 各言語が出てきますので、`ja_JP Localization`の項目の<kbd>Install</kbd>をクリックします。
-![](./images/official-extensions-list2.png)
+![](./images/official-extensions-list2.avif)
 5. `Installed into...`と表示されたら、[利用方法](#利用方法)へ移動してください。
 
 <details>
@@ -51,13 +51,13 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ```
 2. <kbd>Install</kbd>をクリックします。
 3. `Installed into...`と表示されたら、[利用方法](#利用方法)へ移動してください。
-![](./images/install-from-url.png)
+![](./images/install-from-url.avif)
 
 
 ## 手動でインストール
 1. [zipファイル](https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/archive/refs/heads/main.zip)をダウンロードします。
 2. ダウンロードしたzipを`stable-diffusion-webui`以下の`extensions`に移動させます。
-![](./images/local-install-dir.png)
+![](./images/local-install-dir.avif)
 3. zipファイルを右クリックして、**すべて展開**します。
 4. 展開されたことが確認できたら、[利用方法](#利用方法)へ移動してください。
 
@@ -66,9 +66,9 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 **また、この手順はアップデートにて廃止される可能性があるためご注意ください。**  
 1. [jsonファイル](https://raw.githubusercontent.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP/main/localizations/ja_JP.json)にアクセスする。
 2. 右クリックから`名前を付けて保存...`、もしくは`Ctrl+S`で保存します。  
-![](./images/save-json.png)
+![](./images/save-json.avif)
 3. 保存先は`stable-diffusion-webui`以下の`localizations`です。  
-![](./images/local-json-dir.png)
+![](./images/local-json-dir.avif)
 4. 保存されたことを確認したら、[利用方法](#利用方法)へ移動してください。  
 </details>
 
@@ -76,7 +76,7 @@ https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
 ### 日本語化ファイルを読み込む
 1. <kbd>Settings</kbd>タブへ移動します。
 2. <kbd>Settings</kbd>タブから`Localization (requires restart)`の項目を探します。
-![](./images/localozation-section.png)
+![](./images/localozation-section.avif)
 3. ドロップダウンリストから`ja-JP`を選択します。(もし、出てこない場合は右側の🔄から再読込してください。)
 
 ### Bilingual-Localizationの利用方法
