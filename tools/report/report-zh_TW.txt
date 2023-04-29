@@ -1,0 +1,356 @@
+重複したkeyがあります: 
+
+"Fusion"
+"./template/i18n/zh_TW/ExtensionList.json" - "Fusion".
+
+"Deforum"
+"./template/i18n/zh_TW/extensions/deforum-for-automatic1111-webui.json" - "Deforum".
+
+"Override settings"
+"./template/i18n/zh_TW/extensions/deforum-for-automatic1111-webui.json" - "Override settings".
+
+"Randomize"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-randomize.json" - "Randomize".
+
+"OpenPose Editor"
+"./template/i18n/zh_TW/extensions/openpose-editor.json" - "OpenPose Editor".
+
+"Reset"
+"./template/i18n/zh_TW/extensions/openpose-editor.json" - "Reset".
+
+"Send to"
+"./template/i18n/zh_TW/extensions/openpose-editor.json" - "Send to".
+
+"Latent Mirroring"
+"./template/i18n/zh_TW/extensions/SD-latent-mirroring.json" - "Latent Mirroring".
+
+"Bilingual Localization"
+"./template/i18n/zh_TW/extensions/sd-webui-bilingual-localization.json" - "Bilingual Localization".
+
+"novelai-2-local-prompt"
+"./template/i18n/zh_TW/extensions/novelai-2-local-prompt.json" - "novelai-2-local-prompt".
+
+"Auto Translate"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-auto-translate-language.json" - "Auto Translate".
+
+"Text"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-tokenizer.json" - "Text".
+
+"Enable"
+"./template/i18n/zh_TW/extensions/multidiffusion-upscaler-for-automatic1111.json" - "Enable".
+"./template/i18n/zh_TW/extensions/sd-webui-additional-networks.json" - "Enable".
+"./template/i18n/zh_TW/extensions/sd-webui-controlnet.json" - "Enable".
+
+"LLuL"
+"./template/i18n/zh_TW/extensions/sd-webui-llul.json" - "LLuL".
+
+"Unprompted"
+"./template/i18n/zh_TW/extensions/unprompted.json" - "Unprompted".
+
+"Enabled"
+"./template/i18n/zh_TW/extensions/unprompted.json" - "Enabled".
+"./template/i18n/zh_TW/extensions/sd-webui-cutoff.json" - "Enabled".
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-two-shot.json" - "Enabled".
+
+"img2img"
+"./template/i18n/zh_TW/extensions/unprompted.json" - "img2img".
+
+"Image path"
+"./template/i18n/zh_TW/extensions/unprompted.json" - "Image path".
+
+"Blend"
+"./template/i18n/zh_TW/extensions/a1111-sd-webui-haku-img.json" - "Blend".
+
+"All"
+"./template/i18n/zh_TW/extensions/a1111-sd-webui-haku-img.json" - "All".
+
+"Image"
+"./template/i18n/zh_TW/extensions/a1111-sd-webui-haku-img.json" - "Image".
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Image".
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-blip2-captioner.json" - "Image".
+"./template/i18n/zh_TW/extensions/sd-webui-regional-prompter.json" - "Image".
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "Image".
+"./template/i18n/zh_TW/extensions/DreamArtist-sd-webui-extension.json" - "Image".
+"./template/i18n/zh_TW/extensions/sd-webui-controlnet.json" - "Image".
+"./template/i18n/zh_TW/extensions/training-picker.json" - "Image".
+
+"width"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-state.json" - "width".
+
+"height"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-state.json" - "height".
+
+"seed"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-state.json" - "seed".
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "seed".
+
+"stable-diffusion-webui-state"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-state.json" - "stable-diffusion-webui-state".
+
+"Aspect Ratio Helper"
+"./template/i18n/zh_TW/extensions/sd-webui-aspect-ratio-helper.json" - "Aspect Ratio Helper".
+
+"Single"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-blip2-captioner.json" - "Single".
+
+"Image Directory"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-blip2-captioner.json" - "Image Directory".
+
+"Output Directory"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-blip2-captioner.json" - "Output Directory".
+
+"Status"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-blip2-captioner.json" - "Status".
+"./template/i18n/zh_TW/extensions/Abysz-LAB-Ext.json" - "Status".
+
+"Idle"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-blip2-captioner.json" - "Idle".
+
+"path/to/output"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-blip2-captioner.json" - "path/to/output".
+
+"Linear"
+"./template/i18n/zh_TW/extensions/seed_travel.json" - "Linear".
+"./template/i18n/zh_TW/extensions/ultimate-upscale-for-automatic1111.json" - "Linear".
+
+"Regional Prompter"
+"./template/i18n/zh_TW/extensions/sd-webui-regional-prompter.json" - "Regional Prompter".
+
+"Inspiration"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-inspiration.json" - "Inspiration".
+
+"Source"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-inspiration.json" - "Source".
+
+"Number of rows on the page"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-inspiration.json" - "Number of rows on the page".
+
+"Minimum number of pages per load"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-inspiration.json" - "Minimum number of pages per load".
+
+"Checkpoints"
+"./template/i18n/zh_TW/extensions/sd-model-preview-xd.json" - "Checkpoints".
+
+"Model"
+"./template/i18n/zh_TW/extensions/sd-model-preview-xd.json" - "Model".
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "Model".
+"./template/i18n/zh_TW/extensions/sd-webui-additional-networks.json" - "Model".
+"./template/i18n/zh_TW/extensions/sd-webui-controlnet.json" - "Model".
+
+"Booru tag autocompletion"
+"./template/i18n/zh_TW/extensions/a1111-sd-webui-tagcomplete.json" - "Booru tag autocompletion".
+
+"posex"
+"./template/i18n/zh_TW/extensions/posex.json" - "posex".
+
+"Dreambooth"
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "Dreambooth".
+
+"Load Settings"
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "Load Settings".
+
+"Save Settings"
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "Save Settings".
+
+"Cancel"
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "Cancel".
+
+"Name"
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "Name".
+
+"linear"
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "linear".
+
+"no"
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "no".
+
+"Directories"
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "Directories".
+
+"Output"
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "Output".
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-text2prompt.json" - "Output".
+
+"Checkbox"
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "Checkbox".
+
+"Path to directory with input images"
+"./template/i18n/zh_TW/extensions/sd_dreambooth_extension.json" - "Path to directory with input images".
+
+"Interrogate"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-wd14-tagger.json" - "Interrogate".
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Interrogate".
+
+"Preset"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-wd14-tagger.json" - "Preset".
+
+"Reconstruct prompt from existing image and put it into the prompt field."
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-wd14-tagger.json" - "Reconstruct prompt from existing image and put it into the prompt field.".
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Reconstruct prompt from existing image and put it into the prompt field.".
+
+"/"
+"./template/i18n/zh_TW/extensions/auto-sd-paint-ext.json" - "/".
+
+"!"
+"./template/i18n/zh_TW/extensions/auto-sd-paint-ext.json" - "!".
+
+"The"
+"./template/i18n/zh_TW/extensions/auto-sd-paint-ext.json" - "The".
+
+"for"
+"./template/i18n/zh_TW/extensions/auto-sd-paint-ext.json" - "for".
+
+"auto-sd-paint-ext"
+"./template/i18n/zh_TW/extensions/auto-sd-paint-ext.json" - "auto-sd-paint-ext".
+
+"DreamArtist"
+"./template/i18n/zh_TW/extensions/DreamArtist-sd-webui-extension.json" - "DreamArtist".
+
+"Description"
+"./template/i18n/zh_TW/extensions/sd-webui-additional-networks.json" - "Description".
+
+"Tags"
+"./template/i18n/zh_TW/extensions/sd-webui-additional-networks.json" - "Tags".
+
+"Generate Info"
+"./template/i18n/zh_TW/extensions/sd-webui-additional-networks.json" - "Generate Info".
+
+"date"
+"./template/i18n/zh_TW/extensions/sd-webui-additional-networks.json" - "date".
+
+"path name"
+"./template/i18n/zh_TW/extensions/sd-webui-additional-networks.json" - "path name".
+
+"Dataset Tag Editor"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Dataset Tag Editor".
+
+"No"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "No".
+
+"Sort by"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Sort by".
+
+"Number"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Number".
+"./template/i18n/zh_TW/extensions/training-picker.json" - "Number".
+
+"Interrogator"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Interrogator".
+
+"Target"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Target".
+
+"txt"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "txt".
+
+"sd-webui-tunnels"
+"./template/i18n/zh_TW/extensions/sd-webui-tunnels.json" - "sd-webui-tunnels".
+
+"ControlNet"
+"./template/i18n/zh_TW/extensions/sd-webui-controlnet.json" - "ControlNet".
+
+"sd-webui-controlnet"
+"./template/i18n/zh_TW/extensions/sd-webui-controlnet.json" - "sd-webui-controlnet".
+
+"Weight"
+"./template/i18n/zh_TW/extensions/sd-webui-controlnet.json" - "Weight".
+"./template/i18n/zh_TW/extensions/sd-webui-cutoff.json" - "Weight".
+
+"Canvas Width"
+"./template/i18n/zh_TW/extensions/sd-webui-controlnet.json" - "Canvas Width".
+
+"Canvas Height"
+"./template/i18n/zh_TW/extensions/sd-webui-controlnet.json" - "Canvas Height".
+
+"Abysz LAB"
+"./template/i18n/zh_TW/extensions/Abysz-LAB-Ext.json" - "Abysz LAB".
+
+"Advanced"
+"./template/i18n/zh_TW/extensions/Abysz-LAB-Ext.json" - "Advanced".
+
+"|"
+"./template/i18n/zh_TW/extensions/Abysz-LAB-Ext.json" - "|".
+
+"Lerp"
+"./template/i18n/zh_TW/extensions/sd-webui-cutoff.json" - "Lerp".
+
+"SLerp"
+"./template/i18n/zh_TW/extensions/sd-webui-cutoff.json" - "SLerp".
+
+"Latent Couple"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-two-shot.json" - "Latent Couple".
+
+"Prompt template file"
+"./template/i18n/zh_TW/extensions/Hypernetwork-MonkeyPatch-Extension.json" - "Prompt template file".
+
+"stable-diffusion-webui-rembg"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-rembg.json" - "stable-diffusion-webui-rembg".
+
+"Vertical"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-depthmap-script.json" - "Vertical".
+
+"Horizontal"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-depthmap-script.json" - "Horizontal".
+
+"Remove background"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-depthmap-script.json" - "Remove background".
+
+"Video"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-depthmap-script.json" - "Video".
+
+"VRAM Estimator"
+"./template/i18n/zh_TW/extensions/a1111-stable-diffusion-webui-vram-estimator.json" - "VRAM Estimator".
+
+"Process"
+"./template/i18n/zh_TW/extensions/training-picker.json" - "Process".
+
+"training-picker"
+"./template/i18n/zh_TW/extensions/training-picker.json" - "training-picker".
+
+"Negative Prompt Weight"
+"./template/i18n/zh_TW/extensions/stable-diffusion-NPW.json" - "Negative Prompt Weight".
+
+"Dynamic Prompts"
+"./template/i18n/zh_TW/extensions/sd-dynamic-prompts.json" - "Dynamic Prompts".
+
+"tab"
+"./template/i18n/zh_TW/extensions/sd-dynamic-prompts.json" - "tab".
+
+"artists"
+"./template/i18n/zh_TW/extensions/sd-dynamic-prompts.json" - "artists".
+
+"Action"
+"./template/i18n/zh_TW/extensions/sd-dynamic-prompts.json" - "Action".
+
+"NONE"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-text2prompt.json" - "NONE".
+
+"Show generated images in ui"
+"./template/i18n/zh_TW/extensions/shift-attention.json" - "Show generated images in ui".
+
+"Save results as video"
+"./template/i18n/zh_TW/extensions/shift-attention.json" - "Save results as video".
+
+"Frames per second"
+"./template/i18n/zh_TW/extensions/shift-attention.json" - "Frames per second".
+
+"Number of frames for lead in/out"
+"./template/i18n/zh_TW/extensions/shift-attention.json" - "Number of frames for lead in/out".
+
+"Upscale ratio"
+"./template/i18n/zh_TW/extensions/shift-attention.json" - "Upscale ratio".
+
+"shift-attention"
+"./template/i18n/zh_TW/extensions/shift-attention.json" - "shift-attention".
+
+"Aesthetic Image Scorer"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "Aesthetic Image Scorer".
+
+"aesthetic_score"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "aesthetic_score".
+
+"sampler"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "sampler".
+
+"cfg_scale"
+"./template/i18n/zh_TW/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "cfg_scale".
