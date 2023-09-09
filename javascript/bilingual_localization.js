@@ -94,7 +94,7 @@
     }
     `
 
-  let i18n = null, i18nRegex = {}, i18nScope = {}, scopedSource = {}, config = null;
+  let i18n = null, i18nRegex = new Map(), i18nScope = {}, scopedSource = {}, config = null;
 
   // First load
   function setup() {
@@ -116,14 +116,28 @@
     logger.log('Bilingual Localization initialized.')
 
     // Load localization file
-    const regex_scope = /^##(?<scope>\S+)##(?<skey>\S+)$/ // ##scope##.skey
+    const regex_scope = /^##(?<scope>.+)##(?<skey>.+)$/ // ##scope##.skey
     i18n = JSON.parse(readFile(dirs[file]), (key, value) => {
       // parse regex translations
       if (key.startsWith('@@')) {
-        i18nRegex[key.slice(2)] = value
+        const regex = getRegex(key.slice(2))
+        if (regex instanceof RegExp) {
+          i18nRegex.set(regex, value)
+        }
       } else if (regex_scope.test(key)) {
         // parse scope translations
-        const { scope, skey } = key.match(regex_scope).groups
+        let { scope, skey } = key.match(regex_scope).groups
+
+        if (scope.startsWith('@')) {
+          scope = scope.slice(1)
+        } else {
+          scope = '#' + scope
+        }
+
+        if (!scope.length) {
+          return value
+        }
+
         i18nScope[scope] ||= {}
         i18nScope[scope][skey] = value
 
@@ -242,11 +256,10 @@
   }
 
   function checkRegex(source) {
-    for (let regex in i18nRegex) {
-      regex = getRegex(regex)
-      if (regex && regex.test(source)) {
-        logger.log('regex', regex, source)
-        return source.replace(regex, i18nRegex[regex])
+    for (const [regex, value] of i18nRegex.entries()) {
+      if (regex.test(source)) {
+        logger.log('regex', regex, source, value)
+        return source.replace(regex, value)
       }
     }
   }
@@ -265,9 +278,9 @@
       scopes = scopedSource[source]
 
     if (scopes) {
-      console.log('scope', el, source);
+      console.log('scope', el, source, scopes);
       for (let scope of scopes) {
-        if (el.parentElement.closest(`#${scope}`)) {
+        if (el.parentElement.closest(scope)) {
           translation = i18nScope[scope][source]
           break
         }
