@@ -3,182 +3,90 @@
 "Fusion"
 "./template/i18n/ks_JP/ExtensionList.json" - "Fusion".
 
-"Dreambooth"
-"./template/i18n/ks_JP/extensions/sd_dreambooth_extension.json" - "Dreambooth".
-
-"Name"
-"./template/i18n/ks_JP/extensions/sd_dreambooth_extension.json" - "Name".
-
-"linear"
-"./template/i18n/ks_JP/extensions/sd_dreambooth_extension.json" - "linear".
-
-"Path to directory with input images"
-"./template/i18n/ks_JP/extensions/sd_dreambooth_extension.json" - "Path to directory with input images".
-
-"Image"
-"./template/i18n/ks_JP/extensions/a1111-sd-webui-haku-img.json" - "Image".
-"./template/i18n/ks_JP/extensions/DreamArtist-sd-webui-extension.json" - "Image".
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "Image".
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "Image".
-"./template/i18n/ks_JP/extensions/sd-webui-controlnet.json" - "Image".
-"./template/i18n/ks_JP/extensions/sd-webui-regional-prompter.json" - "Image".
-"./template/i18n/ks_JP/extensions/training-picker.json" - "Image".
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Image".
-
-"Dynamic Prompts"
-"./template/i18n/ks_JP/extensions/sd-dynamic-prompts.json" - "Dynamic Prompts".
-
-"tab"
-"./template/i18n/ks_JP/extensions/sd-dynamic-prompts.json" - "tab".
-
-"Action"
-"./template/i18n/ks_JP/extensions/sd-dynamic-prompts.json" - "Action".
-
-"Auto Translate"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "Auto Translate".
-
-"no"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "no".
-
-"DreamArtist"
-"./template/i18n/ks_JP/extensions/DreamArtist-sd-webui-extension.json" - "DreamArtist".
-
-"stable-diffusion-webui-state"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-state.json" - "stable-diffusion-webui-state".
-
-"Deforum"
-"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Deforum".
-
-"Output"
-"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Output".
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-text2prompt.json" - "Output".
-
-"Override settings"
-"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Override settings".
-
-"Blend"
-"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Blend".
-
-"Video"
-"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Video".
-
-"Save Settings"
-"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Save Settings".
-
-"Load Settings"
-"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Load Settings".
+"Checkpoints"
+"./template/i18n/ks_JP/extensions/sd-model-preview-xd.json" - "Checkpoints".
 
 "Inspiration"
 "./template/i18n/ks_JP/extensions/stable-diffusion-webui-inspiration.json" - "Inspiration".
 
-"artists"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-inspiration.json" - "artists".
-
 "Source"
 "./template/i18n/ks_JP/extensions/stable-diffusion-webui-inspiration.json" - "Source".
 
-"VRAM Estimator"
-"./template/i18n/ks_JP/extensions/a1111-stable-diffusion-webui-vram-estimator.json" - "VRAM Estimator".
+"training-picker"
+"./template/i18n/ks_JP/extensions/training-picker.json" - "training-picker".
 
-"Aspect Ratio Helper"
-"./template/i18n/ks_JP/extensions/sd-webui-aspect-ratio-helper.json" - "Aspect Ratio Helper".
+"Latent Couple"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-two-shot.json" - "Latent Couple".
 
-"Interrogate"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "Interrogate".
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Interrogate".
+"Image"
+"./template/i18n/ks_JP/extensions/a1111-sd-webui-haku-img.json" - "Image".
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Image".
+"./template/i18n/ks_JP/extensions/sd-webui-controlnet.json" - "Image".
+"./template/i18n/ks_JP/extensions/sd-webui-regional-prompter.json" - "Image".
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "Image".
+"./template/i18n/ks_JP/extensions/sd_dreambooth_extension.json" - "Image".
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "Image".
+"./template/i18n/ks_JP/extensions/DreamArtist-sd-webui-extension.json" - "Image".
 
-"Preset"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "Preset".
-
-"Reconstruct prompt from existing image and put it into the prompt field."
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-wd14-tagger.json" - "Reconstruct prompt from existing image and put it into the prompt field.".
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Reconstruct prompt from existing image and put it into the prompt field.".
-
-"seed"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "seed".
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "seed".
-
-"All"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "All".
-
-"Checkbox"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "Checkbox".
-
-"Number of rows on the page"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "Number of rows on the page".
-
-"Minimum number of pages per load"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "Minimum number of pages per load".
-
-"Bilingual Localization"
-"./template/i18n/ks_JP/extensions/sd-webui-bilingual-localization.json" - "Bilingual Localization".
-
-"Model"
-"./template/i18n/ks_JP/extensions/sd-3dmodel-loader.json" - "Model".
-"./template/i18n/ks_JP/extensions/sd-webui-controlnet.json" - "Model".
-"./template/i18n/ks_JP/extensions/sd-model-preview-xd.json" - "Model".
-"./template/i18n/ks_JP/extensions/sd-webui-additional-networks.json" - "Model".
-
-"Negative Prompt Weight"
-"./template/i18n/ks_JP/extensions/stable-diffusion-NPW.json" - "Negative Prompt Weight".
-
-"Dataset Tag Editor"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Dataset Tag Editor".
-
-"No"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "No".
-
-"Sort by"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Sort by".
-
-"Number"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Number".
-"./template/i18n/ks_JP/extensions/training-picker.json" - "Number".
-
-"Interrogator"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Interrogator".
-
-"Target"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Target".
-
-"txt"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "txt".
+"auto-sd-paint-ext"
+"./template/i18n/ks_JP/extensions/auto-sd-paint-ext.json" - "auto-sd-paint-ext".
 
 "Randomize"
 "./template/i18n/ks_JP/extensions/stable-diffusion-webui-randomize.json" - "Randomize".
 
-"NONE"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-text2prompt.json" - "NONE".
+"Model"
+"./template/i18n/ks_JP/extensions/sd-3dmodel-loader.json" - "Model".
+"./template/i18n/ks_JP/extensions/sd-webui-controlnet.json" - "Model".
+"./template/i18n/ks_JP/extensions/sd_dreambooth_extension.json" - "Model".
+"./template/i18n/ks_JP/extensions/sd-webui-additional-networks.json" - "Model".
 
-"Aesthetic Image Scorer"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "Aesthetic Image Scorer".
+"VRAM Estimator"
+"./template/i18n/ks_JP/extensions/a1111-stable-diffusion-webui-vram-estimator.json" - "VRAM Estimator".
 
-"aesthetic_score"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "aesthetic_score".
+"Auto Translate"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "Auto Translate".
 
-"sampler"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "sampler".
-
-"cfg_scale"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "cfg_scale".
+"Text"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-auto-translate-language.json" - "Text".
 
 "Enable"
 "./template/i18n/ks_JP/extensions/multidiffusion-upscaler-for-automatic1111.json" - "Enable".
 "./template/i18n/ks_JP/extensions/sd-webui-controlnet.json" - "Enable".
 "./template/i18n/ks_JP/extensions/sd-webui-additional-networks.json" - "Enable".
 
-"Latent Mirroring"
-"./template/i18n/ks_JP/extensions/SD-latent-mirroring.json" - "Latent Mirroring".
+"Bilingual Localization"
+"./template/i18n/ks_JP/extensions/sd-webui-bilingual-localization.json" - "Bilingual Localization".
 
-"ControlNet"
-"./template/i18n/ks_JP/extensions/sd-webui-controlnet.json" - "ControlNet".
+"Dataset Tag Editor"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Dataset Tag Editor".
+
+"Number"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Number".
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "Number".
+
+"Interrogator"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Interrogator".
+
+"Interrogate"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Interrogate".
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "Interrogate".
+
+"Target"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Target".
+
+"Reconstruct prompt from existing image and put it into the prompt field."
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-dataset-tag-editor.json" - "Reconstruct prompt from existing image and put it into the prompt field.".
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "Reconstruct prompt from existing image and put it into the prompt field.".
+
+"Linear"
+"./template/i18n/ks_JP/extensions/seed_travel.json" - "Linear".
+"./template/i18n/ks_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Linear".
+
+"stable-diffusion-webui-state"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-state.json" - "stable-diffusion-webui-state".
 
 "sd-webui-controlnet"
 "./template/i18n/ks_JP/extensions/sd-webui-controlnet.json" - "sd-webui-controlnet".
-
-"Weight"
-"./template/i18n/ks_JP/extensions/sd-webui-controlnet.json" - "Weight".
-"./template/i18n/ks_JP/extensions/sd-webui-llul.json" - "Weight".
 
 "Canvas Width"
 "./template/i18n/ks_JP/extensions/sd-webui-controlnet.json" - "Canvas Width".
@@ -186,11 +94,17 @@
 "Canvas Height"
 "./template/i18n/ks_JP/extensions/sd-webui-controlnet.json" - "Canvas Height".
 
-"Directories"
-"./template/i18n/ks_JP/extensions/sd_smartprocess.json" - "Directories".
+"LLuL"
+"./template/i18n/ks_JP/extensions/sd-webui-llul.json" - "LLuL".
 
-"Cancel"
-"./template/i18n/ks_JP/extensions/sd_smartprocess.json" - "Cancel".
+"Enabled"
+"./template/i18n/ks_JP/extensions/sd-webui-llul.json" - "Enabled".
+"./template/i18n/ks_JP/extensions/sd-webui-cutoff.json" - "Enabled".
+"./template/i18n/ks_JP/extensions/unprompted.json" - "Enabled".
+
+"Weight"
+"./template/i18n/ks_JP/extensions/sd-webui-llul.json" - "Weight".
+"./template/i18n/ks_JP/extensions/sd-webui-cutoff.json" - "Weight".
 
 "Regional Prompter"
 "./template/i18n/ks_JP/extensions/sd-webui-regional-prompter.json" - "Regional Prompter".
@@ -201,49 +115,63 @@
 "Vertical"
 "./template/i18n/ks_JP/extensions/sd-webui-regional-prompter.json" - "Vertical".
 
+"posex"
+"./template/i18n/ks_JP/extensions/posex.json" - "posex".
+
+"Single"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "Single".
+
+"Image Directory"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "Image Directory".
+
+"Output Directory"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "Output Directory".
+
+"Status"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "Status".
+"./template/i18n/ks_JP/extensions/Abysz-LAB-Ext.json" - "Status".
+
+"Idle"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "Idle".
+
+"path/to/output"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "path/to/output".
+
+"txt"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-blip2-captioner.json" - "txt".
+
+"Dreambooth"
+"./template/i18n/ks_JP/extensions/sd_dreambooth_extension.json" - "Dreambooth".
+
+"Name"
+"./template/i18n/ks_JP/extensions/sd_dreambooth_extension.json" - "Name".
+
+"linear"
+"./template/i18n/ks_JP/extensions/sd_dreambooth_extension.json" - "linear".
+
+"no"
+"./template/i18n/ks_JP/extensions/sd_dreambooth_extension.json" - "no".
+
+"Path to directory with input images"
+"./template/i18n/ks_JP/extensions/sd_dreambooth_extension.json" - "Path to directory with input images".
+
+"Latent Mirroring"
+"./template/i18n/ks_JP/extensions/SD-latent-mirroring.json" - "Latent Mirroring".
+
 "Abysz LAB"
 "./template/i18n/ks_JP/extensions/Abysz-LAB-Ext.json" - "Abysz LAB".
 
 "Advanced"
 "./template/i18n/ks_JP/extensions/Abysz-LAB-Ext.json" - "Advanced".
 
-"Status"
-"./template/i18n/ks_JP/extensions/Abysz-LAB-Ext.json" - "Status".
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Status".
+"novelai-2-local-prompt"
+"./template/i18n/ks_JP/extensions/novelai-2-local-prompt.json" - "novelai-2-local-prompt".
 
-"|"
-"./template/i18n/ks_JP/extensions/Abysz-LAB-Ext.json" - "|".
+"Directories"
+"./template/i18n/ks_JP/extensions/sd_smartprocess.json" - "Directories".
 
-"sd-webui-tunnels"
-"./template/i18n/ks_JP/extensions/sd-webui-tunnels.json" - "sd-webui-tunnels".
-
-"Booru tag autocompletion"
-"./template/i18n/ks_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Booru tag autocompletion".
-
-"/"
-"./template/i18n/ks_JP/extensions/auto-sd-paint-ext.json" - "/".
-
-"!"
-"./template/i18n/ks_JP/extensions/auto-sd-paint-ext.json" - "!".
-
-"The"
-"./template/i18n/ks_JP/extensions/auto-sd-paint-ext.json" - "The".
-
-"auto-sd-paint-ext"
-"./template/i18n/ks_JP/extensions/auto-sd-paint-ext.json" - "auto-sd-paint-ext".
-
-"Linear"
-"./template/i18n/ks_JP/extensions/ultimate-upscale-for-automatic1111.json" - "Linear".
-"./template/i18n/ks_JP/extensions/seed_travel.json" - "Linear".
-
-"Process"
-"./template/i18n/ks_JP/extensions/training-picker.json" - "Process".
-
-"training-picker"
-"./template/i18n/ks_JP/extensions/training-picker.json" - "training-picker".
-
-"shift-attention"
-"./template/i18n/ks_JP/extensions/shift-attention.json" - "shift-attention".
+"Cancel"
+"./template/i18n/ks_JP/extensions/sd_smartprocess.json" - "Cancel".
 
 "OpenPose Editor"
 "./template/i18n/ks_JP/extensions/openpose-editor.json" - "OpenPose Editor".
@@ -260,20 +188,70 @@
 "Send to"
 "./template/i18n/ks_JP/extensions/openpose-editor.json" - "Send to".
 
-"Checkpoints"
-"./template/i18n/ks_JP/extensions/sd-model-preview-xd.json" - "Checkpoints".
+"Sort by"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "Sort by".
 
-"novelai-2-local-prompt"
-"./template/i18n/ks_JP/extensions/novelai-2-local-prompt.json" - "novelai-2-local-prompt".
+"seed"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "seed".
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "seed".
 
-"posex"
-"./template/i18n/ks_JP/extensions/posex.json" - "posex".
+"No"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "No".
 
-"Remove background"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-rembg.json" - "Remove background".
+"All"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "All".
 
-"stable-diffusion-webui-rembg"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-rembg.json" - "stable-diffusion-webui-rembg".
+"Checkbox"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "Checkbox".
+
+"Number of rows on the page"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "Number of rows on the page".
+
+"Minimum number of pages per load"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-images-browser.json" - "Minimum number of pages per load".
+
+"|"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-artists-to-study.json" - "|".
+
+"Negative Prompt Weight"
+"./template/i18n/ks_JP/extensions/stable-diffusion-NPW.json" - "Negative Prompt Weight".
+
+"Deforum"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Deforum".
+
+"!"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "!".
+
+"ControlNet"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "ControlNet".
+
+"Output"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Output".
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-text2prompt.json" - "Output".
+
+"Override settings"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Override settings".
+
+"The"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "The".
+
+"Blend"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Blend".
+
+"Video"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Video".
+
+"Preset"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Preset".
+
+"/"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "/".
+
+"Save Settings"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Save Settings".
+
+"Load Settings"
+"./template/i18n/ks_JP/extensions/deforum-for-automatic1111-webui.json" - "Load Settings".
 
 "Description"
 "./template/i18n/ks_JP/extensions/sd-webui-additional-networks.json" - "Description".
@@ -290,13 +268,47 @@
 "path name"
 "./template/i18n/ks_JP/extensions/sd-webui-additional-networks.json" - "path name".
 
-"Latent Couple"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-two-shot.json" - "Latent Couple".
+"Booru tag autocompletion"
+"./template/i18n/ks_JP/extensions/a1111-sd-webui-tagcomplete.json" - "Booru tag autocompletion".
 
-"Enabled"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-two-shot.json" - "Enabled".
-"./template/i18n/ks_JP/extensions/unprompted.json" - "Enabled".
-"./template/i18n/ks_JP/extensions/sd-webui-llul.json" - "Enabled".
+"NONE"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-text2prompt.json" - "NONE".
+
+"Aspect Ratio Helper"
+"./template/i18n/ks_JP/extensions/sd-webui-aspect-ratio-helper.json" - "Aspect Ratio Helper".
+
+"DreamArtist"
+"./template/i18n/ks_JP/extensions/DreamArtist-sd-webui-extension.json" - "DreamArtist".
+
+"Prompt template file"
+"./template/i18n/ks_JP/extensions/DreamArtist-sd-webui-extension.json" - "Prompt template file".
+
+"Process"
+"./template/i18n/ks_JP/extensions/DreamArtist-sd-webui-extension.json" - "Process".
+
+"Show generated images in ui"
+"./template/i18n/ks_JP/extensions/shift-attention.json" - "Show generated images in ui".
+
+"Save results as video"
+"./template/i18n/ks_JP/extensions/shift-attention.json" - "Save results as video".
+
+"Frames per second"
+"./template/i18n/ks_JP/extensions/shift-attention.json" - "Frames per second".
+
+"Number of frames for lead in/out"
+"./template/i18n/ks_JP/extensions/shift-attention.json" - "Number of frames for lead in/out".
+
+"Upscale ratio"
+"./template/i18n/ks_JP/extensions/shift-attention.json" - "Upscale ratio".
+
+"shift-attention"
+"./template/i18n/ks_JP/extensions/shift-attention.json" - "shift-attention".
+
+"Lerp"
+"./template/i18n/ks_JP/extensions/sd-webui-cutoff.json" - "Lerp".
+
+"SLerp"
+"./template/i18n/ks_JP/extensions/sd-webui-cutoff.json" - "SLerp".
 
 "Unprompted"
 "./template/i18n/ks_JP/extensions/unprompted.json" - "Unprompted".
@@ -310,47 +322,35 @@
 "Image path"
 "./template/i18n/ks_JP/extensions/unprompted.json" - "Image path".
 
-"Prompt template file"
-"./template/i18n/ks_JP/extensions/Hypernetwork-MonkeyPatch-Extension.json" - "Prompt template file".
+"Aesthetic Image Scorer"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "Aesthetic Image Scorer".
 
-"Single"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Single".
+"aesthetic_score"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "aesthetic_score".
 
-"Image Directory"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Image Directory".
+"sampler"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "sampler".
 
-"Output Directory"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Output Directory".
+"cfg_scale"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-aesthetic-image-scorer.json" - "cfg_scale".
 
-"Idle"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "Idle".
+"Remove background"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-rembg.json" - "Remove background".
 
-"path/to/output"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-cafe-aesthetic.json" - "path/to/output".
+"stable-diffusion-webui-rembg"
+"./template/i18n/ks_JP/extensions/stable-diffusion-webui-rembg.json" - "stable-diffusion-webui-rembg".
 
-"Save results as video"
-"./template/i18n/ks_JP/extensions/seed_travel.json" - "Save results as video".
+"sd-webui-tunnels"
+"./template/i18n/ks_JP/extensions/sd-webui-tunnels.json" - "sd-webui-tunnels".
 
-"Frames per second"
-"./template/i18n/ks_JP/extensions/seed_travel.json" - "Frames per second".
+"Dynamic Prompts"
+"./template/i18n/ks_JP/extensions/sd-dynamic-prompts.json" - "Dynamic Prompts".
 
-"Number of frames for lead in/out"
-"./template/i18n/ks_JP/extensions/seed_travel.json" - "Number of frames for lead in/out".
+"tab"
+"./template/i18n/ks_JP/extensions/sd-dynamic-prompts.json" - "tab".
 
-"Upscale ratio"
-"./template/i18n/ks_JP/extensions/seed_travel.json" - "Upscale ratio".
+"artists"
+"./template/i18n/ks_JP/extensions/sd-dynamic-prompts.json" - "artists".
 
-"Show generated images in ui"
-"./template/i18n/ks_JP/extensions/seed_travel.json" - "Show generated images in ui".
-
-"Text"
-"./template/i18n/ks_JP/extensions/stable-diffusion-webui-tokenizer.json" - "Text".
-
-"LLuL"
-"./template/i18n/ks_JP/extensions/sd-webui-llul.json" - "LLuL".
-
-"Lerp"
-"./template/i18n/ks_JP/extensions/sd-webui-llul.json" - "Lerp".
-
-"SLerp"
-"./template/i18n/ks_JP/extensions/sd-webui-llul.json" - "SLerp".
+"Action"
+"./template/i18n/ks_JP/extensions/sd-dynamic-prompts.json" - "Action".
